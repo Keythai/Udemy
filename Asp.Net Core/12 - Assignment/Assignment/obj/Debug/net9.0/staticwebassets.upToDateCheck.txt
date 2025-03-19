@@ -1,0 +1,2 @@
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\wwwroot\StyleSheet.css
+wwwroot\StyleSheet.css

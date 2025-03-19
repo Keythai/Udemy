@@ -1,0 +1,32 @@
+﻿@model List<CityWeather>
+@{
+	ViewBag.Title = "Weather";
+}
+
+<div class="page-content margin-top-200 margin-left">
+	<div class="flex">
+		@foreach (CityWeather cityWeather in @Model)
+		{
+			string baseClass = "box cursor-pointer w-30";
+			if (cityWeather.TemperatureFahrenheit < 44)
+				baseClass += " blue-back";
+			else if (cityWeather.TemperatureFahrenheit > 74)
+				baseClass += " orange-back";
+			else
+				baseClass += " green-back";
+		
+		<div class="@baseClass">
+			<div class="flex-borderless">
+				<div class="w-50">
+						<h2>@cityWeather.CityName</h2>
+						<h4 class="text-dark-grey">@cityWeather.DateAndTime?.ToString("hh:mm tt", CultureInfo.InvariantCulture)</h4>
+					<a href="#" class="margin-top">Details</a>
+				</div>
+				<div class="w-50 border-left">
+						<h1 class="margin-left">@cityWeather.TemperatureFahrenheit <sup class="text-grey">°F</sup></h1>
+				</div>
+			</div>
+		</div>
+		}
+	</div>
+</div>
