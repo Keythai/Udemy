@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9ZQL9kBgTk/WSCVV81nAeQzEN5SqYEZr6l864jlXKOg=",
+  "Hash": "qaPeDIqUrpWwD+wNaQTHyn62IhAI+ATCE3XSbKf0u0M=",
   "Source": "13-2 Assignment",
   "BasePath": "_content/13-2 Assignment",
   "Mode": "Default",
@@ -10,17 +10,38 @@
     {
       "Name": "13-2 Assignment\\wwwroot",
       "Source": "13-2 Assignment",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\",
       "BasePath": "_content/13-2 Assignment",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
+      "Identity": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\618hos44yb-3ley7fiezv.gz",
       "SourceId": "13-2 Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/13-2 Assignment",
+      "RelativePath": "Scripts/FinnhubScript#[.{fingerprint=3ley7fiezv}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\Scripts\\FinnhubScript.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wbggxgovpe",
+      "Integrity": "VAh4TdXB27mgckX2yTuQsgu7nh8F87sYg8jODttx6Us=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
+      "SourceId": "13-2 Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/13-2 Assignment",
       "RelativePath": "StyleSheet#[.{fingerprint=okagqheipi}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +49,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css",
+      "RelatedAsset": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "1fw1zvuqsf",
       "Integrity": "XZnaID8qpqBG4fi/AMy+G5NQugxEpdoAhr7IxrcmpY4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css"
+      "OriginalItemSpec": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css",
+      "Identity": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\Scripts\\FinnhubScript.js",
       "SourceId": "13-2 Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\",
+      "BasePath": "_content/13-2 Assignment",
+      "RelativePath": "Scripts/FinnhubScript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ley7fiezv",
+      "Integrity": "VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css",
+      "SourceId": "13-2 Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\",
       "BasePath": "_content/13-2 Assignment",
       "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -61,8 +103,306 @@
   ],
   "Endpoints": [
     {
+      "Route": "Scripts/FinnhubScript.3ley7fiezv.js",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\618hos44yb-3ley7fiezv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002109704641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VAh4TdXB27mgckX2yTuQsgu7nh8F87sYg8jODttx6Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ley7fiezv"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/FinnhubScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.3ley7fiezv.js",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\Scripts\\FinnhubScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ley7fiezv"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/FinnhubScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.3ley7fiezv.js.gz",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\618hos44yb-3ley7fiezv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VAh4TdXB27mgckX2yTuQsgu7nh8F87sYg8jODttx6Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ley7fiezv"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/FinnhubScript.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VAh4TdXB27mgckX2yTuQsgu7nh8F87sYg8jODttx6Us="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.js",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\618hos44yb-3ley7fiezv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002109704641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VAh4TdXB27mgckX2yTuQsgu7nh8F87sYg8jODttx6Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.js",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\Scripts\\FinnhubScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.js.gz",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\618hos44yb-3ley7fiezv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VAh4TdXB27mgckX2yTuQsgu7nh8F87sYg8jODttx6Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VAh4TdXB27mgckX2yTuQsgu7nh8F87sYg8jODttx6Us="
+        }
+      ]
+    },
+    {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -85,7 +425,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 12:08:44 GMT"
+          "Value": "Sun, 23 Mar 2025 15:07:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -117,7 +457,7 @@
     },
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -138,7 +478,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 12:08:44 GMT"
+          "Value": "Sun, 23 Mar 2025 15:07:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -154,7 +494,7 @@
     },
     {
       "Route": "StyleSheet.css.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -175,7 +515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 12:08:44 GMT"
+          "Value": "Sun, 23 Mar 2025 15:07:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -199,7 +539,7 @@
     },
     {
       "Route": "StyleSheet.okagqheipi.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -222,7 +562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 12:08:44 GMT"
+          "Value": "Sun, 23 Mar 2025 15:07:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -262,7 +602,7 @@
     },
     {
       "Route": "StyleSheet.okagqheipi.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -283,7 +623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 12:08:44 GMT"
+          "Value": "Sun, 23 Mar 2025 15:07:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -307,7 +647,7 @@
     },
     {
       "Route": "StyleSheet.okagqheipi.css.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\13-2 Assignment\\obj\\Debug\\net9.0\\compressed\\huoiv1a6ww-okagqheipi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -328,7 +668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 12:08:44 GMT"
+          "Value": "Sun, 23 Mar 2025 15:07:37 GMT"
         },
         {
           "Name": "Cache-Control",

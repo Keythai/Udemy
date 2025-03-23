@@ -29,10 +29,11 @@ namespace _13_2_Assignment.Controllers
                 stockTrade = new StockTrade()
                 {
                     Price = Convert.ToDouble(stockQuoteDictionary["c"].ToString()),
-                    StockName = "",
-                    StockSymbol = ""
+                    StockName = companyProfileDictionary["name"].ToString(),
+                    StockSymbol = companyProfileDictionary["ticker"].ToString()
                 };
             }
+            ViewBag.Token = _configuration["FinnhubToken"];
             return View(stockTrade);
         }
     }

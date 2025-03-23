@@ -1,16 +1,28 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/13-2 Assignment/Scripts/FinnhubScript.3ley7fiezv.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\FinnhubScript.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3ley7fiezv"},{"Name":"integrity","Value":"sha256-VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo="},{"Name":"label","Value":"_content/13-2 Assignment/Scripts/FinnhubScript.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1019"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 23 Mar 2025 15:43:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/13-2 Assignment/Scripts/FinnhubScript.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\FinnhubScript.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1019"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 23 Mar 2025 15:43:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/13-2 Assignment/StyleSheet.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StyleSheet.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8423"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 23 Mar 2025 12:08:44 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8423"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 23 Mar 2025 15:07:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/13-2 Assignment/StyleSheet.okagqheipi.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StyleSheet.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"okagqheipi"},{"Name":"integrity","Value":"sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="},{"Name":"label","Value":"_content/13-2 Assignment/StyleSheet.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8423"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 23 Mar 2025 12:08:44 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8423"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 23 Mar 2025 15:07:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

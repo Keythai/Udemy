@@ -1,0 +1,1 @@
+D:\.Net project\udemy\asp.net\Udemy\Asp.Net Core\13-2 Assignment\wwwroot\FinnhubScript.js
