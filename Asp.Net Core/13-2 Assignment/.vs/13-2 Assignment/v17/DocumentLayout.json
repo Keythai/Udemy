@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\models\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:models\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,15 +35,7 @@
       "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\models\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:models\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\e0d1eacd-0802-4541-9ade-d61aabfc411d\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|solutionrelative:models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA5AA348-B012-4C4B-AFC3-9CCB292D61F4}|13-2 Assignment.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\13-2 assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -83,79 +83,39 @@
               "RelativeDocumentMoniker": "Views\\Trade\\Index.cshtml",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Views\\Trade\\Index.cshtml",
               "RelativeToolTip": "Views\\Trade\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T12:50:57.673Z",
+              "WhenOpened": "2025-03-27T11:44:30.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TradeController.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Controllers\\TradeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TradeController.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Controllers\\TradeController.cs",
-              "RelativeToolTip": "Controllers\\TradeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:50:29.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IFinnhubService.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\ServiceContracts\\IFinnhubService.cs",
-              "RelativeDocumentMoniker": "ServiceContracts\\IFinnhubService.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\ServiceContracts\\IFinnhubService.cs",
-              "RelativeToolTip": "ServiceContracts\\IFinnhubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:14:54.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FinnhubService.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Services\\FinnhubService.cs",
               "RelativeDocumentMoniker": "Services\\FinnhubService.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Services\\FinnhubService.cs",
               "RelativeToolTip": "Services\\FinnhubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T12:14:30.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:12:46.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T12:12:46.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T12:12:04.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "TradingOptions.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Models\\TradingOptions.cs",
               "RelativeDocumentMoniker": "Models\\TradingOptions.cs",
@@ -163,25 +123,11 @@
               "RelativeToolTip": "Models\\TradingOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:19:08.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:19:08.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\e0d1eacd-0802-4541-9ade-d61aabfc411d\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\e0d1eacd-0802-4541-9ade-d61aabfc411d\\secrets.json",
-              "ToolTip": "C:\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\e0d1eacd-0802-4541-9ade-d61aabfc411d\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\e0d1eacd-0802-4541-9ade-d61aabfc411d\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T13:43:05.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "StockTrade.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Models\\StockTrade.cs",
               "RelativeDocumentMoniker": "Models\\StockTrade.cs",
@@ -189,8 +135,55 @@
               "RelativeToolTip": "Models\\StockTrade.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:47:00.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T12:47:00.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IFinnhubService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "ServiceContracts\\IFinnhubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:14:54.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TradeController.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "Controllers\\TradeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:50:29.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\13-2 Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:12:04.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\e0d1eacd-0802-4541-9ade-d61aabfc411d\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\e0d1eacd-0802-4541-9ade-d61aabfc411d\\secrets.json",
+              "ToolTip": "C:\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\e0d1eacd-0802-4541-9ade-d61aabfc411d\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\e0d1eacd-0802-4541-9ade-d61aabfc411d\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T13:43:05.945Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T12:12:20.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T12:12:20.238Z"
             },
             {
               "$type": "Document",
@@ -215,8 +207,7 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T12:12:13.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T12:12:13.243Z"
             },
             {
               "$type": "Document",
@@ -228,8 +219,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T12:18:57.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T12:18:57.232Z"
             },
             {
               "$type": "Document",
@@ -241,8 +231,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T12:19:11.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T12:19:11.161Z"
             }
           ]
         },
