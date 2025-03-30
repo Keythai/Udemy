@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entities;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace ServiceContracts.DTO
@@ -35,6 +36,28 @@ namespace ServiceContracts.DTO
         public override int GetHashCode()
         {
             return base.GetHashCode();
+        }
+    }
+
+    public static class BuyOrderExtension
+    {
+        /// <summary>
+        /// Convert BuyOrder to BuyOrderResponse
+        /// </summary>
+        /// <param name="buyOrder">BuyOrder object to convert</param>
+        /// <returns>BuyOrderResponse with converted BuyOrder object data</returns>
+        public static BuyOrderResponse ToBuyOrderResponse(this BuyOrder buyOrder)
+        {
+            return new BuyOrderResponse
+            {
+                BuyOrderID = buyOrder.BuyOrderID,
+                StockSymbol = buyOrder.StockSymbol,
+                StockName = buyOrder.StockName,
+                DateAndTimeOfOrder = buyOrder.DateAndTimeOfOrder,
+                Quantity = buyOrder.Quantity,
+                Price = buyOrder.Price,
+                TradeAmount = buyOrder.Quantity * buyOrder.Price
+            };
         }
     }
 }

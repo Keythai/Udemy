@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Entities;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace ServiceContracts.DTO
 {
     public class SellOrderResponse
     {
-        public Guid BuyOrderID { get; set; }
+        public Guid SellOrderID { get; set; }
         [Required(ErrorMessage = "Stock symbol cannot be blank")]
         public string? StockSymbol { get; set; }
         [Required(ErrorMessage = "Stock name cannot be blank")]
@@ -23,7 +24,7 @@ namespace ServiceContracts.DTO
             if (obj == null) return false;
             if (obj.GetType() != typeof(SellOrderResponse)) return false;
             SellOrderResponse order_to_compare = (SellOrderResponse)obj;
-            return BuyOrderID == order_to_compare.BuyOrderID &&
+            return SellOrderID == order_to_compare.SellOrderID &&
                 StockSymbol == order_to_compare.StockSymbol &&
                 StockName == order_to_compare.StockName &&
                 DateAndTimeOfOrder == order_to_compare.DateAndTimeOfOrder &&
@@ -35,6 +36,28 @@ namespace ServiceContracts.DTO
         public override int GetHashCode()
         {
             return base.GetHashCode();
+        }
+    }
+
+    public static class SellOrderExtension
+    {
+        /// <summary>
+        /// Convert SellOrder to SellOrderResponse
+        /// </summary>
+        /// <param name="sellOrder">SellOrder object to convert</param>
+        /// <returns>SellOrderResponse with converted SellOrder object data</returns>
+        public static SellOrderResponse ToSellOrderResponse(this SellOrder sellOrder)
+        {
+            return new SellOrderResponse
+            {
+                SellOrderID = sellOrder.SellOrderID,
+                StockSymbol = sellOrder.StockSymbol,
+                StockName = sellOrder.StockName,
+                DateAndTimeOfOrder = sellOrder.DateAndTimeOfOrder,
+                Quantity = sellOrder.Quantity,
+                Price = sellOrder.Price,
+                TradeAmount = sellOrder.Quantity * sellOrder.Price
+            };
         }
     }
 }

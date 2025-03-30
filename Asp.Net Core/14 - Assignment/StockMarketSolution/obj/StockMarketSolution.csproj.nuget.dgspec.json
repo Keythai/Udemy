@@ -98,7 +98,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

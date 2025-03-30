@@ -14,3 +14,5 @@ C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\Services\obj
 C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\Services\obj\Debug\net9.0\refint\Services.dll
 C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\Services\obj\Debug\net9.0\Services.pdb
 C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\Services\obj\Debug\net9.0\ref\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\Services\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\Services\bin\Debug\net9.0\Entities.pdb

@@ -116,3 +116,5 @@ C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\XUnitTest\ob
 C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\XUnitTest\obj\Debug\net9.0\XUnitTest.pdb
 C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\XUnitTest\obj\Debug\net9.0\XUnitTest.genruntimeconfig.cache
 C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\XUnitTest\obj\Debug\net9.0\ref\XUnitTest.dll
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\XUnitTest\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\14 - Assignment\XUnitTest\bin\Debug\net9.0\Entities.pdb

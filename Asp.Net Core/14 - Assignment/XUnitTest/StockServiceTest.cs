@@ -136,7 +136,7 @@ namespace XUnitTest
             };
 
             //Assert
-            Assert.Throws<ArgumentNullException>(() =>
+            Assert.Throws<ArgumentException>(() =>
             {
                 //Act
                 _stockService.CreateBuyOrder(buyOrderRequest);
@@ -158,7 +158,7 @@ namespace XUnitTest
             };
 
             //Assert
-            Assert.Throws<ArgumentNullException>(() =>
+            Assert.Throws<ArgumentException>(() =>
             {
                 //Act
                 _stockService.CreateBuyOrder(buyOrderRequest);
@@ -309,7 +309,7 @@ namespace XUnitTest
             };
 
             //Assert
-            Assert.Throws<ArgumentNullException>(() =>
+            Assert.Throws<ArgumentException>(() =>
             {
                 //Act
                 _stockService.CreateSellOrder(sellOrderRequest);
@@ -331,7 +331,7 @@ namespace XUnitTest
             };
 
             //Assert
-            Assert.Throws<ArgumentNullException>(() =>
+            Assert.Throws<ArgumentException>(() =>
             {
                 //Act
                 _stockService.CreateSellOrder(sellOrderRequest);
@@ -357,7 +357,7 @@ namespace XUnitTest
             List<SellOrderResponse> allOrders = _stockService.GetSellOrders();
 
             //Assert
-            Assert.NotEqual(Guid.Empty, sellOrderResponse.BuyOrderID);
+            Assert.NotEqual(Guid.Empty, sellOrderResponse.SellOrderID);
             Assert.Contains(sellOrderResponse, allOrders);
         }
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entities;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace ServiceContracts.DTO
@@ -15,5 +16,16 @@ namespace ServiceContracts.DTO
         public uint Quantity { get; set; }
         [Range(1, 10000, ErrorMessage = "Price must be between 1 and 10000")]
         public double Price { get; set; }
+        public SellOrder ToSellOrder()
+        {
+            return new SellOrder
+            {
+                StockSymbol = StockSymbol,
+                StockName = StockName,
+                DateAndTimeOfOrder = DateAndTimeOfOrder,
+                Quantity = Quantity,
+                Price = Price
+            };
+        }
     }
 }
