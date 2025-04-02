@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3ley7fiezv</Fingerprint>
-      <Integrity>VyFhuNcb9spzWTURTdeNkA5/p/xyCorYMG2GQWqkXEo=</Integrity>
+      <Fingerprint>hdjpv1gszj</Fingerprint>
+      <Integrity>VVFGAmDwWXw9tcTgRQk/uYGaxa0H0YenfkalriW51WM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\FinnhubScript.js'))</OriginalItemSpec>

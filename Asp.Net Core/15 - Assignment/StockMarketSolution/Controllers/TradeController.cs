@@ -47,7 +47,60 @@ namespace StockMarketSolution.Controllers
         [HttpPost]
         public IActionResult BuyOrder(BuyOrderRequest buyOrderRequest)
         {
-            return RedirectToAction("Index", "Trade");
+            buyOrderRequest.DateAndTimeOfOrder = DateTime.Now;
+            ModelState.Clear();
+            bool isValid = TryValidateModel(buyOrderRequest);
+            if (!isValid) { 
+                ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
+                return View("Index", new StockTrade()
+                {
+                    StockName = buyOrderRequest.StockName,
+                    StockSymbol = buyOrderRequest.StockSymbol,
+                    Price = buyOrderRequest.Price,
+                    Quantity = buyOrderRequest.Quantity
+                }); 
+            }
+
+            _stocksService.CreateBuyOrder(buyOrderRequest);
+            return RedirectToAction(nameof(Orders));
+        }
+
+        [Route("[action]")]
+        [HttpPost]
+        public IActionResult SellOrder(SellOrderRequest sellOrderRequest)
+        {
+            sellOrderRequest.DateAndTimeOfOrder = DateTime.Now;
+            ModelState.Clear();
+            bool isValid = TryValidateModel(sellOrderRequest);
+            if (!isValid)
+            {
+                ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
+                return View("Index", new StockTrade()
+                {
+                    StockName = sellOrderRequest.StockName,
+                    StockSymbol = sellOrderRequest.StockSymbol,
+                    Price = sellOrderRequest.Price,
+                    Quantity = sellOrderRequest.Quantity
+                });
+            }
+
+            _stocksService.CreateSellOrder(sellOrderRequest);
+            return RedirectToAction(nameof(Orders));
+        }
+
+        [Route("[action]")]
+        [HttpGet]
+        public IActionResult Orders()
+        {
+            List<BuyOrderResponse> buyOrderResponse = _stocksService.GetBuyOrders();
+            Orders orders = new Orders()
+            {
+                BuyOrders = _stocksService.GetBuyOrders(),
+                SellOrders = _stocksService.GetSellOrders()
+            };
+            return View(orders);
         }
     }
 }
+
+

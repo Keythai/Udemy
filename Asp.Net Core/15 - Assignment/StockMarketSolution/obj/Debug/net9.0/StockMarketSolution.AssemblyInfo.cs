@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockMarketSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6d9967fe26a5985429745ce06e3a43ccec47509")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fff7404b82efdc25605fbd587a67623cba9c7ead")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockMarketSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockMarketSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

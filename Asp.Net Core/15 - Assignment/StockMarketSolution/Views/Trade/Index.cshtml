@@ -1,4 +1,9 @@
-﻿@model StockTrade
+﻿@{
+	ViewBag.Title = "Trade Page";
+	ViewBag.CurrentUrl = "~/trade/index";
+	ViewBag.PrintedUrl = "Microsoft Corp";
+}
+@model StockTrade
 
 <form method="post">
 <div class="box trading-panel">
@@ -28,6 +33,16 @@
 					<i class="fa-solid fa-arrow-up"></i>
 					<span>Buy</span>
 				</button>
+				@if(ViewBag.Errors != null){
+					<div class="text-red mt">
+						<ul>
+								@foreach (var error in ViewBag.Errors)
+								{
+									<li>@error</li>
+								}
+						</ul>
+					</div>
+				}
 			</div>
 		</div>
 	</div>

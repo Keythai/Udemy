@@ -25,6 +25,35 @@
 					</div>
 				</div>
 			</div>
+			<div class="navbar mb">
+				<ul>
+					@if (ViewBag.CurrentUrl == "~/trade/index")
+					{
+						<li class="nav-active"><a href="~/trade/index">Trade</a></li>
+					}
+					else
+					{
+						<li><a href="~/trade/index">Trade</a></li>
+					}
+					@if (ViewBag.CurrentUrl == "~/trade/orders")
+					{
+						<li class="nav-active"><a href="~/trade/orders">Orders</a></li>
+					}
+					else
+					{
+						<li><a href="~/trade/orders">Orders</a></li>
+					}
+				</ul>
+			</div>
+			<div class="flex">
+				<div class="flex-1">
+					<div class="text-grey ml">
+						<span>Stocks</span>
+						<i class="fa-solid fa-caret-right"></i>
+						<span>@ViewBag.PrintedUrl</span>
+					</div>
+				</div>
+			</div>
 			@RenderBody()
 		</div>
 	</div>
