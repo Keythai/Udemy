@@ -1,4 +1,0 @@
-D:\.Net project\udemy\asp.net\Udemy\Asp.Net Core\15 - Assignment\StockMarketSolution\wwwroot\StyleSheet.css
-D:\.Net project\udemy\asp.net\Udemy\Asp.Net Core\15 - Assignment\StockMarketSolution\wwwroot\Scripts\FinnhubScript.js
-wwwroot\Scripts\FinnhubScript.js
-wwwroot\StyleSheet.css
