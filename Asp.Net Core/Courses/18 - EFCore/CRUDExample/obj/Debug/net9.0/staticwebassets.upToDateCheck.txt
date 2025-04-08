@@ -1,7 +1,7 @@
-C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDExample\wwwroot\Scripts\jquery.validate.unobtrusive.min.js
-C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDExample\wwwroot\StyleSheet.css
-C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDExample\wwwroot\Scripts\jquery.min.js
-C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDExample\wwwroot\Scripts\jquery.validate.min.js
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDExample\wwwroot\Scripts\jquery.validate.unobtrusive.min.js
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDExample\wwwroot\StyleSheet.css
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDExample\wwwroot\Scripts\jquery.min.js
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDExample\wwwroot\Scripts\jquery.validate.min.js
 wwwroot\logo.jpg
 wwwroot\Rotativa\wkhtmltopdf.exe
 wwwroot\Scripts\jquery.min.js

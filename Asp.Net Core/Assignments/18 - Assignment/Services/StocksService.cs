@@ -12,12 +12,10 @@ namespace Services
 {
     public class StocksService : IStocksService
     {
-        private readonly List<BuyOrder> _buyOrders;
-        private readonly List<SellOrder> _sellOrders;
-        public StocksService()
+        private readonly StockMarketDbContext _context;
+        public StocksService(StockMarketDbContext context)
         {
-            _buyOrders = new List<BuyOrder>();
-            _sellOrders = new List<SellOrder>();
+            _context = context;
         }
         public BuyOrderResponse CreateBuyOrder(BuyOrderRequest? buyOrderRequest)
         {
@@ -28,7 +26,10 @@ namespace Services
             ValidationHelper.ModelValidation(buyOrderRequest);
             BuyOrder buyOrder = buyOrderRequest.ToBuyOrder();
             buyOrder.BuyOrderID = Guid.NewGuid();
-            _buyOrders.Add(buyOrder);
+
+            _context.BuyOrders.Add(buyOrder);
+            _context.SaveChanges();
+
             return buyOrder.ToBuyOrderResponse();
         }
 
@@ -41,18 +42,21 @@ namespace Services
             ValidationHelper.ModelValidation(sellOrderRequest);
             SellOrder sellOrder = sellOrderRequest.ToSellOrder();
             sellOrder.SellOrderID = Guid.NewGuid();
-            _sellOrders.Add(sellOrder);
+
+            _context.SellOrders.Add(sellOrder);
+            _context.SaveChanges();
+
             return sellOrder.ToSellOrderResponse();
         }
 
         public List<BuyOrderResponse> GetBuyOrders()
         {
-            return _buyOrders.Select(x => x.ToBuyOrderResponse()).ToList();
+            return _context.BuyOrders.Select(x => x.ToBuyOrderResponse()).ToList();
         }
 
         public List<SellOrderResponse> GetSellOrders()
         {
-            return _sellOrders.Select(x => x.ToSellOrderResponse()).ToList();
+            return _context.SellOrders.Select(x => x.ToSellOrderResponse()).ToList();
         }
     }
 }

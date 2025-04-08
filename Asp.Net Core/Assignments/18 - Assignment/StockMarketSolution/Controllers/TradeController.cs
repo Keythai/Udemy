@@ -3,6 +3,7 @@ using ServiceContracts;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using ServiceContracts.DTO;
+using Entities;
 
 namespace StockMarketSolution.Controllers
 {
@@ -99,6 +100,11 @@ namespace StockMarketSolution.Controllers
                 SellOrders = _stocksService.GetSellOrders()
             };
             return View(orders);
+        }
+
+        public IActionResult OrdersPDF()
+        {
+            return View();
         }
     }
 }

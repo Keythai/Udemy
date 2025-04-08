@@ -1,52 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\",
+  "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Migrations\\20250408135320_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CC49CF40-F813-413C-B1C0-E6A2EAD3A157}|..\\Entities\\Entities.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Migrations\\20250408134657_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC49CF40-F813-413C-B1C0-E6A2EAD3A157}|..\\Entities\\Entities.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\entities\\stockmarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC49CF40-F813-413C-B1C0-E6A2EAD3A157}|..\\Entities\\Entities.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EA3B3D-2026-4A8D-900C-93979E1C8C04}|..\\XUnitTest\\XUnitTest.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\xunittest\\stockservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0473C3E-F014-41CF-B6F7-313C8D78B24F}|..\\Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\services\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\views\\trade\\orderpdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:views\\trade\\orderpdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\15 - Assignment\\Services\\StocksService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\udemy\\asp.net core\\16 - assignment\\stockmarketsolution\\stockmarketsolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\18 - assignment\\stockmarketsolution\\stockmarketsolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AF38E462-4DF8-4EF6-B78C-B616D9F5F1FA}|StockMarketSolution.csproj|solutionrelative:stockmarketsolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -105,8 +134,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250408135320_InitialCreate.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Migrations\\20250408135320_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Migrations\\20250408135320_InitialCreate.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Migrations\\20250408135320_InitialCreate.cs",
+              "RelativeToolTip": "..\\Entities\\Migrations\\20250408135320_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:53:20.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250408134657_InitialCreate.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Migrations\\20250408134657_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Migrations\\20250408134657_InitialCreate.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Migrations\\20250408134657_InitialCreate.cs",
+              "RelativeToolTip": "..\\Entities\\Migrations\\20250408134657_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:46:57.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAADvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T13:37:36.494Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
@@ -121,110 +189,180 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T13:07:36.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StocksService.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\StocksService.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\Services\\StocksService.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\StocksService.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\Services\\StocksService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "SellOrder.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\SellOrder.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\SellOrder.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\SellOrder.cs",
+              "RelativeToolTip": "..\\Entities\\SellOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T12:28:54.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Orders.cshtml",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Views\\Trade\\Orders.cshtml",
-              "RelativeDocumentMoniker": "Views\\Trade\\Orders.cshtml",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Views\\Trade\\Orders.cshtml",
-              "RelativeToolTip": "Views\\Trade\\Orders.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T13:08:42.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Views\\Trade\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Trade\\Index.cshtml",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Views\\Trade\\Index.cshtml",
-              "RelativeToolTip": "Views\\Trade\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T13:02:05.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T12:27:13.542Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T12:57:04.156Z",
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\BuyOrder.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\BuyOrder.cs",
+              "RelativeToolTip": "..\\Entities\\BuyOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:26:47.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FinnhubScript.js",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
-              "RelativeDocumentMoniker": "wwwroot\\Scripts\\FinnhubScript.js",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
-              "RelativeToolTip": "wwwroot\\Scripts\\FinnhubScript.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-02T13:37:07.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "StockMarketDbContext.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\StockMarketDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\StockMarketDbContext.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\StockMarketDbContext.cs",
+              "RelativeToolTip": "..\\Entities\\StockMarketDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T12:05:18.072Z"
+              "WhenOpened": "2025-04-08T12:24:47.847Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:05:18.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StocksService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Services\\StocksService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\StocksService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Services\\StocksService.cs",
+              "RelativeToolTip": "..\\Services\\StocksService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:36:43.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockServiceTest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\XUnitTest\\StockServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\XUnitTest\\StockServiceTest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\XUnitTest\\StockServiceTest.cs",
+              "RelativeToolTip": "..\\XUnitTest\\StockServiceTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:47:37.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TradeController.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Controllers\\TradeController.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Controllers\\TradeController.cs",
               "RelativeDocumentMoniker": "Controllers\\TradeController.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Controllers\\TradeController.cs",
               "RelativeToolTip": "Controllers\\TradeController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADwv0YAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwDsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:16:49.21Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "OrderPDF.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\Trade\\OrderPDF.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trade\\OrderPDF.cshtml",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\Trade\\OrderPDF.cshtml",
+              "RelativeToolTip": "Views\\Trade\\OrderPDF.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T12:19:07.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\Trade\\Orders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trade\\Orders.cshtml",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\Trade\\Orders.cshtml",
+              "RelativeToolTip": "Views\\Trade\\Orders.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAABOwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:08:42.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "Views\\Trade\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:02:05.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAABOwAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T12:57:04.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T13:07:36.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StocksService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\StocksService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\StocksService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\StocksService.cs",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\StocksService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:28:54.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FinnhubScript.js",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+              "RelativeDocumentMoniker": "wwwroot\\Scripts\\FinnhubScript.js",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+              "RelativeToolTip": "wwwroot\\Scripts\\FinnhubScript.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAABOwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-02T13:37:07.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "StockTrade.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Models\\StockTrade.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Models\\StockTrade.cs",
               "RelativeDocumentMoniker": "Models\\StockTrade.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Models\\StockTrade.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Models\\StockTrade.cs",
               "RelativeToolTip": "Models\\StockTrade.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -232,11 +370,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
               "RelativeDocumentMoniker": "wwwroot\\StyleSheet.css",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
               "RelativeToolTip": "wwwroot\\StyleSheet.css",
               "ViewState": "AgIAAOoBAAAAAAAAAAAWwPgBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -244,21 +382,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "IStocksService.cs",
               "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\15 - Assignment\\ServiceContracts\\IStocksService.cs",
               "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\15 - Assignment\\ServiceContracts\\IStocksService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T16:04:42.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Orders.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Models\\Orders.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Models\\Orders.cs",
               "RelativeDocumentMoniker": "Models\\Orders.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\Models\\Orders.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\Models\\Orders.cs",
               "RelativeToolTip": "Models\\Orders.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -266,188 +403,174 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "ValidationHelper.cs",
               "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\15 - Assignment\\Services\\Helpers\\ValidationHelper.cs",
               "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\15 - Assignment\\Services\\Helpers\\ValidationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T15:35:46.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "BuyOrderRequest.cs",
               "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\15 - Assignment\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
               "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Udemy\\Asp.Net Core\\15 - Assignment\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T15:34:46.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "StocksService.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\15 - Assignment\\Services\\StocksService.cs",
-              "RelativeDocumentMoniker": "..\\..\\15 - Assignment\\Services\\StocksService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\15 - Assignment\\Services\\StocksService.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\15 - Assignment\\Services\\StocksService.cs",
-              "RelativeToolTip": "..\\..\\15 - Assignment\\Services\\StocksService.cs",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\15 - Assignment\\Services\\StocksService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T13:46:13.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "StockServiceTest.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\XUnitTest\\StockServiceTest.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\XUnitTest\\StockServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\XUnitTest\\StockServiceTest.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\XUnitTest\\StockServiceTest.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\XUnitTest\\StockServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0BAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\XUnitTest\\StockServiceTest.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:34:12.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "SellOrder.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\SellOrder.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\Entities\\SellOrder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\SellOrder.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\SellOrder.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\Entities\\SellOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\SellOrder.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:02:33.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "StockMarketSolution.csproj",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
               "RelativeDocumentMoniker": "StockMarketSolution.csproj",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
               "RelativeToolTip": "StockMarketSolution.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-02T12:55:02.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "BuyOrder.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\BuyOrder.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\BuyOrder.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\BuyOrder.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\Entities\\BuyOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Entities\\BuyOrder.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:39:35.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "BuyOrderRequest.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:39:46.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "SellOrderResponse.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderResponse.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderResponse.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderResponse.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderResponse.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDgAAAAuAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderResponse.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:40:02.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "BuyOrderResponse.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwCEAAAAJAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:39:52.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "SellOrderRequest.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderRequest.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderRequest.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderRequest.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderRequest.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\DTO\\SellOrderRequest.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:39:55.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "ValidationHelper.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\Helpers\\ValidationHelper.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\Helpers\\ValidationHelper.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\Helpers\\ValidationHelper.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\Services\\Helpers\\ValidationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABdAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\Helpers\\ValidationHelper.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T13:53:43.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "IFinnhubService.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\IFinnhubService.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\IFinnhubService.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\IFinnhubService.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\ServiceContracts\\IFinnhubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\IFinnhubService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:07:24.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "IStocksService.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\IStocksService.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\ServiceContracts\\IStocksService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\IStocksService.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\IStocksService.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\ServiceContracts\\IStocksService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\ServiceContracts\\IStocksService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:28:11.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "FinnhubService.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\FinnhubService.cs",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\FinnhubService.cs",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\FinnhubService.cs",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\Services\\FinnhubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\FinnhubService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:12:30.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "Services.csproj",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\Services.csproj",
-              "RelativeDocumentMoniker": "..\\..\\14 - Assignment\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\Services.csproj",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\Services.csproj",
-              "RelativeToolTip": "..\\..\\14 - Assignment\\Services\\Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Udemy\\Asp.Net Core\\14 - Assignment\\Services\\Services.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-27T12:18:01.163Z"
             }

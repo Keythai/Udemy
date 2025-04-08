@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\18 - efcore\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\18 - efcore\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|solutionrelative:controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\18 - efcore\\crudexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -20,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\18 - efcore\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|solutionrelative:views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\18 - efcore\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|solutionrelative:controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tcyya\\.nuget\\packages\\epplus\\8.0.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
@@ -217,7 +217,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -234,18 +234,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T13:52:51.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "PersonService.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\Services\\PersonService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\18 - EFCore\\Services\\PersonService.cs",
@@ -268,19 +256,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA0AAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-06T10:55:22.235Z"
+              "WhenOpened": "2025-04-06T10:55:22.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -292,7 +281,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:28:15.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T13:52:51.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\Views\\Persons\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Persons\\Index.cshtml",
@@ -301,18 +314,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-30T12:28:43.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PersonsController.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\Controllers\\PersonsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PersonsController.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\Controllers\\PersonsController.cs",
-              "RelativeToolTip": "Controllers\\PersonsController.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAYwKYAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:28:15.239Z"
             },
             {
               "$type": "Document",

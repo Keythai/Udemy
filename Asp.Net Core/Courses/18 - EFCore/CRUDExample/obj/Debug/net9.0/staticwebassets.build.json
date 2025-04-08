@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qAHxFEw+2DRT1Dafd1f41FdsWry8Zh3/jwOxC2JzENQ=",
+  "Hash": "Mp4YGpmvibM6pN2+7zJQp2ca/aE38g77HRiqwNWHuCk=",
   "Source": "CRUDExample",
   "BasePath": "_content/CRUDExample",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CRUDExample\\wwwroot",
       "Source": "CRUDExample",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "Scripts/jquery.validate.unobtrusive.min#[.{fingerprint=48y08845bh}]?.js.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "8zsd1dwtyb",
       "Integrity": "9AgLolrDYa1L+bIGcaxD4IUtCa9GYA86KOlg07ABoPA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "StyleSheet#[.{fingerprint=jvd61qfezr}]?.css.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "zqupnj3u1c",
       "Integrity": "FUWcTwcFo1/Zeq/NNIuPg9RkGeDh+Nqilk/vgT5GnYQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css"
+      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "Scripts/jquery.min#[.{fingerprint=o1o13a6vjx}]?.js.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
+      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "9lbv9l0z68",
       "Integrity": "bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js"
+      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "Scripts/jquery.validate.min#[.{fingerprint=ag7o75518u}]?.js.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "m7rg4chp1z",
       "Integrity": "Po4sWHCLIbaqYqyEYnIYtBO+dRjwxtbreif7YdpGQxM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\logo.jpg",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\logo.jpg",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "logo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\logo.jpg"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "Scripts/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\jquery.min.js"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "Scripts/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "Scripts/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -230,7 +230,7 @@
   "Endpoints": [
     {
       "Route": "logo.jpg",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\logo.jpg",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -267,7 +267,7 @@
     },
     {
       "Route": "logo.sb9mxxqw3d.jpg",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\logo.jpg",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -312,7 +312,7 @@
     },
     {
       "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -357,7 +357,7 @@
     },
     {
       "Route": "Rotativa/wkhtmltopdf.exe",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -394,7 +394,7 @@
     },
     {
       "Route": "Scripts/jquery.min.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -449,7 +449,7 @@
     },
     {
       "Route": "Scripts/jquery.min.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -486,7 +486,7 @@
     },
     {
       "Route": "Scripts/jquery.min.js.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -531,7 +531,7 @@
     },
     {
       "Route": "Scripts/jquery.min.o1o13a6vjx.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -594,7 +594,7 @@
     },
     {
       "Route": "Scripts/jquery.min.o1o13a6vjx.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -639,7 +639,7 @@
     },
     {
       "Route": "Scripts/jquery.min.o1o13a6vjx.js.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -692,7 +692,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.min.ag7o75518u.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -755,7 +755,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.min.ag7o75518u.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -800,7 +800,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.min.ag7o75518u.js.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -853,7 +853,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.min.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -908,7 +908,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.min.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -945,7 +945,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.min.js.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -990,7 +990,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1053,7 +1053,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1098,7 +1098,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.unobtrusive.min.48y08845bh.js.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1151,7 +1151,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1206,7 +1206,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1243,7 +1243,7 @@
     },
     {
       "Route": "Scripts/jquery.validate.unobtrusive.min.js.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1288,7 +1288,7 @@
     },
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1343,7 +1343,7 @@
     },
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1380,7 +1380,7 @@
     },
     {
       "Route": "StyleSheet.css.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1425,7 +1425,7 @@
     },
     {
       "Route": "StyleSheet.jvd61qfezr.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1488,7 +1488,7 @@
     },
     {
       "Route": "StyleSheet.jvd61qfezr.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1533,7 +1533,7 @@
     },
     {
       "Route": "StyleSheet.jvd61qfezr.css.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

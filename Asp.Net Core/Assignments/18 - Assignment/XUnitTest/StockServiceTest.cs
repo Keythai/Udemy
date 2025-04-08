@@ -1,11 +1,13 @@
 ﻿using ServiceContracts.DTO;
 using ServiceContracts;
 using Services;
+using Entities;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using System.Runtime.ConstrainedExecution;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using Microsoft.EntityFrameworkCore;
 
 namespace XUnitTest
 {
@@ -14,7 +16,7 @@ namespace XUnitTest
         private readonly IStocksService _stockService;
         public StockServiceTest()
         {
-            _stockService = new StocksService();
+            _stockService = new StocksService(new StockMarketDbContext(new DbContextOptionsBuilder<StockMarketDbContext>().Options));
         }
 
         #region CreateBuyOrder

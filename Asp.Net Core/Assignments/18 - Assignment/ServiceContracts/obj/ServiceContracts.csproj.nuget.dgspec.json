@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {}
+    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {}
   },
   "projects": {
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\Entities\\Entities.csproj": {
+    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\Entities\\Entities.csproj",
+        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\Entities\\obj\\",
+        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,18 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -70,14 +82,14 @@
         }
       }
     },
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
+    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\ServiceContracts\\obj\\",
+        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +111,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Udemy\\Asp.Net Core\\16 - Assignment\\Entities\\Entities.csproj"
+              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj"
               }
             }
           }
