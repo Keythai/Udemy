@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ServiceContracts.DTO
 {
-    public class BuyOrderResponse
+    public class BuyOrderResponse : IOrderResponse
     {
         public Guid BuyOrderID { get; set; }
         [Required(ErrorMessage = "Stock symbol cannot be blank")]
@@ -18,6 +18,7 @@ namespace ServiceContracts.DTO
         [Range(1, 10000, ErrorMessage = "Price must be between 1 and 10000")]
         public double Price { get; set; }
         public double TradeAmount { get; set; }
+        public OrderType TypeOfOrder => OrderType.BuyOrder;
 
         public override bool Equals(object? obj)
         {

@@ -3,6 +3,88 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
+      "AssetFile": "Rotativa/wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:59:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cuquy3615b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltopdf.exe"
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.exe",
+      "AssetFile": "Rotativa/wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:59:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
       "Route": "Scripts/FinnhubScript.hdjpv1gszj.js",
       "AssetFile": "Scripts/FinnhubScript.js.gz",
       "Selectors": [
@@ -43,7 +125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Vary",
@@ -92,7 +174,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         }
       ],
       "EndpointProperties": [
@@ -141,7 +223,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Vary",
@@ -204,7 +286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Vary",
@@ -245,7 +327,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         }
       ],
       "EndpointProperties": [
@@ -286,7 +368,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Vary",
@@ -341,7 +423,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Vary",
@@ -390,7 +472,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         }
       ],
       "EndpointProperties": [
@@ -439,7 +521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Vary",
@@ -502,7 +584,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Vary",
@@ -543,7 +625,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         }
       ],
       "EndpointProperties": [
@@ -584,7 +666,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Vary",

@@ -1,4 +1,5 @@
 ﻿using Entities;
+using Microsoft.EntityFrameworkCore;
 using ServiceContracts;
 using ServiceContracts.DTO;
 using Services.Helpers;
@@ -17,7 +18,7 @@ namespace Services
         {
             _context = context;
         }
-        public BuyOrderResponse CreateBuyOrder(BuyOrderRequest? buyOrderRequest)
+        public async Task<BuyOrderResponse> CreateBuyOrder(BuyOrderRequest? buyOrderRequest)
         {
             if(buyOrderRequest == null)
             {
@@ -28,12 +29,12 @@ namespace Services
             buyOrder.BuyOrderID = Guid.NewGuid();
 
             _context.BuyOrders.Add(buyOrder);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
 
             return buyOrder.ToBuyOrderResponse();
         }
 
-        public SellOrderResponse CreateSellOrder(SellOrderRequest? sellOrderRequest)
+        public async Task<SellOrderResponse> CreateSellOrder(SellOrderRequest? sellOrderRequest)
         {
             if(sellOrderRequest == null)
             {
@@ -44,19 +45,19 @@ namespace Services
             sellOrder.SellOrderID = Guid.NewGuid();
 
             _context.SellOrders.Add(sellOrder);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
 
             return sellOrder.ToSellOrderResponse();
         }
 
-        public List<BuyOrderResponse> GetBuyOrders()
+        public async Task<List<BuyOrderResponse>> GetBuyOrders()
         {
-            return _context.BuyOrders.Select(x => x.ToBuyOrderResponse()).ToList();
+            return await _context.BuyOrders.Select(x => x.ToBuyOrderResponse()).ToListAsync();
         }
 
-        public List<SellOrderResponse> GetSellOrders()
+        public async Task<List<SellOrderResponse>> GetSellOrders()
         {
-            return _context.SellOrders.Select(x => x.ToSellOrderResponse()).ToList();
+            return await _context.SellOrders.Select(x => x.ToSellOrderResponse()).ToListAsync();
         }
     }
 }

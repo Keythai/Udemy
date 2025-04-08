@@ -17,6 +17,9 @@ builder.Services.AddDbContext<StockMarketDbContext>(options =>
 });
 var app = builder.Build();
 
+// use Rotativa for generating PDF
+Rotativa.AspNetCore.RotativaConfiguration.Setup("wwwroot", "Rotativa");
+
 app.UseStaticFiles();
 app.UseRouting();
 app.MapControllers();

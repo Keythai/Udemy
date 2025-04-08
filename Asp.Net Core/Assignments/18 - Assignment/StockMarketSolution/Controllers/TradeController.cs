@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using ServiceContracts.DTO;
 using Entities;
+using Rotativa.AspNetCore;
 
 namespace StockMarketSolution.Controllers
 {
@@ -46,7 +47,7 @@ namespace StockMarketSolution.Controllers
 
         [Route("[action]")]
         [HttpPost]
-        public IActionResult BuyOrder(BuyOrderRequest buyOrderRequest)
+        public async Task<IActionResult> BuyOrder(BuyOrderRequest buyOrderRequest)
         {
             buyOrderRequest.DateAndTimeOfOrder = DateTime.Now;
             ModelState.Clear();
@@ -62,13 +63,13 @@ namespace StockMarketSolution.Controllers
                 }); 
             }
 
-            _stocksService.CreateBuyOrder(buyOrderRequest);
+            await _stocksService.CreateBuyOrder(buyOrderRequest);
             return RedirectToAction(nameof(Orders));
         }
 
         [Route("[action]")]
         [HttpPost]
-        public IActionResult SellOrder(SellOrderRequest sellOrderRequest)
+        public async Task<IActionResult> SellOrder(SellOrderRequest sellOrderRequest)
         {
             sellOrderRequest.DateAndTimeOfOrder = DateTime.Now;
             ModelState.Clear();
@@ -85,26 +86,36 @@ namespace StockMarketSolution.Controllers
                 });
             }
 
-            _stocksService.CreateSellOrder(sellOrderRequest);
+            await _stocksService.CreateSellOrder(sellOrderRequest);
             return RedirectToAction(nameof(Orders));
         }
 
         [Route("[action]")]
         [HttpGet]
-        public IActionResult Orders()
+        public async Task<IActionResult> Orders()
         {
-            List<BuyOrderResponse> buyOrderResponse = _stocksService.GetBuyOrders();
+            List<BuyOrderResponse> buyOrderResponse = await _stocksService.GetBuyOrders();
             Orders orders = new Orders()
             {
-                BuyOrders = _stocksService.GetBuyOrders(),
-                SellOrders = _stocksService.GetSellOrders()
+                BuyOrders = await _stocksService.GetBuyOrders(),
+                SellOrders = await _stocksService.GetSellOrders()
             };
             return View(orders);
         }
 
-        public IActionResult OrdersPDF()
+        public async Task<IActionResult> OrdersPDF()
         {
-            return View();
+            List<BuyOrderResponse> buyOrderResponse = await _stocksService.GetBuyOrders();
+            List<SellOrderResponse> sellOrderResponse = await _stocksService.GetSellOrders();
+            List<IOrderResponse> orderResponses = new List<IOrderResponse>();
+            orderResponses.AddRange(buyOrderResponse);
+            orderResponses.AddRange(sellOrderResponse);
+
+            return new ViewAsPdf("OrdersPDF", orderResponses, ViewData)
+            {
+                PageMargins = { Left = 20, Right = 20, Top = 20, Bottom = 20 },
+                PageOrientation = Rotativa.AspNetCore.Options.Orientation.Landscape
+            };
         }
     }
 }

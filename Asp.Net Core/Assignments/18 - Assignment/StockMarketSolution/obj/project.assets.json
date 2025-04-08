@@ -1401,6 +1401,18 @@
           }
         }
       },
+      "Rotativa.AspNetCore/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Rotativa.AspNetCore.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Rotativa.AspNetCore.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "System.ClientModel/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -4595,6 +4607,24 @@
         "packageIcon.png"
       ]
     },
+    "Rotativa.AspNetCore/1.4.0": {
+      "sha512": "zn0KgqCQqiTuNPYgeqrIJxXafjJUfDJBcUJIhAV5NgWSCX3DOEeg339zMJTbzcCyoJgGPL5LrG+IKZ3k8/Uk9Q==",
+      "type": "package",
+      "path": "rotativa.aspnetcore/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net5.0/Rotativa.AspNetCore.dll",
+        "lib/net6.0/Rotativa.AspNetCore.dll",
+        "lib/net7.0/Rotativa.AspNetCore.dll",
+        "lib/net8.0/Rotativa.AspNetCore.dll",
+        "lib/netcoreapp3.1/Rotativa.AspNetCore.dll",
+        "lib/netstandard2.0/Rotativa.AspNetCore.dll",
+        "rotativa.aspnetcore.1.4.0.nupkg.sha512",
+        "rotativa.aspnetcore.nuspec"
+      ]
+    },
     "System.ClientModel/1.0.0": {
       "sha512": "I3CVkvxeqFYjIVEP59DnjbeoGNfo/+SZrCLpRz2v/g0gpCHaEMPtWSY0s9k/7jR1rAsLNg2z2u1JRB76tPjnIw==",
       "type": "package",
@@ -5951,29 +5981,30 @@
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3",
+      "Rotativa.AspNetCore >= 1.4.0",
       "ServiceContracts >= 1.0.0",
       "Services >= 1.0.0",
       "XUnitTest >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tcyya\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
+      "projectUniqueName": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
       "projectName": "StockMarketSolution",
-      "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
-      "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-      "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\",
+      "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5989,17 +6020,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj"
+            "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj"
             },
-            "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
-              "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
+            "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
             },
-            "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Services\\Services.csproj": {
-              "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\Services\\Services.csproj"
+            "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Services\\Services.csproj": {
+              "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Services\\Services.csproj"
             },
-            "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\XUnitTest\\XUnitTest.csproj": {
-              "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\XUnitTest\\XUnitTest.csproj"
+            "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\XUnitTest\\XUnitTest.csproj": {
+              "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\XUnitTest\\XUnitTest.csproj"
             }
           }
         }
@@ -6012,7 +6043,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -6029,6 +6060,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[9.0.3, )"
+          },
+          "Rotativa.AspNetCore": {
+            "target": "Package",
+            "version": "[1.4.0, )"
           }
         },
         "imports": [
@@ -6050,7 +6085,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

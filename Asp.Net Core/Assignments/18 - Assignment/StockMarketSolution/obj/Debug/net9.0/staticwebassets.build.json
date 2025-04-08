@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G0BjJVWDvIxscItiop46/FAIgoTLSx8DQvyzf3WkaXU=",
+  "Hash": "4uTzlu2OA7dLtUzZbknzIsw8zysPQikpV14w1kQjUlE=",
   "Source": "StockMarketSolution",
   "BasePath": "_content/StockMarketSolution",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StockMarketSolution\\wwwroot",
       "Source": "StockMarketSolution",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\",
+      "ContentRoot": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\",
       "BasePath": "_content/StockMarketSolution",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
+      "Identity": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
       "SourceId": "StockMarketSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockMarketSolution",
       "RelativePath": "StyleSheet#[.{fingerprint=82h7a7xycv}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+      "RelatedAsset": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "xckvj6ml5t",
       "Integrity": "LxwTNXw6Zaq4XxVWmTJIBl2b03GDoI6Rf/+44WOb4CM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css"
+      "OriginalItemSpec": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
+      "Identity": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
       "SourceId": "StockMarketSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/StockMarketSolution",
       "RelativePath": "Scripts/FinnhubScript#[.{fingerprint=hdjpv1gszj}]?.js.gz",
       "AssetKind": "All",
@@ -49,20 +49,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+      "RelatedAsset": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "9vmemkq4rt",
       "Integrity": "u059SDqdSnruJosTaI3YZT/+AryZLXv4fcOysEpfBJ0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js"
+      "OriginalItemSpec": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+      "Identity": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "SourceId": "StockMarketSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\",
+      "ContentRoot": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\",
+      "BasePath": "_content/StockMarketSolution",
+      "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cuquy3615b",
+      "Integrity": "ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Identity": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+      "SourceId": "StockMarketSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\",
       "BasePath": "_content/StockMarketSolution",
       "RelativePath": "Scripts/FinnhubScript#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -80,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
     },
     {
-      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+      "Identity": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
       "SourceId": "StockMarketSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\",
+      "ContentRoot": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\",
       "BasePath": "_content/StockMarketSolution",
       "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -103,8 +124,90 @@
   ],
   "Endpoints": [
     {
+      "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:59:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cuquy3615b"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltopdf.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.exe",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:59:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
       "Route": "Scripts/FinnhubScript.hdjpv1gszj.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -127,7 +230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -167,7 +270,7 @@
     },
     {
       "Route": "Scripts/FinnhubScript.hdjpv1gszj.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -188,7 +291,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -212,7 +315,7 @@
     },
     {
       "Route": "Scripts/FinnhubScript.hdjpv1gszj.js.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -233,7 +336,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -265,7 +368,7 @@
     },
     {
       "Route": "Scripts/FinnhubScript.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -288,7 +391,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -320,7 +423,7 @@
     },
     {
       "Route": "Scripts/FinnhubScript.js",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -341,7 +444,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -357,7 +460,7 @@
     },
     {
       "Route": "Scripts/FinnhubScript.js.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\o1uf0rh8qb-hdjpv1gszj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -378,7 +481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 13:06:39 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -402,7 +505,7 @@
     },
     {
       "Route": "StyleSheet.82h7a7xycv.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -425,7 +528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -465,7 +568,7 @@
     },
     {
       "Route": "StyleSheet.82h7a7xycv.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -486,7 +589,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -510,7 +613,7 @@
     },
     {
       "Route": "StyleSheet.82h7a7xycv.css.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -531,7 +634,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -563,7 +666,7 @@
     },
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -586,7 +689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -618,7 +721,7 @@
     },
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -639,7 +742,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -655,7 +758,7 @@
     },
     {
       "Route": "StyleSheet.css.gz",
-      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
+      "AssetFile": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\Debug\\net9.0\\compressed\\2ljyrkwv7n-82h7a7xycv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -676,7 +779,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 13:15:38 GMT"
+          "Value": "Tue, 08 Apr 2025 14:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
