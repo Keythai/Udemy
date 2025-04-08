@@ -1,0 +1,14 @@
+﻿@model WeatherList
+@{
+	ViewBag.Title = "Weather";
+}
+
+	<div class="page-content margin-top-200 margin-left">
+		<div class="flex">
+			@foreach (CityWeather cityWeather in @Model.weathers)
+			{
+				@* @await Component.InvokeAsync("City", cityWeather); *@
+			<vc:city grid="cityWeather"></vc:city>
+			}
+		</div>
+	</div>

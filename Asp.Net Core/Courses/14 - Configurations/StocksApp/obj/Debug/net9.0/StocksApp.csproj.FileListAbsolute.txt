@@ -1,0 +1,66 @@
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\bin\Debug\net9.0\appsettings.Development.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\bin\Debug\net9.0\appsettings.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.staticwebassets.runtime.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.staticwebassets.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.exe
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.dll
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.pdb
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.RazorAssemblyInfo.cache
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.RazorAssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\scopedcss\bundle\StocksApp.styles.css
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.StocksApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.StocksApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.build.StocksApp.props
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StocksApp.props
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StocksApp.props
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.dll
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\refint\StocksApp.dll
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.pdb
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\ref\StocksApp.dll
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\bin\Debug\net9.0\appsettings.Development.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\bin\Debug\net9.0\appsettings.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.staticwebassets.endpoints.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.staticwebassets.runtime.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.exe
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.deps.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.runtimeconfig.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.dll
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\bin\Debug\net9.0\StocksApp.pdb
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.AssemblyInfoInputs.cache
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.AssemblyInfo.cs
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.csproj.CoreCompileInputs.cache
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.RazorAssemblyInfo.cache
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.RazorAssemblyInfo.cs
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\scopedcss\bundle\StocksApp.styles.css
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.build.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.development.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.StocksApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.StocksApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.build.StocksApp.props
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StocksApp.props
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StocksApp.props
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.pack.json
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.dll
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\refint\StocksApp.dll
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.pdb
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\StocksApp.genruntimeconfig.cache
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\ref\StocksApp.dll
+D:\.Net project\udemy\asp.net\14 - Configurations\StocksApp\obj\Debug\net9.0\compressed\i6xnpvb7rc-4mh8k2r5hm.gz
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\obj\Debug\net9.0\compressed\i6xnpvb7rc-4mh8k2r5hm.gz

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "KSPUFrP3elNJNh8qy1Iktm1fVzDVdZNsBLb6EKKBHFo=",
+  "Source": "Assignment",
+  "BasePath": "_content/Assignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment\\wwwroot",
+      "Source": "Assignment",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Controllers\\Assignment\\wwwroot\\",
+      "BasePath": "_content/Assignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.Net project\\udemy\\asp.net\\Controllers\\Assignment\\wwwroot\\Resume 2025 .pdf",
+      "SourceId": "Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Controllers\\Assignment\\wwwroot\\",
+      "BasePath": "_content/Assignment",
+      "RelativePath": "Resume 2025 #[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "04tenwt93k",
+      "Integrity": "IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resume 2025 .pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Resume 2025 .04tenwt93k.pdf",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Controllers\\Assignment\\wwwroot\\Resume 2025 .pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04tenwt93k"
+        },
+        {
+          "Name": "label",
+          "Value": "Resume 2025 .pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88="
+        }
+      ]
+    },
+    {
+      "Route": "Resume 2025 .pdf",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Controllers\\Assignment\\wwwroot\\Resume 2025 .pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88="
+        }
+      ]
+    }
+  ]
+}

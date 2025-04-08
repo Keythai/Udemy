@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "gXeq9PV+TAjGVr3hZfWnRO+Wmk8ldBXhy8LLwvMezm0=",
+  "Source": "ModelValidationsExample",
+  "BasePath": "_content/ModelValidationsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ModelValidationsExample\\wwwroot",
+      "Source": "ModelValidationsExample",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\wwwroot\\",
+      "BasePath": "_content/ModelValidationsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

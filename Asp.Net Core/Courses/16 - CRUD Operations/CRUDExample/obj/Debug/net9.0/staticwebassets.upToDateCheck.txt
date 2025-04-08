@@ -1,0 +1,2 @@
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDExample\wwwroot\StyleSheet.css
+wwwroot\StyleSheet.css

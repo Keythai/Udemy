@@ -1,0 +1,16 @@
+﻿@*serve like a function that accept a parameter in type of ListModel, and returns HTML code as below*@
+
+@model ListModel
+<div class="list-container">
+
+@* 	@{
+		ViewBag.ListTitle = "Updated";
+	} *@
+
+	<h3>@Model.ListTitle</h3>
+	<ul class="list">
+		@foreach(string city in Model.ListItems){
+			<li>@city</li>
+		}
+	</ul>
+</div>

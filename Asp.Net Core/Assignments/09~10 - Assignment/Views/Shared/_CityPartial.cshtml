@@ -1,0 +1,22 @@
+﻿@model CityWeather
+@{
+	string baseClass = "box cursor-pointer w-30";
+	if (@Model.TemperatureFahrenheit < 44)
+		 baseClass += " blue-back";
+	else if (@Model.TemperatureFahrenheit > 74)
+		baseClass += " orange-back";
+	else
+		baseClass += " green-back";
+}
+<div class="@baseClass">
+	<div class="flex-borderless">
+		<div class="w-50">
+				<h2>@Model.CityName</h2>
+				<h4 class="text-dark-grey">@Model.DateAndTime?.ToString("hh:mm tt", CultureInfo.InvariantCulture)</h4>
+			<a href="#" class="margin-top">Details</a>
+		</div>
+		<div class="w-50 border-left">
+				<h1 class="margin-left">@Model.TemperatureFahrenheit <sup class="text-grey">°F</sup></h1>
+		</div>
+	</div>
+</div>

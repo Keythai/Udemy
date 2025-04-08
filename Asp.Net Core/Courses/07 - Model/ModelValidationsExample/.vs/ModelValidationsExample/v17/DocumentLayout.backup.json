@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|d:\\.net project\\udemy\\asp.net\\controllers\\modelvalidationsexample\\customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|solutionrelative:customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|d:\\.net project\\udemy\\asp.net\\controllers\\modelvalidationsexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|d:\\.net project\\udemy\\asp.net\\controllers\\modelvalidationsexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|d:\\.net project\\udemy\\asp.net\\controllers\\modelvalidationsexample\\customvalidators\\daterangevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|solutionrelative:customvalidators\\daterangevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|d:\\.net project\\udemy\\asp.net\\controllers\\modelvalidationsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|d:\\.net project\\udemy\\asp.net\\controllers\\modelvalidationsexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|d:\\.net project\\udemy\\asp.net\\controllers\\modelvalidationsexample\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|solutionrelative:custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|d:\\.net project\\udemy\\asp.net\\controllers\\modelvalidationsexample\\custommodelbinders\\personbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5CC8C6-31D7-48A7-A084-EE912B563960}|ModelValidationsExample.csproj|solutionrelative:custommodelbinders\\personbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:54:10.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:40:06.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateRangeValidator.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\CustomValidators\\DateRangeValidator.cs",
+              "RelativeDocumentMoniker": "CustomValidators\\DateRangeValidator.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\CustomValidators\\DateRangeValidator.cs",
+              "RelativeToolTip": "CustomValidators\\DateRangeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:58:35.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinimumYearValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "RelativeToolTip": "CustomValidators\\MinimumYearValidatorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:01:54.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonBinderProvider.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\CustomModelBinders\\PersonBinderProvider.cs",
+              "RelativeDocumentMoniker": "CustomModelBinders\\PersonBinderProvider.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\CustomModelBinders\\PersonBinderProvider.cs",
+              "RelativeToolTip": "CustomModelBinders\\PersonBinderProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:51:23.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonModelBinder.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\CustomModelBinders\\PersonModelBinder.cs",
+              "RelativeDocumentMoniker": "CustomModelBinders\\PersonModelBinder.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\CustomModelBinders\\PersonModelBinder.cs",
+              "RelativeToolTip": "CustomModelBinders\\PersonModelBinder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:24:43.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:38:24.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\Controllers\\ModelValidationsExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T07:10:46.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\bin\Debug\net9.0\Service.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\bin\Debug\net9.0\Service.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\bin\Debug\net9.0\Service.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\bin\Debug\net9.0\Models.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\bin\Debug\net9.0\ServiceContract.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\bin\Debug\net9.0\Models.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\bin\Debug\net9.0\ServiceContract.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\Service.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\Service.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\Service.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\Service.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\Service.csproj.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\Service.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\refint\Service.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\Service.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\WeatherService\obj\Debug\net9.0\ref\Service.dll

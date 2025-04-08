@@ -1,0 +1,4 @@
+D:\.Net project\udemy\asp.net\Views\ViewComponentsExample\wwwroot\friends.js
+D:\.Net project\udemy\asp.net\Views\ViewComponentsExample\wwwroot\StyleSheet.css
+wwwroot\friends.js
+wwwroot\StyleSheet.css

@@ -1,0 +1,2 @@
+C:\ASP.NET DB\Udemy\asp.net core\View\LayoutViewsExample\wwwroot\StyleSheet.css
+wwwroot\StyleSheet.css

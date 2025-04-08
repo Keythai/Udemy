@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Person> // add parameter for return function in controller
+@{
+	// @functions{} changes it from function to views method
+	// local function
+	double? GetAge(DateTime? dateOfBirth){
+		if(dateOfBirth is not null){
+			return Math.Round((DateTime.Now - dateOfBirth).Value.TotalDays / 365.25);
+		}
+		else{
+			return null;
+		}
+	}
+
+	string alertMessage = $"<script>alert('{Model.Count()} people is found')</script>";
+}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>@ViewData["appTitle"]</title> <!--Razor expression-->
+	<meta charset="utf-8" />
+	<link href="~/StyleSheet.css" rel="stylesheet"/>
+</head>
+<body>
+	<div class="page-content">
+		@Html.Raw(alertMessage) <!--ways to execute string as code, but unsafe-->
+		<h1>Persons</h1>
+		@{
+			<text>Literal example 1</text>
+			@: Literal example 2
+			@*Comment example*@
+		}
+		@foreach (Person person in Model)
+		{
+			<div class="box float-left w-50">
+				<h2>Hello, @person.Name</h2>
+				<table class="table w-100">
+					<tbody>
+						@if (person.DateOfBirth.HasValue == true)
+						{
+							<tr>
+								<td>Birthday</td>
+								<td>@person.DateOfBirth?.ToString("MM/dd/yyyy")</td> <!--if DateOfBirth is null, add ?-->
+							</tr>
+							<tr>
+								<td>Age</td>
+								<td>@GetAge(person.DateOfBirth) Years old</td>
+							</tr>
+						}
+						else
+						{
+							<tr>
+								<td>Birthday</td>
+								<td>Unknown</td>
+							</tr>
+						}
+						<tr>
+						@switch (person.PersonGender)
+						{
+							case Gender.Male:
+								<td>November 19 is International Men's Day</td>
+								break;
+							case Gender.Female:
+								<td>March 8 is International Women's Day</td>
+								break;
+							case Gender.Other:
+								<td>March 31 is International Transgender's Day</td>
+								break;
+						}
+						</tr>
+					</tbody>
+				</table>
+				<div>
+					<a href="/person-details/@person.Name">Details</a> <!--important to know!!! use link to work with Actions in Controller-->
+				</div>	
+				<div>
+					<a href="person-with-product">Person with product</a>
+				</div>
+			</div>
+		}
+	</div>
+</body>
+</html>

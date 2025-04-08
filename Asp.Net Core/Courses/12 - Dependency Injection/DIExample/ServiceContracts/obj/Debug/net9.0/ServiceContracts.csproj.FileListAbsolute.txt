@@ -1,0 +1,11 @@
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll

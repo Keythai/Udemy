@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "c/NwCGbqKAvd/IplTRWQSnzS/f7kadgcTk8wOoapkz4=",
+  "Source": "StaticFilesExample",
+  "BasePath": "_content/StaticFilesExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFilesExample\\wwwroot",
+      "Source": "StaticFilesExample",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Routing\\StaticFilesExample\\wwwroot\\",
+      "BasePath": "_content/StaticFilesExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

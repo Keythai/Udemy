@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "KKeWypimqsvHFahmLzrm0uiB9d2W+QNR34jIXfAArBY=",
+  "Source": "StocksApp",
+  "BasePath": "_content/StocksApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StocksApp\\wwwroot",
+      "Source": "StocksApp",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\wwwroot\\",
+      "BasePath": "_content/StocksApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\obj\\Debug\\net9.0\\compressed\\i6xnpvb7rc-4mh8k2r5hm.gz",
+      "SourceId": "StocksApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StocksApp",
+      "RelativePath": "StyleSheet#[.{fingerprint=4mh8k2r5hm}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\wwwroot\\StyleSheet.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kgb8z53xsd",
+      "Integrity": "/Gzg+mwEEnTpmGgEONyfUAqzLLuZVlAyzzBBQXo3jds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\wwwroot\\StyleSheet.css"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\wwwroot\\StyleSheet.css",
+      "SourceId": "StocksApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\wwwroot\\",
+      "BasePath": "_content/StocksApp",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4mh8k2r5hm",
+      "Integrity": "1Cg9EfETjU+lrgcMfoOjGOceOfhOJ9WXs5g5uoitwMs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.4mh8k2r5hm.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\obj\\Debug\\net9.0\\compressed\\i6xnpvb7rc-4mh8k2r5hm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000493583416"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2025"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Gzg+mwEEnTpmGgEONyfUAqzLLuZVlAyzzBBQXo3jds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 11:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1Cg9EfETjU+lrgcMfoOjGOceOfhOJ9WXs5g5uoitwMs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4mh8k2r5hm"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Cg9EfETjU+lrgcMfoOjGOceOfhOJ9WXs5g5uoitwMs="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.4mh8k2r5hm.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Cg9EfETjU+lrgcMfoOjGOceOfhOJ9WXs5g5uoitwMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 11:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4mh8k2r5hm"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Cg9EfETjU+lrgcMfoOjGOceOfhOJ9WXs5g5uoitwMs="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.4mh8k2r5hm.css.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\obj\\Debug\\net9.0\\compressed\\i6xnpvb7rc-4mh8k2r5hm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Gzg+mwEEnTpmGgEONyfUAqzLLuZVlAyzzBBQXo3jds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 11:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4mh8k2r5hm"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Gzg+mwEEnTpmGgEONyfUAqzLLuZVlAyzzBBQXo3jds="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\obj\\Debug\\net9.0\\compressed\\i6xnpvb7rc-4mh8k2r5hm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000493583416"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2025"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Gzg+mwEEnTpmGgEONyfUAqzLLuZVlAyzzBBQXo3jds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 11:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1Cg9EfETjU+lrgcMfoOjGOceOfhOJ9WXs5g5uoitwMs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Cg9EfETjU+lrgcMfoOjGOceOfhOJ9WXs5g5uoitwMs="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Cg9EfETjU+lrgcMfoOjGOceOfhOJ9WXs5g5uoitwMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 11:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Cg9EfETjU+lrgcMfoOjGOceOfhOJ9WXs5g5uoitwMs="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\StocksApp\\obj\\Debug\\net9.0\\compressed\\i6xnpvb7rc-4mh8k2r5hm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Gzg+mwEEnTpmGgEONyfUAqzLLuZVlAyzzBBQXo3jds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 11:39:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Gzg+mwEEnTpmGgEONyfUAqzLLuZVlAyzzBBQXo3jds="
+        }
+      ]
+    }
+  ]
+}

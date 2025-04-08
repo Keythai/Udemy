@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "+rZ6sFFOF+0N05bJMfrunuSOAjxUt6Uu5O3CJ881yYA=",
+  "Source": "ControllersExample",
+  "BasePath": "_content/ControllersExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllersExample\\wwwroot",
+      "Source": "ControllersExample",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\ControllersExample\\wwwroot\\",
+      "BasePath": "_content/ControllersExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\ControllersExample\\wwwroot\\Resume 2025 .pdf",
+      "SourceId": "ControllersExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\ControllersExample\\wwwroot\\",
+      "BasePath": "_content/ControllersExample",
+      "RelativePath": "Resume 2025 #[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "04tenwt93k",
+      "Integrity": "IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resume 2025 .pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Resume 2025 .04tenwt93k.pdf",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\ControllersExample\\wwwroot\\Resume 2025 .pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04tenwt93k"
+        },
+        {
+          "Name": "label",
+          "Value": "Resume 2025 .pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88="
+        }
+      ]
+    },
+    {
+      "Route": "Resume 2025 .pdf",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\ControllersExample\\wwwroot\\Resume 2025 .pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88="
+        }
+      ]
+    }
+  ]
+}

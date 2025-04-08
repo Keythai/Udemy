@@ -1,0 +1,74 @@
+D:\.Net project\udemy\asp.net\Views\Assignment\bin\Debug\net9.0\appsettings.Development.json
+D:\.Net project\udemy\asp.net\Views\Assignment\bin\Debug\net9.0\appsettings.json
+D:\.Net project\udemy\asp.net\Views\Assignment\bin\Debug\net9.0\Assignment.staticwebassets.runtime.json
+D:\.Net project\udemy\asp.net\Views\Assignment\bin\Debug\net9.0\Assignment.staticwebassets.endpoints.json
+D:\.Net project\udemy\asp.net\Views\Assignment\bin\Debug\net9.0\Assignment.exe
+D:\.Net project\udemy\asp.net\Views\Assignment\bin\Debug\net9.0\Assignment.deps.json
+D:\.Net project\udemy\asp.net\Views\Assignment\bin\Debug\net9.0\Assignment.runtimeconfig.json
+D:\.Net project\udemy\asp.net\Views\Assignment\bin\Debug\net9.0\Assignment.dll
+D:\.Net project\udemy\asp.net\Views\Assignment\bin\Debug\net9.0\Assignment.pdb
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.AssemblyInfoInputs.cache
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.AssemblyInfo.cs
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.csproj.CoreCompileInputs.cache
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.RazorAssemblyInfo.cache
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.RazorAssemblyInfo.cs
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\scopedcss\bundle\Assignment.styles.css
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\compressed\tfe21za4wm-gnsd5elkzt.gz
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets.build.json
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets.development.json
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.build.Assignment.props
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets.pack.json
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.dll
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\refint\Assignment.dll
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.pdb
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\Assignment.genruntimeconfig.cache
+D:\.Net project\udemy\asp.net\Views\Assignment\obj\Debug\net9.0\ref\Assignment.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.RazorAssemblyInfo.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.RazorAssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\refint\Assignment.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\appsettings.Development.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\appsettings.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Assignment.staticwebassets.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Assignment.staticwebassets.runtime.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Assignment.exe
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Assignment.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Assignment.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Assignment.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Assignment.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Models.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Service.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\ServiceContract.dll
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Models.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\ServiceContract.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\bin\Debug\net9.0\Service.pdb
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\scopedcss\bundle\Assignment.styles.css
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\compressed\tfe21za4wm-gnsd5elkzt.gz
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets.build.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets.development.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.build.Assignment.props
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets.pack.json
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.csproj.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\Assignment.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\12 - Dependency Injection\Assignment\Assignment\obj\Debug\net9.0\ref\Assignment.dll

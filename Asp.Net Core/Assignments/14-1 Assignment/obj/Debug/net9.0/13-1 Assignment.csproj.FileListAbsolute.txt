@@ -1,0 +1,34 @@
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\bin\Debug\net9.0\appsettings.Development.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\bin\Debug\net9.0\appsettings.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\bin\Debug\net9.0\13-1 Assignment.staticwebassets.runtime.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\bin\Debug\net9.0\13-1 Assignment.staticwebassets.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\bin\Debug\net9.0\13-1 Assignment.exe
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\bin\Debug\net9.0\13-1 Assignment.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\bin\Debug\net9.0\13-1 Assignment.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\bin\Debug\net9.0\13-1 Assignment.dll
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\bin\Debug\net9.0\13-1 Assignment.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.RazorAssemblyInfo.cache
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.RazorAssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\scopedcss\bundle\13-1 Assignment.styles.css
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\compressed\7lyoaxhjue-gnsd5elkzt.gz
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets.build.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets.development.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets\msbuild.13-1 Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets\msbuild.13-1 Assignment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets\msbuild.build.13-1 Assignment.props
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.13-1 Assignment.props
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.13-1 Assignment.props
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets.pack.json
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.dll
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\refint\13-1 Assignment.dll
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\13-1 Assignment.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\obj\Debug\net9.0\ref\13-1 Assignment.dll

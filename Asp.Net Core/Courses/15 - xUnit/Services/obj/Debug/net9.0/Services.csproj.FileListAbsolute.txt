@@ -1,0 +1,34 @@
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\bin\Debug\net9.0\Services.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\bin\Debug\net9.0\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\bin\Debug\net9.0\Services.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\bin\Debug\net9.0\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\bin\Debug\net9.0\ServiceContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\refint\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\Services.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Services\obj\Debug\net9.0\ref\Services.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\Services.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\refint\Services.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\Services.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\bin\Debug\net9.0\Services.deps.json
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\bin\Debug\net9.0\Services.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\bin\Debug\net9.0\Services.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\bin\Debug\net9.0\Entities.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\bin\Debug\net9.0\Entities.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\.Net project\udemy\asp.net\15 - xUnit\Services\obj\Debug\net9.0\ref\Services.dll

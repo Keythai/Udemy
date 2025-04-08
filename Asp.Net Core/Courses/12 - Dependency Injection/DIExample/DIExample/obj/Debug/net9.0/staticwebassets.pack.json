@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ASP.NET DB\\Udemy\\asp.net core\\12 - Dependency Injection\\DIExample\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DIExample.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DIExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DIExample.props",
+      "PackagePath": "build\\DIExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DIExample.props",
+      "PackagePath": "buildMultiTargeting\\DIExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DIExample.props",
+      "PackagePath": "buildTransitive\\DIExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

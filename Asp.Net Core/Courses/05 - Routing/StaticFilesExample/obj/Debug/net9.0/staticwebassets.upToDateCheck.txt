@@ -1,0 +1,3 @@
+wwwroot\Resume 2025 .pdf
+wwwroot\sample.jpg
+wwwroot\Untitled.png

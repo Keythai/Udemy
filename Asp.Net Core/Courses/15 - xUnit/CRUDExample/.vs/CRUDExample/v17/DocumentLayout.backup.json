@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E24538D-268E-45E7-96F8-60395A25CFA8}|..\\Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD5992-BD9E-416B-AF78-BC87FA66B491}|..\\CRUDTests\\CRUDTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\crudtests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD5992-BD9E-416B-AF78-BC87FA66B491}|..\\CRUDTests\\CRUDTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D282FAE-0B75-4C0C-A10B-F65E57336569}|..\\ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D282FAE-0B75-4C0C-A10B-F65E57336569}|..\\ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E24538D-268E-45E7-96F8-60395A25CFA8}|..\\Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E24538D-268E-45E7-96F8-60395A25CFA8}|..\\Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD5992-BD9E-416B-AF78-BC87FA66B491}|..\\CRUDTests\\CRUDTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D282FAE-0B75-4C0C-A10B-F65E57336569}|..\\ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D282FAE-0B75-4C0C-A10B-F65E57336569}|..\\ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\servicecontracts\\dto\\personupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D282FAE-0B75-4C0C-A10B-F65E57336569}|..\\ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D282FAE-0B75-4C0C-A10B-F65E57336569}|..\\ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\servicecontracts\\enums\\sortorderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\CRUDTests\\PersonServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\Services\\Helpers\\ValidationHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\Entities\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\ServiceContracts\\DTO\\PersonResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\CRUDTests\\CRUDTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\ServiceContracts\\DTO\\PersonAddRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\ServiceContracts\\IPersonsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D282FAE-0B75-4C0C-A10B-F65E57336569}|..\\ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\servicecontracts\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455FDFFA-5F01-4EFB-A19B-C2DF1A36AF00}|..\\Entities\\Entities.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455FDFFA-5F01-4EFB-A19B-C2DF1A36AF00}|..\\Entities\\Entities.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D282FAE-0B75-4C0C-A10B-F65E57336569}|..\\ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD5992-BD9E-416B-AF78-BC87FA66B491}|..\\CRUDTests\\CRUDTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\crudtests\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD5992-BD9E-416B-AF78-BC87FA66B491}|..\\CRUDTests\\CRUDTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\15 - xunit\\crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "..\\Services\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:54:50.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "..\\CRUDTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAuwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:32:32.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonsService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\IPersonsService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\IPersonsService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\IPersonsService.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\IPersonsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwDUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:15:13.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:25:28.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonServiceTest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\PersonServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\PersonServiceTest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\PersonServiceTest.cs",
+              "RelativeToolTip": "..\\CRUDTests\\PersonServiceTest.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAN0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:38:37.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\CountriesService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Services\\CountriesService.cs",
+              "RelativeToolTip": "..\\Services\\CountriesService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:35:47.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CRUDTests.csproj",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\CRUDTests.csproj",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\CRUDTests.csproj",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\CRUDTests.csproj",
+              "RelativeToolTip": "..\\CRUDTests\\CRUDTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T11:37:00.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PersonService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Services\\PersonService.cs",
+              "RelativeToolTip": "..\\Services\\PersonService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wKYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:38:03.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:05:27.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonAddRequest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:32:04.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonUpdateRequest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:51:15.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:39:27.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SortOrderOptions.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:19:55.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CRUDTests.csproj",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\CRUDTests\\CRUDTests.csproj",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\CRUDTests\\CRUDTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T00:30:48.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA9wA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:34:28.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\Entities\\Person.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:14:08.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonAddRequest.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:26:21.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersonServiceTest.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\CRUDTests\\PersonServiceTest.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\CRUDTests\\PersonServiceTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:04:00.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\Services\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\Services\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:27:06.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\Services\\PersonService.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\Services\\PersonService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:02:57.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPersonsService.cs",
+              "DocumentMoniker": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\ServiceContracts\\IPersonsService.cs",
+              "ToolTip": "D:\\.Net project\\udemy\\asp.net\\15 - xUnit\\ServiceContracts\\IPersonsService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:57:57.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenderOptions.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:34:41.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Person.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Entities\\Person.cs",
+              "RelativeToolTip": "..\\Entities\\Person.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:28:44.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Country.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\Entities\\Country.cs",
+              "RelativeToolTip": "..\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:19:21.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\ICountriesService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\ServiceContracts\\ICountriesService.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\ICountriesService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:21:43.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\MyMath.cs",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\MyMath.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\MyMath.cs",
+              "RelativeToolTip": "..\\CRUDTests\\MyMath.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:12:17.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\UnitTest1.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\15 - xUnit\\CRUDTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\CRUDTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:09:14.877Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

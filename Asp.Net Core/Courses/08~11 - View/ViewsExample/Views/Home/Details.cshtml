@@ -1,0 +1,32 @@
+﻿@model Person
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Person Details</title>
+		<meta charset="utf-8" />
+		<link href="~/StyleSheet.css" rel="stylesheet"/>
+	</head>
+	<body>
+		<div class="page-content">
+		<h1>Person Details</h1>
+		<div class="box float-left w-50">
+				<h2>@Model.Name</h2>
+				<table class="table w-100">
+					<tbody>
+						<tr>
+							<td>Gender</td>
+							<td>@Model.PersonGender</td>
+						</tr>
+						<tr>
+							<td>Date Of Birth</td>
+							<td>@Model.DateOfBirth</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		
+		<a href="/">Back to person</a>
+	</body>
+</html>

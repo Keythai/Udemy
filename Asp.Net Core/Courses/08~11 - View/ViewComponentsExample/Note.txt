@@ -1,0 +1,3 @@
+﻿The main reason of return Views as result, is mainly for asynchronous operations, which meant can be called by other Views
+
+For example: An user wants to view a table without loading in the page, making an expandible box with "fetch" asynchronously is possible to load the table without loading new page

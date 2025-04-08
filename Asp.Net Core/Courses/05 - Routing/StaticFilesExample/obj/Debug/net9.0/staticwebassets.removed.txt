@@ -1,0 +1,3 @@
+C:\ASP.NET DB\Udemy\asp.net core\Routing\StaticFilesExample\wwwroot\Resume 2025 .pdf
+C:\ASP.NET DB\Udemy\asp.net core\Routing\StaticFilesExample\wwwroot\sample.jpg
+C:\ASP.NET DB\Udemy\asp.net core\Routing\StaticFilesExample\wwwroot\Untitled.png

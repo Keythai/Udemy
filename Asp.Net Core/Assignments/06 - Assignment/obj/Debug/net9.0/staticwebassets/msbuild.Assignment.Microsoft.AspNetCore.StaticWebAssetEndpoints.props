@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Assignment/Resume 2025 .04tenwt93k.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Resume 2025 .pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"04tenwt93k"},{"Name":"integrity","Value":"sha256-IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo\u002BhUU7rcGf88="},{"Name":"label","Value":"_content/Assignment/Resume 2025 .pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"130445"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo\u002BhUU7rcGf88=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 11:33:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Assignment/Resume 2025 .pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Resume 2025 .pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo\u002BhUU7rcGf88="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"130445"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo\u002BhUU7rcGf88=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 11:33:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,66 @@
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\bin\Debug\net9.0\appsettings.Development.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\bin\Debug\net9.0\appsettings.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.staticwebassets.runtime.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.staticwebassets.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.exe
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.dll
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.pdb
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.RazorAssemblyInfo.cache
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.RazorAssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\scopedcss\bundle\PartialViewsExample.styles.css
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets.build.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets.development.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.PartialViewsExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.PartialViewsExample.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.build.PartialViewsExample.props
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PartialViewsExample.props
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PartialViewsExample.props
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets.pack.json
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.dll
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\refint\PartialViewsExample.dll
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.pdb
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\ref\PartialViewsExample.dll
+C:\ASP.NET DB\Udemy\asp.net core\View\PartialViewsExample\obj\Debug\net9.0\compressed\xp5m9707ge-zkqq3swc4m.gz
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\bin\Debug\net9.0\appsettings.Development.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\bin\Debug\net9.0\appsettings.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.staticwebassets.endpoints.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.staticwebassets.runtime.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.exe
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.deps.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.runtimeconfig.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.dll
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\bin\Debug\net9.0\PartialViewsExample.pdb
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.AssemblyInfoInputs.cache
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.AssemblyInfo.cs
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.csproj.CoreCompileInputs.cache
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.RazorAssemblyInfo.cache
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.RazorAssemblyInfo.cs
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\scopedcss\bundle\PartialViewsExample.styles.css
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\compressed\xp5m9707ge-zkqq3swc4m.gz
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets.build.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets.development.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.PartialViewsExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.PartialViewsExample.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.build.PartialViewsExample.props
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PartialViewsExample.props
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PartialViewsExample.props
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets.pack.json
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.dll
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\refint\PartialViewsExample.dll
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.pdb
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\PartialViewsExample.genruntimeconfig.cache
+D:\.Net project\udemy\asp.net\Views\PartialViewsExample\obj\Debug\net9.0\ref\PartialViewsExample.dll

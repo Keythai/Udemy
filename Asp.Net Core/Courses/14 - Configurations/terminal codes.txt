@@ -1,0 +1,15 @@
+Executed using terminal, in order to protect data from being revealed
+
+// create a secret id for a program
+dotnet user-secrets init
+
+// assign an object variable with value in user-secrets
+dotnet [secret_name] set "[object:variable]" "[value]"
+dotnet user-secrets set "weatherapi:ClientID" "ClientID from user secrets"
+
+----
+
+one of the most secured way of setting-up sensitive values in configuration
+__(underscore and underscore) is the separator of parent and child key
+$Env:ParentKey__ChildKey="value"
+dotnet run --no-launch-profile

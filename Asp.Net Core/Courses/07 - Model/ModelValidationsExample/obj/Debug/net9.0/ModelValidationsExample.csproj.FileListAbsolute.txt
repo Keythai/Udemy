@@ -1,0 +1,60 @@
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\bin\Debug\net9.0\appsettings.Development.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\bin\Debug\net9.0\appsettings.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.staticwebassets.runtime.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.staticwebassets.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.exe
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.dll
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\scopedcss\bundle\ModelValidationsExample.styles.css
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.build.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.development.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.ModelValidationsExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.ModelValidationsExample.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.build.ModelValidationsExample.props
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ModelValidationsExample.props
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ModelValidationsExample.props
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.pack.json
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.dll
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\refint\ModelValidationsExample.dll
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Model\ModelValidationsExample\obj\Debug\net9.0\ref\ModelValidationsExample.dll
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\bin\Debug\net9.0\appsettings.Development.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\bin\Debug\net9.0\appsettings.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.staticwebassets.endpoints.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.staticwebassets.runtime.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.exe
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.deps.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.runtimeconfig.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.dll
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\bin\Debug\net9.0\ModelValidationsExample.pdb
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.AssemblyInfoInputs.cache
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.AssemblyInfo.cs
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.csproj.CoreCompileInputs.cache
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\scopedcss\bundle\ModelValidationsExample.styles.css
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.build.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.development.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.ModelValidationsExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.ModelValidationsExample.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.build.ModelValidationsExample.props
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ModelValidationsExample.props
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ModelValidationsExample.props
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.pack.json
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.dll
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\refint\ModelValidationsExample.dll
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.pdb
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\ModelValidationsExample.genruntimeconfig.cache
+D:\.Net project\udemy\asp.net\Controllers\ModelValidationsExample\obj\Debug\net9.0\ref\ModelValidationsExample.dll

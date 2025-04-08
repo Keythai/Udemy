@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "/Dha16TNHZOC2SOvpQXcl76RNP58Ch8ZTvTLQ/xXL9o=",
+  "Source": "IActionResultExample",
+  "BasePath": "_content/IActionResultExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IActionResultExample\\wwwroot",
+      "Source": "IActionResultExample",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\IActionResultUntilModels\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\IActionResultUntilModels\\wwwroot\\Resume 2025 .pdf",
+      "SourceId": "IActionResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\IActionResultUntilModels\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "RelativePath": "Resume 2025 #[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "04tenwt93k",
+      "Integrity": "IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resume 2025 .pdf"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\IActionResultUntilModels\\wwwroot\\sample.jpg",
+      "SourceId": "IActionResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\IActionResultUntilModels\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "RelativePath": "sample#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5t57e4bzh5",
+      "Integrity": "KeejnWeDZPE1zEt95RmS/5Xo4TQtAvp9RlYkTt8j01k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Resume 2025 .04tenwt93k.pdf",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\IActionResultUntilModels\\wwwroot\\Resume 2025 .pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04tenwt93k"
+        },
+        {
+          "Name": "label",
+          "Value": "Resume 2025 .pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88="
+        }
+      ]
+    },
+    {
+      "Route": "Resume 2025 .pdf",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\IActionResultUntilModels\\wwwroot\\Resume 2025 .pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 11:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IG7LNSAg7ZDxC06Cb1jG3RHDChdACNOo+hUU7rcGf88="
+        }
+      ]
+    },
+    {
+      "Route": "sample.5t57e4bzh5.jpg",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\IActionResultUntilModels\\wwwroot\\sample.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeejnWeDZPE1zEt95RmS/5Xo4TQtAvp9RlYkTt8j01k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 05:25:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5t57e4bzh5"
+        },
+        {
+          "Name": "label",
+          "Value": "sample.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeejnWeDZPE1zEt95RmS/5Xo4TQtAvp9RlYkTt8j01k="
+        }
+      ]
+    },
+    {
+      "Route": "sample.jpg",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Controller\\IActionResultUntilModels\\wwwroot\\sample.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeejnWeDZPE1zEt95RmS/5Xo4TQtAvp9RlYkTt8j01k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 05:25:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeejnWeDZPE1zEt95RmS/5Xo4TQtAvp9RlYkTt8j01k="
+        }
+      ]
+    }
+  ]
+}

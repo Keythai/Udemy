@@ -1,0 +1,4 @@
+D:\.Net project\udemy\asp.net\Udemy\Asp.Net Core\13-2 Assignment\wwwroot\Scripts\FinnhubScript.js
+D:\.Net project\udemy\asp.net\Udemy\Asp.Net Core\13-2 Assignment\wwwroot\StyleSheet.css
+wwwroot\Scripts\FinnhubScript.js
+wwwroot\StyleSheet.css

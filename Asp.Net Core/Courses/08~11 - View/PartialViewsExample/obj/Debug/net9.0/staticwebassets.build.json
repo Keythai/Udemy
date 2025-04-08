@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "67s+ScpOO1XUxYRGndNQSv+XvO/82tibBE81OMHySog=",
+  "Source": "PartialViewsExample",
+  "BasePath": "_content/PartialViewsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewsExample\\wwwroot",
+      "Source": "PartialViewsExample",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-zkqq3swc4m.gz",
+      "SourceId": "PartialViewsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/PartialViewsExample",
+      "RelativePath": "StyleSheet#[.{fingerprint=zkqq3swc4m}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wwoxlb05sy",
+      "Integrity": "oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\wwwroot\\StyleSheet.css"
+    },
+    {
+      "Identity": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialViewsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewsExample",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zkqq3swc4m",
+      "Integrity": "7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-zkqq3swc4m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000692041522"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1444"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 13:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 13:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css.gz",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-zkqq3swc4m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 13:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.zkqq3swc4m.css",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-zkqq3swc4m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000692041522"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1444"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 13:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zkqq3swc4m"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.zkqq3swc4m.css",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 13:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zkqq3swc4m"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.zkqq3swc4m.css.gz",
+      "AssetFile": "D:\\.Net project\\udemy\\asp.net\\Views\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-zkqq3swc4m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 13:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zkqq3swc4m"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc="
+        }
+      ]
+    }
+  ]
+}

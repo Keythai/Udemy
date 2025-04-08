@@ -1,0 +1,2 @@
+C:\ASP.NET DB\Udemy\asp.net core\14 - Configurations\StocksApp\wwwroot\StyleSheet.css
+wwwroot\StyleSheet.css
