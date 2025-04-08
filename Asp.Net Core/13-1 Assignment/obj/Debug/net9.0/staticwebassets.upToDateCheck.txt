@@ -1,2 +1,0 @@
-C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\13-1 Assignment\wwwroot\StyleSheet.css
-wwwroot\StyleSheet.css
