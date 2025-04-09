@@ -1,0 +1,10 @@
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\wwwroot\Scripts\jquery.validate.unobtrusive.min.js
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\wwwroot\StyleSheet.css
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\wwwroot\Scripts\jquery.min.js
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\wwwroot\Scripts\jquery.validate.min.js
+wwwroot\logo.jpg
+wwwroot\Rotativa\wkhtmltopdf.exe
+wwwroot\Scripts\jquery.min.js
+wwwroot\Scripts\jquery.validate.min.js
+wwwroot\Scripts\jquery.validate.unobtrusive.min.js
+wwwroot\StyleSheet.css

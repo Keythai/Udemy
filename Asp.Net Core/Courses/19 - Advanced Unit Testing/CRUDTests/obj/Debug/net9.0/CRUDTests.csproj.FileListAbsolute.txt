@@ -1,0 +1,831 @@
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\testhost.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\testhost.exe
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\CRUDTests.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\CRUDTests.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.assert.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.core.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\refint\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\obj\Debug\net9.0\ref\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\CoverletSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\ServiceContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\CRUDTests\bin\Debug\net9.0\Services.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CRUDTests
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\CoverletSourceRootsMapping_CRUDTests
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.AssemblyReference.cache
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfoInputs.cache
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfo.cs
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.CoreCompileInputs.cache
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\refint\CRUDTests.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\testhost.exe
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\testhost.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\CRUDTests.deps.json
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\CRUDTests.runtimeconfig.json
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\CRUDTests.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\CRUDTests.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.abstractions.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.assert.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.core.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Entities.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ServiceContracts.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Services.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Entities.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\ServiceContracts.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\bin\Debug\net9.0\Services.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.Up2Date
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\CRUDTests.genruntimeconfig.cache
+D:\.Net project\udemy\asp.net\15 - xUnit\CRUDTests\obj\Debug\net9.0\ref\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\CoverletSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\testhost.exe
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\testhost.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\CRUDTests.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\CRUDTests.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\xunit.abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\xunit.assert.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\xunit.core.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\ServiceContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\bin\Debug\net9.0\Services.pdb
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\refint\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\CRUDTests.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\CRUDTests\obj\Debug\net9.0\ref\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\CoverletSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\testhost.exe
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\testhost.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\CRUDTests.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\CRUDTests.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Azure.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Azure.Identity.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.ClientModel.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Memory.Data.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.assert.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.core.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\ServiceContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Services.pdb
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\refint\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\obj\Debug\net9.0\ref\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\CsvHelper.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\EPPlus.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\EPPlus.Interfaces.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Security.Cryptography.Xml.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\CoverletSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\testhost.exe
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\testhost.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\CRUDTests.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\CRUDTests.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Azure.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Azure.Identity.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\CsvHelper.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\EPPlus.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\EPPlus.Interfaces.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.ClientModel.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Memory.Data.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Security.Cryptography.Xml.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.assert.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\ServiceContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\bin\Debug\net9.0\Services.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\refint\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\CRUDTests.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\CRUDTests\obj\Debug\net9.0\ref\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CoverletSourceRootsMapping_CRUDTests
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\testhost.exe
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\testhost.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDTests.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDTests.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Azure.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Azure.Identity.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Castle.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CsvHelper.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\EntityFrameworkCoreMock.Moq.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\EntityFrameworkCoreMock.Shared.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\EPPlus.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\EPPlus.Interfaces.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Moq.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.ClientModel.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Memory.Data.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Security.Cryptography.Xml.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\xunit.abstractions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\xunit.assert.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\xunit.core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\ServiceContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Services.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.csproj.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\refint\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\CRUDTests.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\obj\Debug\net9.0\ref\CRUDTests.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\AutoFixture.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Fare.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\FluentAssertions.dll
