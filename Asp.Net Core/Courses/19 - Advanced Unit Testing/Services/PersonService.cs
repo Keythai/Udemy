@@ -30,10 +30,10 @@ namespace Services
         //    _context = context;
         //}
 
-        private readonly IPersonRepository _personRepository;
-        public PersonService(IPersonRepository personRepository)
+        private readonly IPersonsRepository _personsRepository;
+        public PersonService(IPersonsRepository personRepository)
         {
-            _personRepository = personRepository;
+            _personsRepository = personRepository;
         }
 
         public async Task<PersonResponse> AddPerson(PersonAddRequest? personAddRequest)
@@ -53,7 +53,7 @@ namespace Services
             //_context.Persons.Add(person);
             //await _context.SaveChangesAsync();
 
-            await _personRepository.AddPerson(person);
+            await _personsRepository.AddPerson(person);
 
             return person.ToPersonResponse();
         }
@@ -65,7 +65,7 @@ namespace Services
             //return persons // converting DbSet<Person> to List<Person>
             //    .Select(p => p.ToPersonResponse()).ToList();
 
-            return (await _personRepository.GetAllPersons())
+            return (await _personsRepository.GetAllPersons())
                 .Select(p => p.ToPersonResponse()).ToList();
         }
 
@@ -74,7 +74,7 @@ namespace Services
             if (personId == null) return null;
             //Person? person = await _context.Persons.Include("Country")
             //    .FirstOrDefaultAsync(p => p.PersonId == personId);
-            Person? person = await _personRepository.GetPersonByPersonId(personId.Value);
+            Person? person = await _personsRepository.GetPersonByPersonId(personId.Value);
             if (person == null) return null;
             return person.ToPersonResponse();
         }
@@ -83,25 +83,32 @@ namespace Services
         {
             List<Person> persons = searchBy switch
             {
-                nameof(Person.PersonName) =>
-                    await _personRepository.GetFilteredPersons(p =>
-                    p.PersonName.Contains(searchString)),
-                nameof(Person.Email) =>
-                    await _personRepository.GetFilteredPersons(p =>
-                    p.Email.Contains(searchString)),
-                nameof(Person.DateOfBirth) =>
-                    await _personRepository.GetFilteredPersons(p =>
-                    p.DateOfBirth.Value.ToString("dd MMMM yyyy").Contains(searchString)),
-                nameof(Person.Gender) =>
-                    await _personRepository.GetFilteredPersons(p =>
-                    p.Gender.Contains(searchString)),
-                nameof(Person.CountryId) =>
-                    await _personRepository.GetFilteredPersons(p =>
-                    p.Country.CountryName.Contains(searchString)),
-                nameof(Person.Address) =>
-                    await _personRepository.GetFilteredPersons(p =>
-                    p.Address.Contains(searchString)),
-                _ => await _personRepository.GetAllPersons()
+                nameof(PersonResponse.PersonName) =>
+     await _personsRepository.GetFilteredPersons(temp =>
+     temp.PersonName.Contains(searchString)),
+
+                nameof(PersonResponse.Email) =>
+                 await _personsRepository.GetFilteredPersons(temp =>
+                 temp.Email.Contains(searchString)),
+
+                nameof(PersonResponse.DateOfBirth) =>
+                 await _personsRepository.GetFilteredPersons(temp =>
+                 temp.DateOfBirth.Value.ToString("dd MMMM yyyy").Contains(searchString)),
+
+
+                nameof(PersonResponse.Gender) =>
+                 await _personsRepository.GetFilteredPersons(temp =>
+                 temp.Gender.Contains(searchString)),
+
+                nameof(PersonResponse.CountryId) =>
+                 await _personsRepository.GetFilteredPersons(temp =>
+                 temp.Country.CountryName.Contains(searchString)),
+
+                nameof(PersonResponse.Address) =>
+                await _personsRepository.GetFilteredPersons(temp =>
+                temp.Address.Contains(searchString)),
+
+                _ => await _personsRepository.GetAllPersons()
             };
             return persons.Select(p => p.ToPersonResponse()).ToList();
         }
@@ -143,7 +150,7 @@ namespace Services
 
             //get matching matchingPerson object to update
             //Person? matchingPerson = await _context.Persons.FirstOrDefaultAsync(p => p.PersonId == personUpdateRequest.PersonId);
-            Person? matchingPerson = await _personRepository.GetPersonByPersonId(personUpdateRequest.PersonId);
+            Person? matchingPerson = await _personsRepository.GetPersonByPersonId(personUpdateRequest.PersonId);
             if (matchingPerson == null) throw new ArgumentException("Given id does not exist");
 
             //update all details
@@ -156,7 +163,7 @@ namespace Services
             matchingPerson.ReceiveNewsLetters = personUpdateRequest.ReceiveNewsLetters;
 
             //await _context.SaveChangesAsync();
-            await _personRepository.UpdatePerson(matchingPerson);
+            await _personsRepository.UpdatePerson(matchingPerson);
 
             return matchingPerson.ToPersonResponse();
         }
@@ -169,9 +176,9 @@ namespace Services
             //_context.Persons.Remove(matchingPerson);
             //await _context.SaveChangesAsync();
 
-            Person? matchingPerson = await _personRepository.GetPersonByPersonId(personId.Value);
+            Person? matchingPerson = await _personsRepository.GetPersonByPersonId(personId.Value);
             if (matchingPerson == null) return false;
-            await _personRepository.DetelePersonByPersonId(personId.Value);
+            await _personsRepository.DetelePersonByPersonId(personId.Value);
             return true;
         }
 

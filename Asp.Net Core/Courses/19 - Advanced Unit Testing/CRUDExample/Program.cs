@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Add services, scoped because persondbcontext is scoped
-builder.Services.AddScoped<IPersonRepository, PersonsRepository>();
+builder.Services.AddScoped<IPersonsRepository, PersonsRepository>();
 builder.Services.AddScoped<ICountriesRepository, CountriesRepository>();
 
 builder.Services.AddScoped<ICountriesService, CountriesService>();
@@ -22,10 +22,13 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => {
 
 var app = builder.Build();
 
-// use Rotativa for generating PDF
-Rotativa.AspNetCore.RotativaConfiguration.Setup("wwwroot", "Rotativa");
+// use Rotativa for generating PDF, only execute in non-test environment
+if (builder.Environment.IsEnvironment("Test")==false)
+    Rotativa.AspNetCore.RotativaConfiguration.Setup("wwwroot", "Rotativa");
 app.UseStaticFiles();
 app.UseRouting();
 app.MapControllers();
 
 app.Run();
+
+public partial class Program { } // make the auto-generated Program class acceessible programatically

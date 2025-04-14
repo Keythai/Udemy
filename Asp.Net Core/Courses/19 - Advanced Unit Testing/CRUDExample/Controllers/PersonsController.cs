@@ -74,7 +74,7 @@ namespace CRUDExample.Controllers
             else
             {
                 ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
-                return View(); // Views/Persons/Create.cshtml
+                return View(personAddRequest); // Views/Persons/Create.cshtml
             }
         }
 

@@ -14,6 +14,7 @@ using System.Threading.Tasks;
 
 namespace CRUDTests
 {
+    // unit testing: white box testing, test for the implementation (code)
     public class PersonsControllerTest
     {
         private readonly IPersonsService _personsService;
@@ -59,7 +60,7 @@ namespace CRUDTests
         #region Create
 
         [Fact]
-        public async Task Create_IfNoModelErrors_ShouldReturnCreateView()
+        public async Task Create_IfModelErrors_ShouldReturnCreateView()
         {
             // Arrange
             PersonAddRequest person_add_request = _fixture.Create<PersonAddRequest>();
@@ -73,8 +74,38 @@ namespace CRUDTests
                 .ReturnsAsync(person_response);
             _countriesServiceMock.Setup(c => c.GetAllCountries()).ReturnsAsync(countries);
 
+            // Act
+            personsController.ModelState.AddModelError("PersonName", "Required");
+            IActionResult result = await personsController.Create(person_add_request);
+
+            // Assert
+            ViewResult viewResult = Assert.IsType<ViewResult>(result);
+            viewResult.ViewData.Model.Should().BeAssignableTo<PersonAddRequest>();
+            viewResult.ViewData.Model.Should().Be(person_add_request);
         }
 
+        [Fact]
+        public async Task Create_IfNoModelErrors_ShouldRedirectToIndex()
+        {
+            // Arrange
+            PersonAddRequest person_add_request = _fixture.Create<PersonAddRequest>();
+            PersonResponse person_response = _fixture.Create<PersonResponse>();
+
+            List<CountryResponse> countries = _fixture.Create<List<CountryResponse>>();
+
+            PersonsController personsController = new PersonsController(_personsService, _countriesService);
+
+            _personsServiceMock.Setup(p => p.AddPerson(It.IsAny<PersonAddRequest>()))
+                .ReturnsAsync(person_response);
+            _countriesServiceMock.Setup(c => c.GetAllCountries()).ReturnsAsync(countries);
+
+            // Act
+            IActionResult result = await personsController.Create(person_add_request);
+
+            // Assert
+            RedirectToActionResult redirectResult = Assert.IsType<RedirectToActionResult>(result);
+            redirectResult.ActionName.Should().Be("Index");
+        }
         #endregion
     }
 }

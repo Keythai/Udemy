@@ -23,9 +23,9 @@ namespace CRUDTests
     {
         private readonly IPersonsService _personService;
 
-        // Mock is to create a fake object of IPersonRepository, which contains the fake methods that will return single value set by user
-        private readonly Mock<IPersonRepository> _personRepositoryMock; // Mock methods into IPersonRepository
-        private readonly IPersonRepository _personRepository; // Mocked IPersonRepository object
+        // Mock is to create a fake object of IPersonsRepository, which contains the fake methods that will return single value set by user
+        private readonly Mock<IPersonsRepository> _personRepositoryMock; // Mock methods into IPersonsRepository
+        private readonly IPersonsRepository _personRepository; // Mocked IPersonsRepository object
 
         private readonly ITestOutputHelper _testOutputHelper;
         private readonly IFixture _fixture;
@@ -34,7 +34,7 @@ namespace CRUDTests
             // Initialize the AutoFixture, to create dummy objects
             _fixture = new Fixture();
 
-            _personRepositoryMock = new Mock<IPersonRepository>();
+            _personRepositoryMock = new Mock<IPersonsRepository>();
             _personRepository = _personRepositoryMock.Object;
 
             _personService = new PersonService(_personRepository);
