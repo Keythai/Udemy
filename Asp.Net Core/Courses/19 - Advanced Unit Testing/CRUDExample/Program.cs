@@ -3,11 +3,16 @@ using Services;
 using Microsoft.EntityFrameworkCore;
 using Entities;
 using OfficeOpenXml;
+using Repositories;
+using RepositoryContracts;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Add services, scoped because persondbcontext is scoped
+builder.Services.AddScoped<IPersonRepository, PersonsRepository>();
+builder.Services.AddScoped<ICountriesRepository, CountriesRepository>();
+
 builder.Services.AddScoped<ICountriesService, CountriesService>();
 builder.Services.AddScoped<IPersonsService, PersonService>();
 

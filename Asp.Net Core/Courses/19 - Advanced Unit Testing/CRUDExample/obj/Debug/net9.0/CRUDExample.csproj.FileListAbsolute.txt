@@ -1382,3 +1382,7 @@ C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\obj\Debug\net9.0\CRUDExample.pdb
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\obj\Debug\net9.0\CRUDExample.genruntimeconfig.cache
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\obj\Debug\net9.0\ref\CRUDExample.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\bin\Debug\net9.0\RepositoryContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\bin\Debug\net9.0\RepositoryContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\bin\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDExample\bin\Debug\net9.0\Repositories.pdb

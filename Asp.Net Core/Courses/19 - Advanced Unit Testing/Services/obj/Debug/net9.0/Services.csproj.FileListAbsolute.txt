@@ -136,3 +136,5 @@ C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Services\obj
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Services\obj\Debug\net9.0\refint\Services.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Services\obj\Debug\net9.0\Services.pdb
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Services\obj\Debug\net9.0\ref\Services.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Services\bin\Debug\net9.0\RepositoryContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Services\bin\Debug\net9.0\RepositoryContracts.pdb

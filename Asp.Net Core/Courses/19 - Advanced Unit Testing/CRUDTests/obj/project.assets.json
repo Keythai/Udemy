@@ -1306,6 +1306,18 @@
           }
         }
       },
+      "Rotativa.AspNetCore/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Rotativa.AspNetCore.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Rotativa.AspNetCore.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
         "type": "package",
         "runtimeTargets": {
@@ -3017,6 +3029,29 @@
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "CRUDExample/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
+          "Microsoft.NET.Test.Sdk": "17.12.0",
+          "Repositories": "1.0.0",
+          "RepositoryContracts": "1.0.0",
+          "Rotativa.AspNetCore": "1.4.0",
+          "ServiceContracts": "1.0.0",
+          "Services": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CRUDExample.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CRUDExample.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -3028,6 +3063,19 @@
         },
         "runtime": {
           "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "RepositoryContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
         }
       },
       "RepositoryContracts/1.0.0": {
@@ -3048,7 +3096,8 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Entities": "1.0.0",
-          "Microsoft.AspNetCore.Http": "2.3.0"
+          "Microsoft.AspNetCore.Http": "2.3.0",
+          "RepositoryContracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ServiceContracts.dll": {}
@@ -4806,6 +4855,24 @@
         "newtonsoft.json.13.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
+      ]
+    },
+    "Rotativa.AspNetCore/1.4.0": {
+      "sha512": "zn0KgqCQqiTuNPYgeqrIJxXafjJUfDJBcUJIhAV5NgWSCX3DOEeg339zMJTbzcCyoJgGPL5LrG+IKZ3k8/Uk9Q==",
+      "type": "package",
+      "path": "rotativa.aspnetcore/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net5.0/Rotativa.AspNetCore.dll",
+        "lib/net6.0/Rotativa.AspNetCore.dll",
+        "lib/net7.0/Rotativa.AspNetCore.dll",
+        "lib/net8.0/Rotativa.AspNetCore.dll",
+        "lib/netcoreapp3.1/Rotativa.AspNetCore.dll",
+        "lib/netstandard2.0/Rotativa.AspNetCore.dll",
+        "rotativa.aspnetcore.1.4.0.nupkg.sha512",
+        "rotativa.aspnetcore.nuspec"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -9022,10 +9089,20 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "CRUDExample/1.0.0": {
+      "type": "project",
+      "path": "../CRUDExample/CRUDExample.csproj",
+      "msbuildProject": "../CRUDExample/CRUDExample.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
     },
     "RepositoryContracts/1.0.0": {
       "type": "project",
@@ -9046,6 +9123,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "AutoFixture >= 4.18.1",
+      "CRUDExample >= 1.0.0",
       "Entities >= 1.0.0",
       "EntityFrameworkCoreMock.Moq >= 2.4.0",
       "FluentAssertions >= 8.2.0",
@@ -9091,6 +9169,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample\\CRUDExample.csproj": {
+              "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample\\CRUDExample.csproj"
+            },
             "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Entities\\Entities.csproj": {
               "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Entities\\Entities.csproj"
             },
@@ -9168,7 +9249,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -148,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -183,6 +183,9 @@
             "projectReferences": {
               "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Entities\\Entities.csproj"
+              },
+              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\RepositoryContracts\\RepositoryContracts.csproj"
               }
             }
           }
@@ -224,7 +227,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -307,7 +310,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

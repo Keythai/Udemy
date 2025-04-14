@@ -714,7 +714,6 @@ C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bi
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.ClientModel.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Drawing.Common.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\System.Memory.Data.dll
@@ -800,8 +799,6 @@ C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bi
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
-C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
@@ -829,3 +826,19 @@ C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\ob
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\AutoFixture.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Fare.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\FluentAssertions.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\RepositoryContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\RepositoryContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDExample.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDExample.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\appsettings.Development.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\appsettings.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\countries.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\persons.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDExample.staticwebassets.runtime.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDExample.staticwebassets.endpoints.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDExample.exe
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Rotativa.AspNetCore.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDExample.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\CRUDExample.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\CRUDTests\bin\Debug\net9.0\Repositories.pdb

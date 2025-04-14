@@ -120,3 +120,5 @@ C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\ServiceContr
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
 C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\ServiceContracts\bin\Debug\net9.0\RepositoryContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\ServiceContracts\bin\Debug\net9.0\RepositoryContracts.pdb

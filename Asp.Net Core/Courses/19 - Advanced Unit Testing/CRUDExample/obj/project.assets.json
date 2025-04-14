@@ -2248,6 +2248,19 @@
           "bin/placeholder/Entities.dll": {}
         }
       },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "RepositoryContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
       "RepositoryContracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -2266,7 +2279,8 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Entities": "1.0.0",
-          "Microsoft.AspNetCore.Http": "2.3.0"
+          "Microsoft.AspNetCore.Http": "2.3.0",
+          "RepositoryContracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ServiceContracts.dll": {}
@@ -6199,6 +6213,11 @@
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
     },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
     "RepositoryContracts/1.0.0": {
       "type": "project",
       "path": "../RepositoryContracts/RepositoryContracts.csproj",
@@ -6221,6 +6240,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 9.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
+      "Repositories >= 1.0.0",
+      "RepositoryContracts >= 1.0.0",
       "Rotativa.AspNetCore >= 1.4.0",
       "ServiceContracts >= 1.0.0",
       "Services >= 1.0.0"
@@ -6261,6 +6282,12 @@
           "projectReferences": {
             "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Entities\\Entities.csproj": {
               "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Entities\\Entities.csproj"
+            },
+            "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Repositories\\Repositories.csproj"
+            },
+            "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\RepositoryContracts\\RepositoryContracts.csproj": {
+              "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\RepositoryContracts\\RepositoryContracts.csproj"
             },
             "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\ServiceContracts\\ServiceContracts.csproj": {
               "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\ServiceContracts\\ServiceContracts.csproj"
@@ -6325,7 +6352,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

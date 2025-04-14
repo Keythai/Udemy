@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Services\\Services.csproj": {}
+    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Services\\Services.csproj": {}
   },
   "projects": {
-    "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Entities\\Entities.csproj": {
+    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Entities\\obj\\",
+        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -78,24 +78,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj": {
+    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\ServiceContracts\\obj\\",
+        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj",
+        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -111,8 +111,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Entities\\Entities.csproj"
+              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Entities\\Entities.csproj"
               }
             }
           }
@@ -125,13 +125,19 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -148,24 +154,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Services\\Services.csproj": {
+    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\Services\\obj\\",
+        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -181,8 +187,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\18 - EFCore\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }
@@ -195,7 +201,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -228,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

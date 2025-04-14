@@ -17,7 +17,10 @@
                 <img src="~/logo.jpg" width="30px" asp-append-version=true />
             </div>
             <ul>
-                <li><a href="~/persons/index">Persons</a></li>
+                <li>
+                    <a asp-action="Index" asp-controller="Persons">Persons</a>
+                    <a asp-action="UploadFromExcel" asp-controller="Countries">Upload Countries</a>
+                </li>
             </ul>
         </div>
         <div class="page-content">

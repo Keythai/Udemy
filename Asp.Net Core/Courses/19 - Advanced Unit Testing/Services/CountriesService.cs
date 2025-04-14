@@ -10,18 +10,18 @@ namespace Services
 {
     public class CountriesService : ICountriesService
     {
-        private readonly ApplicationDbContext _context;
+        //private readonly ApplicationDbContext _context;
 
-        public CountriesService(ApplicationDbContext context)
-        {
-            _context = context;
-        }
-
-        //private readonly ICountriesRepository _countriesRepository;
-        //public CountriesService(ICountriesRepository countriesRepository)
+        //public CountriesService(ApplicationDbContext context)
         //{
-        //    _countriesRepository = countriesRepository;
+        //    _context = context;
         //}
+
+        private readonly ICountriesRepository _countriesRepository;
+        public CountriesService(ICountriesRepository countriesRepository)
+        {
+            _countriesRepository = countriesRepository;
+        }
 
         public async Task<CountryResponse> AddCountry(CountryAddRequest? countryAddRequest)
         {
@@ -85,16 +85,25 @@ namespace Services
                     string? cellValue = Convert.ToString(workSheet.Cells[row, 1].Value);
                     if (!string.IsNullOrEmpty(cellValue))
                     {
-                        string countryName = cellValue;
+                        string? countryName = cellValue;
 
-                        if (_context.Countries.Where(c => c.CountryName == countryName).Count() == 0)
+                        //if (_context.Countries.Where(c => c.CountryName == countryName).Count() == 0)
+                        //{
+                        //    Country country = new Country()
+                        //    {
+                        //        CountryName = countryName
+                        //    };
+                        //    _context.Countries.Add(country);
+                        //    await _context.SaveChangesAsync();
+                        //    countriesInserted++;
+                        //}
+                        if (_countriesRepository.GetCountryByName(countryName) == null)
                         {
                             Country country = new Country()
                             {
                                 CountryName = countryName
                             };
-                            _context.Countries.Add(country);
-                            await _context.SaveChangesAsync();
+                            await _countriesRepository.AddCountry(country);
                             countriesInserted++;
                         }
                     }
