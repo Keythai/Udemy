@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\08~11 - View\\ViewComponentsExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\08~11 - view\\viewcomponentsexample\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|solutionrelative:viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\08~11 - view\\viewcomponentsexample\\views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|solutionrelative:views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\08~11 - view\\viewcomponentsexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\08~11 - view\\viewcomponentsexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\08~11 - view\\viewcomponentsexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\08~11 - view\\viewcomponentsexample\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|solutionrelative:viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\08~11 - view\\viewcomponentsexample\\views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|solutionrelative:views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{387ED6FD-5C1D-4D6B-A4E6-598D0EC8C83F}|ViewComponentsExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\08~11 - view\\viewcomponentsexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GridViewComponent.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\08~11 - View\\ViewComponentsExample\\ViewComponents\\GridViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\GridViewComponent.cs",
@@ -91,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\08~11 - View\\ViewComponentsExample\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\08~11 - View\\ViewComponentsExample\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-18T02:56:17.714Z",
               "EditorCaption": ""
@@ -116,19 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\08~11 - View\\ViewComponentsExample\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\08~11 - View\\ViewComponentsExample\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T02:56:07.208Z"
+              "WhenOpened": "2025-03-18T02:56:07.208Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Sample.cshtml",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\08~11 - View\\ViewComponentsExample\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\Grid\\Sample.cshtml",
@@ -136,12 +137,7 @@
               "RelativeToolTip": "Views\\Shared\\Components\\Grid\\Sample.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T08:10:27.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-03-18T08:10:27.899Z"
             },
             {
               "$type": "Document",

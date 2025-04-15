@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\",
+  "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\14 - configurations\\configurationexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\14 - configurations\\configurationexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\14 - configurations\\configurationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\14 - configurations\\configurationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\14 - configurations\\configurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\14 - configurations\\configurationexample\\myownconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:myownconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\14 - configurations\\configurationexample\\weatherapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:weatherapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\14 - configurations\\configurationexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\14 - configurations\\configurationexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\14 - configurations\\configurationexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\14 - configurations\\configurationexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\14 - configurations\\configurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\14 - configurations\\configurationexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\14 - configurations\\configurationexample\\myownconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:myownconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\14 - configurations\\configurationexample\\weatherapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:weatherapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\14 - configurations\\configurationexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{00746C04-1181-4675-880E-0D6878DB6FAE}|ConfigurationExample.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,9 +63,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\Program.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\Program.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,39 +74,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA0wAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T12:23:40.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WeatherApiOptions.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\WeatherApiOptions.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\WeatherApiOptions.cs",
               "RelativeDocumentMoniker": "WeatherApiOptions.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\WeatherApiOptions.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\WeatherApiOptions.cs",
               "RelativeToolTip": "WeatherApiOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T12:40:05.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T12:40:05.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T12:23:55.059Z",
               "EditorCaption": ""
@@ -114,36 +113,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T12:55:48.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MyOwnConfig.json",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\MyOwnConfig.json",
-              "RelativeDocumentMoniker": "MyOwnConfig.json",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\MyOwnConfig.json",
-              "RelativeToolTip": "MyOwnConfig.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T13:28:41.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\appsettings.json",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\appsettings.json",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -151,26 +124,53 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T12:55:48.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyOwnConfig.json",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\MyOwnConfig.json",
+              "RelativeDocumentMoniker": "MyOwnConfig.json",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\MyOwnConfig.json",
+              "RelativeToolTip": "MyOwnConfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T13:28:41.796Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T13:00:43.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T13:00:43.229Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6737da5-3c29-4739-9c1c-c53bdf5d1b3b\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6737da5-3c29-4739-9c1c-c53bdf5d1b3b\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6737da5-3c29-4739-9c1c-c53bdf5d1b3b\\secrets.json",
               "ToolTip": "C:\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6737da5-3c29-4739-9c1c-c53bdf5d1b3b\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6737da5-3c29-4739-9c1c-c53bdf5d1b3b\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\tcyya\\AppData\\Roaming\\Microsoft\\UserSecrets\\a6737da5-3c29-4739-9c1c-c53bdf5d1b3b\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-20T13:08:46.1Z"

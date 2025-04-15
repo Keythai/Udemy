@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EBD5992-BD9E-416B-AF78-BC87FA66B491}|..\\CRUDTests\\CRUDTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\19 - advanced unit testing\\crudtests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EBD5992-BD9E-416B-AF78-BC87FA66B491}|..\\CRUDTests\\CRUDTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\19 - advanced unit testing\\crudtests\\personscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,9 +31,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\19 - advanced unit testing\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|solutionrelative:controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EBD5992-BD9E-416B-AF78-BC87FA66B491}|..\\CRUDTests\\CRUDTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\19 - advanced unit testing\\crudtests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC29E8A3-7047-4D92-9487-1E3FE9136F0F}|CRUDExample.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\19 - advanced unit testing\\crudexample\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -281,7 +281,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -297,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomWebApplicationFactory.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDTests\\CustomWebApplicationFactory.cs",
               "RelativeDocumentMoniker": "..\\CRUDTests\\CustomWebApplicationFactory.cs",
@@ -310,7 +310,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonsControllerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDTests\\PersonsControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\PersonsControllerIntegrationTest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDTests\\PersonsControllerIntegrationTest.cs",
+              "RelativeToolTip": "..\\CRUDTests\\PersonsControllerIntegrationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:09:29.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T12:28:43.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonsControllerTest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDTests\\PersonsControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\PersonsControllerTest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDTests\\PersonsControllerTest.cs",
+              "RelativeToolTip": "..\\CRUDTests\\PersonsControllerTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:32:04.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PersonsRepository.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Repositories\\PersonsRepository.cs",
               "RelativeDocumentMoniker": "..\\Repositories\\PersonsRepository.cs",
@@ -323,33 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonsControllerIntegrationTest.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDTests\\PersonsControllerIntegrationTest.cs",
-              "RelativeDocumentMoniker": "..\\CRUDTests\\PersonsControllerIntegrationTest.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDTests\\PersonsControllerIntegrationTest.cs*",
-              "RelativeToolTip": "..\\CRUDTests\\PersonsControllerIntegrationTest.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwCUAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T12:09:29.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample\\Views\\Persons\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Persons\\Index.cshtml",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample\\Views\\Persons\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Persons\\Index.cshtml*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T12:28:43.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -362,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PersonService.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Services\\PersonService.cs",
               "RelativeDocumentMoniker": "..\\Services\\PersonService.cs",
@@ -379,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IPersonsService.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\ServiceContracts\\IPersonsService.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\IPersonsService.cs",
@@ -392,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PersonsController.cs",
               "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonsController.cs",
@@ -401,19 +414,6 @@
               "ViewState": "AgIAAGQAAAAAAAAAAAAAAEwAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T12:28:15.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PersonsControllerTest.cs",
-              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDTests\\PersonsControllerTest.cs",
-              "RelativeDocumentMoniker": "..\\CRUDTests\\PersonsControllerTest.cs",
-              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDTests\\PersonsControllerTest.cs",
-              "RelativeToolTip": "..\\CRUDTests\\PersonsControllerTest.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAuwGkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T13:32:04.131Z",
               "EditorCaption": ""
             },
             {

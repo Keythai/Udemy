@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\ConfigurationExample.csproj",
+      "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\ConfigurationExample.csproj",
       "projectName": "ConfigurationExample",
-      "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\ConfigurationExample.csproj",
+      "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\ConfigurationExample.csproj",
       "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-      "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\14 - Configurations\\ConfigurationExample\\obj\\",
+      "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\14 - Configurations\\ConfigurationExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -76,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
