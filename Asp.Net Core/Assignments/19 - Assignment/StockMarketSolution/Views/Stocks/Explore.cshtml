@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Stocks>
+@{
+	ViewBag.Title = "Explore";
+	ViewBag.CurrentUrl = "~/trade/explore";
+	ViewBag.PrintedUrl = "Explore";
+}
+
+@if (Context.Request.Query.ContainsKey(""))
+{
+	<ul class="list">
+		@foreach (Stocks stock in Model)
+		{
+			<li>
+				<h5>@stock.StockName</h5>
+				<p>@stock.StockSymbol</p>
+			</li>
+		}
+	</ul>
+}
+
+
+
+@* @foreach (var stock in Model)
+{
+
+}) *@
