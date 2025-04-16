@@ -37,3 +37,4 @@ namespace Repositories
         Task<Dictionary<string, object>?> SearchStocks(string stockSymbolToSearch);
     }
 }
+

@@ -7,6 +7,7 @@ using StockMarketSolution.Models;
 
 namespace StockMarketSolution.Controllers
 {
+    [Route("[controller]")]
     public class StocksController : Controller
     {
         private readonly TradingOptions _options;
@@ -30,9 +31,10 @@ namespace StockMarketSolution.Controllers
             List<Dictionary<string, string>>? stocksDictionary = await _finnhubServices.GetStocks();
             if(stocksDictionary == null)
                 throw new InvalidOperationException("No response from finnhub server");
-            stocksDictionary = stocksDictionary
-                .Where(temp => top25PopularStocks.Contains(Convert.ToString(temp["symbol"])))
-                .ToList();
+            if(!showAll)
+                stocksDictionary = stocksDictionary
+                    .Where(temp => top25PopularStocks.Contains(Convert.ToString(temp["symbol"])))
+                    .ToList();
 
             List<Stocks> stocks = new List<Stocks>();
             stocks = stocksDictionary
@@ -42,6 +44,7 @@ namespace StockMarketSolution.Controllers
                     StockName = temp["description"]
                 })
                 .ToList();
+            ViewBag.Stock = stock;
             return View(stocks);
         }
     }

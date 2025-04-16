@@ -1,26 +1,57 @@
 ﻿@model IEnumerable<Stocks>
 @{
 	ViewBag.Title = "Explore";
-	ViewBag.CurrentUrl = "~/trade/explore";
+	ViewBag.CurrentUrl = "~/Explore";
 	ViewBag.PrintedUrl = "Explore";
 }
 
-@if (Context.Request.Query.ContainsKey(""))
-{
-	<ul class="list">
-		@foreach (Stocks stock in Model)
+
+<div class="flex stocks-list">
+	<div class="flex-1" id="stocks-list">
+		<div class="box">
+			<div class="flex">
+				<div class="flex-1">
+					<h4 class="text-grey mb">Stocks</h4>
+				</div>
+				<div class="flex-1 text-right">
+					<a href="~/stocks/explore?showAll=true" class="mr">Show all stocks</a>
+				</div>
+			</div>
+
+
+			<ul class="list">
+				@foreach (Stocks stock in Model)
+				{
+					<li>
+						@if (Context.Request.Query.ContainsKey("showAll"))
+						{
+							<a href="~/stocks/explore/@stock.StockSymbol?showAll=@Context.Request.Query["showAll"]">
+								<h5>@stock.StockName</h5>
+								<p>@stock.StockSymbol</p>
+							</a>
+						}
+						else
+						{
+							<a href="~/stocks/explore/@stock.StockSymbol">
+								<h5>@stock.StockName</h5>
+								<p>@stock.StockSymbol</p>
+							</a>
+						}
+					</li>
+				}
+			</ul>
+		</div>
+	</div>
+
+	@if (Model.Count() == 0)
+	{
+		<div class="mt text-blue">No stocks</div>
+	}
+
+	<div class="flex-1" id="stock-details">
+		@if (ViewBag.Stock != null)
 		{
-			<li>
-				<h5>@stock.StockName</h5>
-				<p>@stock.StockSymbol</p>
-			</li>
+			<vc:selected-stock stock-symbol=@ViewBag.Stock></vc:selected-stock>
 		}
-	</ul>
-}
-
-
-
-@* @foreach (var stock in Model)
-{
-
-}) *@
+	</div>
+</div>

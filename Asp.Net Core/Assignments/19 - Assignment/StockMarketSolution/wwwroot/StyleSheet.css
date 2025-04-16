@@ -621,13 +621,13 @@ a.button-link:link, a.button-link:visited
     padding-right: 20px;
 }
 
-#new-order-panel
-{
+#new-order-panel {
     padding-left: 5px;
     padding-bottom: 20px;
     padding-top: 50px;
     padding-right: 5px;
     flex: 1 0 auto;
+    margin-top: 20px;
     border-left: 1px solid #bfbfbf;
 }
 
@@ -687,7 +687,6 @@ a.button-link:link, a.button-link:visited
     #new-order-panel
     {
         padding-left: 90px;
-        padding-top: 220px;
         flex: 1 0 auto;
     }
 

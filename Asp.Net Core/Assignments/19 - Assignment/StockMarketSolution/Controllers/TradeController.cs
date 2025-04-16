@@ -24,7 +24,7 @@ namespace StockMarketSolution.Controllers
             _configuration = configuration;
             _stocksService = stocksService;
         }
-        [Route("[action]")]
+        [Route("[action]/{stockSymbol}")]
         [HttpGet]
         public async Task<IActionResult> Index(string stockSymbol)
         {
@@ -39,7 +39,8 @@ namespace StockMarketSolution.Controllers
                 {
                     Price = Convert.ToDouble(stockQuoteDictionary["c"].ToString()),
                     StockName = companyProfileDictionary["name"].ToString(),
-                    StockSymbol = companyProfileDictionary["ticker"].ToString()
+                    StockSymbol = companyProfileDictionary["ticker"].ToString(),
+                    Quantity = (uint)_options.DefaultOrderQuantity
                 };
             }
             ViewBag.Token = _configuration["FinnhubToken"];

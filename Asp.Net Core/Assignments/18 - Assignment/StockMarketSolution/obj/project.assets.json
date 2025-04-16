@@ -5994,11 +5994,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
+      "projectUniqueName": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
       "projectName": "StockMarketSolution",
-      "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
+      "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\",
+      "outputPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6020,17 +6020,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj"
+            "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Entities\\Entities.csproj"
             },
-            "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
-              "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
+            "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
             },
-            "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Services\\Services.csproj": {
-              "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Services\\Services.csproj"
+            "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Services\\Services.csproj": {
+              "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\Services\\Services.csproj"
             },
-            "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\XUnitTest\\XUnitTest.csproj": {
-              "projectPath": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\XUnitTest\\XUnitTest.csproj"
+            "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\XUnitTest\\XUnitTest.csproj": {
+              "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\XUnitTest\\XUnitTest.csproj"
             }
           }
         }
@@ -6043,9 +6043,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -6085,7 +6085,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

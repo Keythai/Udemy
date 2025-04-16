@@ -1,5 +1,5 @@
-D:\Art Resources\Udemy\Asp.Net Core\Assignments\18 - Assignment\StockMarketSolution\wwwroot\StyleSheet.css
-D:\Art Resources\Udemy\Asp.Net Core\Assignments\18 - Assignment\StockMarketSolution\wwwroot\Scripts\FinnhubScript.js
+D:\.Net project\Udemy\Asp.Net Core\Assignments\18 - Assignment\StockMarketSolution\wwwroot\StyleSheet.css
+D:\.Net project\Udemy\Asp.Net Core\Assignments\18 - Assignment\StockMarketSolution\wwwroot\Scripts\FinnhubScript.js
 wwwroot\Rotativa\wkhtmltopdf.exe
 wwwroot\Scripts\FinnhubScript.js
 wwwroot\StyleSheet.css

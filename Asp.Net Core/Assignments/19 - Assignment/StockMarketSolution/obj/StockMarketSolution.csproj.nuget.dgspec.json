@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj": {}
+    "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj": {}
   },
   "projects": {
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
+    "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\obj\\",
+        "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -82,20 +82,20 @@
         }
       }
     },
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj": {
+    "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Repositories\\obj\\",
+        "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -111,8 +111,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj"
               }
             }
           }
@@ -162,20 +162,20 @@
         }
       }
     },
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj": {
+    "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj",
+        "projectUniqueName": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj",
         "projectName": "RepositoryContracts",
-        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj",
-        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\obj\\",
+        "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -191,8 +191,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj"
               }
             }
           }
@@ -232,20 +232,20 @@
         }
       }
     },
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
+    "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj",
-        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\obj\\",
+        "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -261,8 +261,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj"
               }
             }
           }
@@ -302,20 +302,20 @@
         }
       }
     },
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Services\\Services.csproj": {
+    "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Services\\obj\\",
+        "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -331,11 +331,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj"
               },
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }
@@ -385,20 +385,20 @@
         }
       }
     },
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj": {
+    "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
+        "projectUniqueName": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
         "projectName": "StockMarketSolution",
-        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
-        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\StockMarketSolution\\obj\\",
+        "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\StockMarketSolution\\StockMarketSolution.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\StockMarketSolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -414,23 +414,23 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj"
               },
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Repositories\\Repositories.csproj"
               },
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\RepositoryContracts\\RepositoryContracts.csproj"
               },
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
               },
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Services\\Services.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Services\\Services.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Services\\Services.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Services\\Services.csproj"
               },
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj"
               }
             }
           }
@@ -489,20 +489,20 @@
         }
       }
     },
-    "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj": {
+    "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj",
+        "projectUniqueName": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj",
         "projectName": "XUnitTest",
-        "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj",
-        "packagesPath": "C:\\Users\\tcyya\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\XUnitTest\\obj\\",
+        "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\XUnitTest\\XUnitTest.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\XUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tcyya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -518,14 +518,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Entities\\Entities.csproj"
               },
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\ServiceContracts\\ServiceContracts.csproj"
               },
-              "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Services\\Services.csproj": {
-                "projectPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\19 - Assignment\\Services\\Services.csproj"
+              "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Services\\Services.csproj": {
+                "projectPath": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\19 - Assignment\\Services\\Services.csproj"
               }
             }
           }

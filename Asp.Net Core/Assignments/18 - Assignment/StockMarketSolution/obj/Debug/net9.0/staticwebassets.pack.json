@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Id": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
     },
     {
-      "Id": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+      "Id": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
       "PackagePath": "staticwebassets\\Scripts\\FinnhubScript.js"
     },
     {
-      "Id": "D:\\Art Resources\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+      "Id": "D:\\.Net project\\Udemy\\Asp.Net Core\\Assignments\\18 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
       "PackagePath": "staticwebassets\\StyleSheet.css"
     },
     {

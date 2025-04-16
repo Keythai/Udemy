@@ -62,3 +62,19 @@ C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\16 - Assignment\ServiceContr
 C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\16 - Assignment\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
 C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\16 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
 C:\ASP.NET DB\Udemy\asp.net core\Udemy\Asp.Net Core\16 - Assignment\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\bin\Debug\net9.0\Entities.dll
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\bin\Debug\net9.0\Entities.pdb
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceContracts.sourcelink.json
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceC.04662A29.Up2Date
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+D:\.Net project\Udemy\Asp.Net Core\Assignments\17 - Assignment\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll
