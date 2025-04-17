@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/StyleSheet.css" rel="stylesheet" asp-append-version="true"/>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <div class="navbar-brand">
+                @*asp-append-version is to confirm the img loaded is not cached*@
+                <img src="~/logo.jpg" width="30px" asp-append-version=true />
+            </div>
+            <ul>
+                <li>
+                    <a asp-action="Index" asp-controller="Persons">Persons</a>
+                    <a asp-action="UploadFromExcel" asp-controller="Countries">Upload Countries</a>
+                </li>
+            </ul>
+        </div>
+        <div class="page-content">
+			@RenderBody()
+        </div>
+    </div>
+	@RenderSection("scripts", required: false)
+</body>
+</html>
