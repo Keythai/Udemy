@@ -1,0 +1,8 @@
+{
+  "CRUDExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\CRUDExample",
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Entities",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\19 - Advanced Unit Testing\\Services"
+}

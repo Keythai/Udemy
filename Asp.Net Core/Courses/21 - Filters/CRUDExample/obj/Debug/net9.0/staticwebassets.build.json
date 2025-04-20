@@ -1,0 +1,1588 @@
+{
+  "Version": 1,
+  "Hash": "mzHts/v3F2QCkk02WNA08bXzeDZ6BBNYctX26RZuo8k=",
+  "Source": "CRUDExample",
+  "BasePath": "_content/CRUDExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDExample\\wwwroot",
+      "Source": "CRUDExample",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Scripts/jquery.validate.unobtrusive.min#[.{fingerprint=48y08845bh}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8zsd1dwtyb",
+      "Integrity": "9AgLolrDYa1L+bIGcaxD4IUtCa9GYA86KOlg07ABoPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "StyleSheet#[.{fingerprint=jvd61qfezr}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zqupnj3u1c",
+      "Integrity": "FUWcTwcFo1/Zeq/NNIuPg9RkGeDh+Nqilk/vgT5GnYQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\StyleSheet.css"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Scripts/jquery.min#[.{fingerprint=o1o13a6vjx}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9lbv9l0z68",
+      "Integrity": "bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Scripts/jquery.validate.min#[.{fingerprint=ag7o75518u}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m7rg4chp1z",
+      "Integrity": "Po4sWHCLIbaqYqyEYnIYtBO+dRjwxtbreif7YdpGQxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\logo.jpg",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "logo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sb9mxxqw3d",
+      "Integrity": "uF0js/MvF0osUdHrA5rXsFBP46E3SzlRGRkl6g1yelw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.jpg"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cuquy3615b",
+      "Integrity": "ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Scripts/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1o13a6vjx",
+      "Integrity": "/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Scripts/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ag7o75518u",
+      "Integrity": "umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Scripts/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48y08845bh",
+      "Integrity": "RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jvd61qfezr",
+      "Integrity": "QbsUg1RFo/yp5OR9+oim0dkSzurlVkOVYI/ZYxO4JF0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "logo.jpg",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uF0js/MvF0osUdHrA5rXsFBP46E3SzlRGRkl6g1yelw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 11:39:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uF0js/MvF0osUdHrA5rXsFBP46E3SzlRGRkl6g1yelw="
+        }
+      ]
+    },
+    {
+      "Route": "logo.sb9mxxqw3d.jpg",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uF0js/MvF0osUdHrA5rXsFBP46E3SzlRGRkl6g1yelw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 11:39:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sb9mxxqw3d"
+        },
+        {
+          "Name": "label",
+          "Value": "logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uF0js/MvF0osUdHrA5rXsFBP46E3SzlRGRkl6g1yelw="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 00:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cuquy3615b"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltopdf.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.exe",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 00:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032879595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:01:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:01:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.min.js.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:01:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032879595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:01:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:01:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.min.o1o13a6vjx.js.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\vqk1wrr5g9-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:01:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSlV8nIWgnEsf0ljiCRK0xw364UXDcqZZilq1CQ+At0="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.min.ag7o75518u.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000124161907"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8053"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Po4sWHCLIbaqYqyEYnIYtBO+dRjwxtbreif7YdpGQxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ag7o75518u"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.min.ag7o75518u.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ag7o75518u"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.min.ag7o75518u.js.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Po4sWHCLIbaqYqyEYnIYtBO+dRjwxtbreif7YdpGQxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ag7o75518u"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery.validate.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Po4sWHCLIbaqYqyEYnIYtBO+dRjwxtbreif7YdpGQxM="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000124161907"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8053"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Po4sWHCLIbaqYqyEYnIYtBO+dRjwxtbreif7YdpGQxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.min.js.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\w7uunayrpx-ag7o75518u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Po4sWHCLIbaqYqyEYnIYtBO+dRjwxtbreif7YdpGQxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Po4sWHCLIbaqYqyEYnIYtBO+dRjwxtbreif7YdpGQxM="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.unobtrusive.min.48y08845bh.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000452898551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9AgLolrDYa1L+bIGcaxD4IUtCa9GYA86KOlg07ABoPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48y08845bh"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.unobtrusive.min.48y08845bh.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48y08845bh"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.unobtrusive.min.48y08845bh.js.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9AgLolrDYa1L+bIGcaxD4IUtCa9GYA86KOlg07ABoPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48y08845bh"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/jquery.validate.unobtrusive.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9AgLolrDYa1L+bIGcaxD4IUtCa9GYA86KOlg07ABoPA="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000452898551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9AgLolrDYa1L+bIGcaxD4IUtCa9GYA86KOlg07ABoPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\Scripts\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/jquery.validate.unobtrusive.min.js.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\cybe9b7qrh-48y08845bh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9AgLolrDYa1L+bIGcaxD4IUtCa9GYA86KOlg07ABoPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9AgLolrDYa1L+bIGcaxD4IUtCa9GYA86KOlg07ABoPA="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000637755102"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1567"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FUWcTwcFo1/Zeq/NNIuPg9RkGeDh+Nqilk/vgT5GnYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 12:10:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QbsUg1RFo/yp5OR9+oim0dkSzurlVkOVYI/ZYxO4JF0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QbsUg1RFo/yp5OR9+oim0dkSzurlVkOVYI/ZYxO4JF0="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QbsUg1RFo/yp5OR9+oim0dkSzurlVkOVYI/ZYxO4JF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 12:10:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QbsUg1RFo/yp5OR9+oim0dkSzurlVkOVYI/ZYxO4JF0="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FUWcTwcFo1/Zeq/NNIuPg9RkGeDh+Nqilk/vgT5GnYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 12:10:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FUWcTwcFo1/Zeq/NNIuPg9RkGeDh+Nqilk/vgT5GnYQ="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.jvd61qfezr.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000637755102"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1567"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FUWcTwcFo1/Zeq/NNIuPg9RkGeDh+Nqilk/vgT5GnYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 12:10:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QbsUg1RFo/yp5OR9+oim0dkSzurlVkOVYI/ZYxO4JF0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jvd61qfezr"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QbsUg1RFo/yp5OR9+oim0dkSzurlVkOVYI/ZYxO4JF0="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.jvd61qfezr.css",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QbsUg1RFo/yp5OR9+oim0dkSzurlVkOVYI/ZYxO4JF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 12:10:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jvd61qfezr"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QbsUg1RFo/yp5OR9+oim0dkSzurlVkOVYI/ZYxO4JF0="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.jvd61qfezr.css.gz",
+      "AssetFile": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\21 - Filters\\CRUDExample\\obj\\Debug\\net9.0\\compressed\\ukd513sbfd-jvd61qfezr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FUWcTwcFo1/Zeq/NNIuPg9RkGeDh+Nqilk/vgT5GnYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 12:10:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jvd61qfezr"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FUWcTwcFo1/Zeq/NNIuPg9RkGeDh+Nqilk/vgT5GnYQ="
+        }
+      ]
+    }
+  ]
+}
