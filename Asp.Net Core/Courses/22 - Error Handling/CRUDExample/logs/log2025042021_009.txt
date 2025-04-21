@@ -1,0 +1,141 @@
+2025-04-20 21:42:17.009 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-20 21:42:17.017 +08:00 [INF] Hosting environment: Development
+2025-04-20 21:42:17.019 +08:00 [INF] Content root path: C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\CRUDExample
+2025-04-20 21:49:25.099 +08:00 [INF] User profile is available. Using 'C:\Users\tcyya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-20 21:49:25.285 +08:00 [INF] Now listening on: http://localhost:5036
+2025-04-20 21:49:25.960 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/ - null null
+2025-04-20 21:49:26.037 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-04-20 21:49:26.065 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2025-04-20 21:49:26.118 +08:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2025-04-20 21:49:26.318 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - before
+2025-04-20 21:49:26.323 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - before
+2025-04-20 21:49:26.328 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - before
+2025-04-20 21:49:26.336 +08:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-04-20 21:49:26.350 +08:00 [INF] Index action method of PersonsController
+2025-04-20 21:49:26.362 +08:00 [INF] GetFilteredPersons method of PersonService
+2025-04-20 21:49:26.366 +08:00 [INF] GetAllPersons method of PersonsRepository
+2025-04-20 21:49:27.236 +08:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonId], [p].[Address], [p].[CountryId], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryId] = [c].[CountryId]
+2025-04-20 21:49:27.305 +08:00 [INF] Time for GetFilteredPersons from Database completed in 940.0 ms
+2025-04-20 21:49:27.318 +08:00 [INF] GetSortedPersons method of PersonService
+2025-04-20 21:49:27.329 +08:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-04-20 21:49:27.358 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - after
+2025-04-20 21:49:27.360 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - after
+2025-04-20 21:49:27.362 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - after
+2025-04-20 21:49:27.366 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-04-20 21:49:27.376 +08:00 [INF] Executing ViewResult, running view Index.
+2025-04-20 21:49:27.595 +08:00 [INF] Executed ViewResult - view Index executed in 221.4266ms.
+2025-04-20 21:49:27.598 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-04-20 21:49:27.602 +08:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (CRUDExample) in 1479.4717ms
+2025-04-20 21:49:27.605 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2025-04-20 21:49:27.608 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sun, 20 Apr 2025 13:49:27 GMT
+Server: Kestrel
+Last-Modified: 2025-04-20 21:49
+Transfer-Encoding: chunked
+My-_key-From-Action: [Redacted]
+My-_key-From-Global: [Redacted]
+My-_key-From-Controller: [Redacted]
+2025-04-20 21:49:27.612 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-20 21:49:27.613 +08:00 [INF] HTTP GET / responded 200 in 1582.4159 ms
+2025-04-20 21:49:27.617 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_vs/browserLink - null null
+2025-04-20 21:49:27.631 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 18.4457ms
+2025-04-20 21:49:27.643 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/ - 200 null text/html; charset=utf-8 1691.767ms
+2025-04-20 21:49:27.664 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.6632ms
+2025-04-20 21:49:30.789 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/Persons/Create - null null
+2025-04-20 21:49:30.796 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Persons/Create
+2025-04-20 21:49:30.799 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Create (CRUDExample)'
+2025-04-20 21:49:30.809 +08:00 [INF] Route matched with {action = "Create", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create() on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2025-04-20 21:49:30.814 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - before
+2025-04-20 21:49:30.816 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - before
+2025-04-20 21:49:30.818 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - before
+2025-04-20 21:49:30.834 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[CountryId], [c].[CountryName]
+FROM [Countries] AS [c]
+2025-04-20 21:49:30.841 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - after
+2025-04-20 21:49:30.843 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - after
+2025-04-20 21:49:30.845 +08:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - after
+2025-04-20 21:49:30.848 +08:00 [INF] Executing ViewResult, running view Create.
+2025-04-20 21:49:30.950 +08:00 [INF] Executed ViewResult - view Create executed in 102.7868ms.
+2025-04-20 21:49:30.953 +08:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Create (CRUDExample) in 140.8667ms
+2025-04-20 21:49:30.956 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Create (CRUDExample)'
+2025-04-20 21:49:30.959 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sun, 20 Apr 2025 13:49:30 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key: [Redacted]
+My-_key-From-Global: [Redacted]
+My-_key-From-Controller: [Redacted]
+2025-04-20 21:49:30.960 +08:00 [INF] HTTP GET /Persons/Create responded 200 in 164.6274 ms
+2025-04-20 21:49:30.965 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/Persons/Create - 200 null text/html; charset=utf-8 176.691ms
+2025-04-20 21:49:30.977 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-20 21:49:30.978 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_vs/browserLink - null null
+2025-04-20 21:49:30.986 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 8.6176ms
+2025-04-20 21:49:31.023 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.8282ms
+2025-04-20 21:49:46.456 +08:00 [INF] Request starting HTTP/1.1 POST http://localhost:5036/Persons/Create - application/x-www-form-urlencoded 384
+2025-04-20 21:49:46.463 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Persons/Create
+2025-04-20 21:49:46.465 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Create (CRUDExample)'
+2025-04-20 21:49:46.472 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Create (CRUDExample)'
+2025-04-20 21:49:46.474 +08:00 [INF] Response:
+StatusCode: 200
+2025-04-20 21:49:46.477 +08:00 [ERR] HTTP POST /Persons/Create responded 500 in 14.1643 ms
+System.InvalidOperationException: Unable to resolve service for type 'System.Boolean' while attempting to activate 'CRUDExample.Filters.ResourceFilters.FeatureDisabledResourceFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method223(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.TypeFilterAttribute.CreateInstance(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.ProvideFilter(FilterProviderContext context, FilterItem filterItem)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.OnProvidersExecuting(FilterProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.CreateUncachedFiltersCore(IFilterProvider[] filterProviders, ActionContext actionContext, List`1 filterItems)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.GetAllFilters(IFilterProvider[] filterProviders, ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-04-20 21:49:46.491 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Boolean' while attempting to activate 'CRUDExample.Filters.ResourceFilters.FeatureDisabledResourceFilter'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method223(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.TypeFilterAttribute.CreateInstance(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.ProvideFilter(FilterProviderContext context, FilterItem filterItem)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.OnProvidersExecuting(FilterProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.CreateUncachedFiltersCore(IFilterProvider[] filterProviders, ActionContext actionContext, List`1 filterItems)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.GetAllFilters(IFilterProvider[] filterProviders, ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-04-20 21:49:46.510 +08:00 [INF] Request finished HTTP/1.1 POST http://localhost:5036/Persons/Create - 500 null text/html; charset=utf-8 54.0865ms
+2025-04-20 21:49:46.532 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_vs/browserLink - null null
+2025-04-20 21:49:46.533 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-20 21:49:46.544 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 10.7332ms
+2025-04-20 21:49:46.545 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.7304ms

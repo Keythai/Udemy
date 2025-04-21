@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\21 - Assignment\\StockMarketSolution\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\21 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\ChartScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\ChartScript.js"
+    },
+    {
+      "Id": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\21 - Assignment\\StockMarketSolution\\wwwroot\\Scripts\\FinnhubScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Id": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\21 - Assignment\\StockMarketSolution\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StockMarketSolution.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StockMarketSolution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.StockMarketSolution.props",
+      "PackagePath": "build\\StockMarketSolution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.StockMarketSolution.props",
+      "PackagePath": "buildMultiTargeting\\StockMarketSolution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.StockMarketSolution.props",
+      "PackagePath": "buildTransitive\\StockMarketSolution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
