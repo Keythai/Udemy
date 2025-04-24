@@ -1,0 +1,90 @@
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\bin\Debug\net9.0\Repositories.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\bin\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\bin\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\bin\Debug\net9.0\RepositoryContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\bin\Debug\net9.0\RepositoryContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\Repositories.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Repositories\obj\Debug\net9.0\ref\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\bin\Debug\net9.0\Repositories.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\bin\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\bin\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\bin\Debug\net9.0\RepositoryContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\bin\Debug\net9.0\RepositoryContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\Repositories.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Repositories\obj\Debug\net9.0\ref\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\bin\Debug\net9.0\Repositories.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\bin\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\bin\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\bin\Debug\net9.0\RepositoryContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\bin\Debug\net9.0\RepositoryContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\Repositories.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Repositories\obj\Debug\net9.0\ref\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\bin\Debug\net9.0\Repositories.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\bin\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\bin\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\bin\Debug\net9.0\RepositoryContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\bin\Debug\net9.0\RepositoryContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\Repositories.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Repositories\obj\Debug\net9.0\ref\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\bin\Debug\net9.0\Repositories.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\bin\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\bin\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\bin\Debug\net9.0\RepositoryContracts.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\bin\Debug\net9.0\RepositoryContracts.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\Repositories.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\Repositories.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Repositories\obj\Debug\net9.0\ref\Repositories.dll

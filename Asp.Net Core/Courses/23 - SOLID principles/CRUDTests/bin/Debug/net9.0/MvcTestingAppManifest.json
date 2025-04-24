@@ -1,0 +1,9 @@
+{
+  "CRUDExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\23 - SOLID principles\\CRUDExample",
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\23 - SOLID principles\\Entities",
+  "Exceptions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\23 - SOLID principles\\Exceptions",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\23 - SOLID principles\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\23 - SOLID principles\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\23 - SOLID principles\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\23 - SOLID principles\\Services"
+}

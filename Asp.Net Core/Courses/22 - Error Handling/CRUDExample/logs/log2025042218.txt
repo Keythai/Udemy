@@ -1,0 +1,197 @@
+2025-04-22 18:40:37.651 +08:00 [INF] User profile is available. Using 'C:\Users\tcyya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-22 18:40:37.971 +08:00 [INF] Now listening on: http://localhost:5036
+2025-04-22 18:40:40.229 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/ - null null
+2025-04-22 18:40:40.349 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-04-22 18:40:40.380 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2025-04-22 18:40:40.461 +08:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2025-04-22 18:40:40.657 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-22 18:40:40.661 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-22 18:40:40.663 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-22 18:40:40.666 +08:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-04-22 18:40:40.669 +08:00 [INF] Index action method of PersonsController
+2025-04-22 18:40:40.673 +08:00 [INF] GetFilteredPersons method of PersonService
+2025-04-22 18:40:40.676 +08:00 [INF] GetAllPersons method of PersonsRepository
+2025-04-22 18:40:41.632 +08:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonId], [p].[Address], [p].[CountryId], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryId] = [c].[CountryId]
+2025-04-22 18:40:41.711 +08:00 [INF] Time for GetFilteredPersons from Database completed in 1035.0 ms
+2025-04-22 18:40:41.725 +08:00 [INF] GetSortedPersons method of PersonService
+2025-04-22 18:40:41.745 +08:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-04-22 18:40:41.793 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-22 18:40:41.795 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-22 18:40:41.796 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-22 18:40:41.800 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-04-22 18:40:41.809 +08:00 [INF] Executing ViewResult, running view Index.
+2025-04-22 18:40:42.015 +08:00 [INF] Executed ViewResult - view Index executed in 206.2811ms.
+2025-04-22 18:40:42.020 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-04-22 18:40:42.026 +08:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (CRUDExample) in 1559.8879ms
+2025-04-22 18:40:42.033 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2025-04-22 18:40:42.038 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 22 Apr 2025 10:40:41 GMT
+Server: Kestrel
+Last-Modified: 2025-04-22 18:40
+Transfer-Encoding: chunked
+My-_key-From-Controller: [Redacted]
+My-key-From-Action: [Redacted]
+My-_key-From-Global: [Redacted]
+2025-04-22 18:40:42.078 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_vs/browserLink - null null
+2025-04-22 18:40:42.078 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/StyleSheet.css?v=o5ziDkV335hMlpPPJfn62P7gIO-dZrnohcQvO-mLTh4 - null null
+2025-04-22 18:40:42.078 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-22 18:40:42.079 +08:00 [INF] HTTP GET / responded 200 in 1697.1464 ms
+2025-04-22 18:40:42.096 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 17.451ms
+2025-04-22 18:40:42.098 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /StyleSheet.css
+2025-04-22 18:40:42.118 +08:00 [INF] The file /StyleSheet.css was not modified
+2025-04-22 18:40:42.121 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/ - 200 null text/html; charset=utf-8 1910.8262ms
+2025-04-22 18:40:42.121 +08:00 [INF] Response:
+StatusCode: 304
+Content-Type: text/css
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Mon, 21 Apr 2025 11:39:52 GMT
+2025-04-22 18:40:42.128 +08:00 [INF] HTTP GET /StyleSheet.css responded 304 in 30.2523 ms
+2025-04-22 18:40:42.131 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/StyleSheet.css?v=o5ziDkV335hMlpPPJfn62P7gIO-dZrnohcQvO-mLTh4 - 304 null text/css 53.1533ms
+2025-04-22 18:40:42.152 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 74.3548ms
+2025-04-22 18:40:42.245 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/favicon.ico - null null
+2025-04-22 18:40:42.260 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+2025-04-22 18:40:42.271 +08:00 [INF] Response:
+StatusCode: 404
+2025-04-22 18:40:42.275 +08:00 [INF] HTTP GET /favicon.ico responded 404 in 15.7919 ms
+2025-04-22 18:40:42.287 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/favicon.ico - 404 0 null 41.6695ms
+2025-04-22 18:40:42.299 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5036/favicon.ico, Response status code: 404
+2025-04-22 18:40:44.609 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/Persons/Edit/d15c6d9f-70b4-48c5-afd3-e71261f1a9be - null null
+2025-04-22 18:40:44.615 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Persons/Edit/d15c6d9f-70b4-48c5-afd3-e71261f1a9be
+2025-04-22 18:40:44.618 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Edit (CRUDExample)'
+2025-04-22 18:40:44.623 +08:00 [INF] Route matched with {action = "Edit", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Edit(System.Guid) on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2025-04-22 18:40:44.628 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-22 18:40:44.630 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-22 18:40:44.687 +08:00 [INF] Executed DbCommand (22ms) [Parameters=[@__personId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[PersonId], [p].[Address], [p].[CountryId], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryId] = [c].[CountryId]
+WHERE [p].[PersonId] = @__personId_0
+2025-04-22 18:40:44.700 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[CountryId], [c].[CountryName]
+FROM [Countries] AS [c]
+2025-04-22 18:40:44.706 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-22 18:40:44.708 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-22 18:40:44.714 +08:00 [INF] Executing ViewResult, running view Edit.
+2025-04-22 18:40:44.806 +08:00 [INF] Executed ViewResult - view Edit executed in 93.3985ms.
+2025-04-22 18:40:44.809 +08:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Edit (CRUDExample) in 182.8362ms
+2025-04-22 18:40:44.812 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Edit (CRUDExample)'
+2025-04-22 18:40:44.816 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 22 Apr 2025 10:40:44 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+Transfer-Encoding: chunked
+My-_key-From-Controller: [Redacted]
+My-_key-From-Global: [Redacted]
+X-Frame-Options: [Redacted]
+2025-04-22 18:40:44.819 +08:00 [INF] HTTP GET /Persons/Edit/d15c6d9f-70b4-48c5-afd3-e71261f1a9be responded 200 in 203.3786 ms
+2025-04-22 18:40:44.824 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/Persons/Edit/d15c6d9f-70b4-48c5-afd3-e71261f1a9be - 200 null text/html; charset=utf-8 215.8533ms
+2025-04-22 18:40:44.835 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-22 18:40:44.835 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_vs/browserLink - null null
+2025-04-22 18:40:44.844 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 8.8729ms
+2025-04-22 18:40:44.860 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.2143ms
+2025-04-22 18:40:46.090 +08:00 [INF] Request starting HTTP/1.1 POST http://localhost:5036/Persons/Edit/d15c6d9f-70b4-48c5-afd3-e71261f1a9be - application/x-www-form-urlencoded 463
+2025-04-22 18:40:46.096 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Persons/Edit/d15c6d9f-70b4-48c5-afd3-e71261f1a9be
+2025-04-22 18:40:46.098 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Edit (CRUDExample)'
+2025-04-22 18:40:46.110 +08:00 [INF] Route matched with {action = "Edit", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Edit(ServiceContracts.DTO.PersonUpdateRequest) on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2025-04-22 18:40:46.133 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-22 18:40:46.136 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-22 18:40:46.181 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[@__personId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[PersonId], [p].[Address], [p].[CountryId], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryId] = [c].[CountryId]
+WHERE [p].[PersonId] = @__personId_0
+2025-04-22 18:40:46.224 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[@__personId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[PersonId], [p].[Address], [p].[CountryId], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryId] = [c].[CountryId]
+WHERE [p].[PersonId] = @__personId_0
+2025-04-22 18:40:54.374 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-22 18:40:54.412 +08:00 [INF] In after logic of PersonsCreateAndEdit Action filter
+2025-04-22 18:40:54.413 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-22 18:40:54.417 +08:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Edit (CRUDExample) in 8304.1093ms
+2025-04-22 18:40:54.420 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Edit (CRUDExample)'
+2025-04-22 18:40:54.422 +08:00 [INF] Response:
+StatusCode: 200
+My-_key-From-Controller: [Redacted]
+My-_key-From-Global: [Redacted]
+2025-04-22 18:40:54.424 +08:00 [ERR] HTTP POST /Persons/Edit/d15c6d9f-70b4-48c5-afd3-e71261f1a9be responded 500 in 8327.9957 ms
+Exceptions.InvalidPersonIdException: Given id does not exist
+   at Services.PersonService.UpdatePerson(PersonUpdateRequest personUpdateRequest) in C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Services\PersonService.cs:line 168
+   at CRUDExample.Controllers.PersonsController.Edit(PersonUpdateRequest personRequest) in C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\CRUDExample\Controllers\PersonsController.cs:line 115
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-04-22 18:40:54.466 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+Exceptions.InvalidPersonIdException: Given id does not exist
+   at Services.PersonService.UpdatePerson(PersonUpdateRequest personUpdateRequest) in C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Services\PersonService.cs:line 168
+   at CRUDExample.Controllers.PersonsController.Edit(PersonUpdateRequest personRequest) in C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\CRUDExample\Controllers\PersonsController.cs:line 115
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-04-22 18:40:54.547 +08:00 [INF] Request finished HTTP/1.1 POST http://localhost:5036/Persons/Edit/d15c6d9f-70b4-48c5-afd3-e71261f1a9be - 500 null text/html; charset=utf-8 8456.42ms
+2025-04-22 18:40:54.566 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_vs/browserLink - null null
+2025-04-22 18:40:54.566 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-22 18:40:54.574 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 7.8734ms
+2025-04-22 18:40:54.575 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5036/_vs/browserLink - 200 null text/javascript; charset=UTF-8 8.7327ms

@@ -1,0 +1,9 @@
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\23 - Assignment\StockMarketSolution\wwwroot\StyleSheet.css
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\23 - Assignment\StockMarketSolution\wwwroot\Scripts\ChartScript.js
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\23 - Assignment\StockMarketSolution\wwwroot\error.svg
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\23 - Assignment\StockMarketSolution\wwwroot\Scripts\FinnhubScript.js
+wwwroot\error.svg
+wwwroot\Rotativa\wkhtmltopdf.exe
+wwwroot\Scripts\ChartScript.js
+wwwroot\Scripts\FinnhubScript.js
+wwwroot\StyleSheet.css

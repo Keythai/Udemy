@@ -1,0 +1,12 @@
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\obj\Debug\net9.0\Stocks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\obj\Debug\net9.0\Stocks.Core.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\obj\Debug\net9.0\Stocks.Core.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\obj\Debug\net9.0\Stocks.Core.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\obj\Debug\net9.0\Stocks.Core.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\bin\Debug\net9.0\Stocks.Core.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\bin\Debug\net9.0\Stocks.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\bin\Debug\net9.0\Stocks.Core.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\obj\Debug\net9.0\Stocks.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\obj\Debug\net9.0\refint\Stocks.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\obj\Debug\net9.0\Stocks.Core.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\24 - Assignment\StocksSolution\Stocks.Core\obj\Debug\net9.0\ref\Stocks.Core.dll

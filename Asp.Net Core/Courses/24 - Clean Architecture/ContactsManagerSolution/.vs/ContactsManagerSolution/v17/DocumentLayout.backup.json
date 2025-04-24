@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0E704E-C924-473E-8E27-AFA9F71901D4}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.integrationtests\\personscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0E704E-C924-473E-8E27-AFA9F71901D4}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|solutionrelative:contactsmanager.integrationtests\\personscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D794F3E7-FC4B-4A40-8F46-783D062CAA1B}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.servicetests\\contactsmanager.servicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D794F3E7-FC4B-4A40-8F46-783D062CAA1B}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|solutionrelative:contactsmanager.servicetests\\contactsmanager.servicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D794F3E7-FC4B-4A40-8F46-783D062CAA1B}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.servicetests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D794F3E7-FC4B-4A40-8F46-783D062CAA1B}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|solutionrelative:contactsmanager.servicetests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D794F3E7-FC4B-4A40-8F46-783D062CAA1B}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.servicetests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D794F3E7-FC4B-4A40-8F46-783D062CAA1B}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|solutionrelative:contactsmanager.servicetests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256DF96-D269-43F9-9E29-4FB784C4261E}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.ui\\contactsmanager.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8256DF96-D269-43F9-9E29-4FB784C4261E}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\contactsmanager.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256DF96-D269-43F9-9E29-4FB784C4261E}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8256DF96-D269-43F9-9E29-4FB784C4261E}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256DF96-D269-43F9-9E29-4FB784C4261E}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256DF96-D269-43F9-9E29-4FB784C4261E}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ECDC16-6C83-4565-AD1C-095EF0371C9D}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.infrastructure\\contactsmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9ECDC16-6C83-4565-AD1C-095EF0371C9D}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|solutionrelative:contactsmanager.infrastructure\\contactsmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.core\\services\\personssorterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\personssorterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.core\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.core\\services\\personsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\personsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.core\\services\\personsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\personsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.core\\services\\personsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\personsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.core\\services\\countriesuploaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\countriesuploaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.core\\services\\countriesgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\countriesgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.core\\services\\countriesadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE282D-AAC9-4B94-8C4F-7640C7810D49}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\countriesadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ECDC16-6C83-4565-AD1C-095EF0371C9D}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|c:\\asp.net db\\udemy\\asp.net core\\courses\\24 - clean architecture\\contactsmanagersolution\\contactsmanager.infrastructure\\migrations\\20250424113901_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9ECDC16-6C83-4565-AD1C-095EF0371C9D}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|solutionrelative:contactsmanager.infrastructure\\migrations\\20250424113901_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonsControllerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\PersonsControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.IntegrationTests\\PersonsControllerIntegrationTest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\PersonsControllerIntegrationTest.cs",
+              "RelativeToolTip": "ContactsManager.IntegrationTests\\PersonsControllerIntegrationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:16:21.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsManager.ServiceTests.csproj",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
+              "RelativeDocumentMoniker": "ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
+              "RelativeToolTip": "ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T12:17:58.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonServiceTest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.ServiceTests\\PersonServiceTest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.ServiceTests\\PersonServiceTest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.ServiceTests\\PersonServiceTest.cs",
+              "RelativeToolTip": "ContactsManager.ServiceTests\\PersonServiceTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:16:15.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.ServiceTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.ServiceTests\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.ServiceTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "ContactsManager.ServiceTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:15:55.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250424113901_Initial.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Infrastructure\\Migrations\\20250424113901_Initial.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\Migrations\\20250424113901_Initial.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Infrastructure\\Migrations\\20250424113901_Initial.cs",
+              "RelativeToolTip": "ContactsManager.Infrastructure\\Migrations\\20250424113901_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:39:01.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\appsettings.json",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.UI\\appsettings.json",
+              "RelativeToolTip": "ContactsManager.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T11:38:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsManager.UI.csproj",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\ContactsManager.UI.csproj",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj",
+              "RelativeToolTip": "ContactsManager.UI\\ContactsManager.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T13:55:11.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Program.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:54:53.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactsManager.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+              "RelativeToolTip": "ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T13:49:46.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonsSorterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsSorterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\PersonsSorterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsSorterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\PersonsSorterService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIA3wDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:47:41.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\DTO\\PersonResponse.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\PersonResponse.cs",
+              "RelativeToolTip": "ContactsManager.Core\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAywEYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:47:33.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonsGetterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsGetterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\PersonsGetterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsGetterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\PersonsGetterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:46:25.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonsDeleterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsDeleterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\PersonsDeleterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsDeleterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\PersonsDeleterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:46:17.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonsAdderService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsAdderService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\PersonsAdderService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsAdderService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\PersonsAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:46:01.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountriesUploaderService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\CountriesUploaderService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\CountriesUploaderService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\CountriesUploaderService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\CountriesUploaderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:45:53.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountriesGetterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\CountriesGetterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\CountriesGetterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\CountriesGetterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\CountriesGetterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:45:50.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CountriesAdderService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\CountriesAdderService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\CountriesAdderService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Courses\\24 - Clean Architecture\\ContactsManagerSolution\\ContactsManager.Core\\Services\\CountriesAdderService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\CountriesAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:45:39.64Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

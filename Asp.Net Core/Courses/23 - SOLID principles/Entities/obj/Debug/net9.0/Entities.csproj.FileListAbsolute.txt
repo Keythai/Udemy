@@ -1,0 +1,159 @@
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\15 - xUnit\Entities\obj\Debug\net9.0\ref\Entities.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\bin\Debug\net9.0\Entities.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\bin\Debug\net9.0\Entities.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\obj\Debug\net9.0\Entities.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\obj\Debug\net9.0\Entities.pdb
+D:\.Net project\udemy\asp.net\15 - xUnit\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\16 - CRUD Operations\Entities\obj\Debug\net9.0\ref\Entities.dll
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\bin\Debug\net9.0\Entities.dll
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\bin\Debug\net9.0\Entities.pdb
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.dll
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\obj\Debug\net9.0\Entities.pdb
+D:\.Net project\udemy\asp.net\16 - CRUD Operations\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\17 - Tag helpers\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\bin\Debug\net9.0\Entities.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\Entities.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\18 - EFCore\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\bin\Debug\net9.0\Entities.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\Entities.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\18 - EFCore\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\bin\Debug\net9.0\Entities.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\Entities.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\19 - Advanced Unit Testing\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\bin\Debug\net9.0\Entities.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\Entities.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\20 - Logging and Serilog\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\bin\Debug\net9.0\Entities.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\Entities.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\21 - Filters\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\bin\Debug\net9.0\Entities.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\Entities.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\22 - Error Handling\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\bin\Debug\net9.0\Entities.runtimeconfig.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\Entities.genruntimeconfig.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\23 - SOLID principles\Entities\obj\Debug\net9.0\ref\Entities.dll

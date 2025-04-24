@@ -1,0 +1,9 @@
+{
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\23 - Assignment\\Entities",
+  "Exceptions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\23 - Assignment\\Exceptions",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\23 - Assignment\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\23 - Assignment\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\23 - Assignment\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\23 - Assignment\\Services",
+  "StockMarketSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\23 - Assignment\\StockMarketSolution"
+}
