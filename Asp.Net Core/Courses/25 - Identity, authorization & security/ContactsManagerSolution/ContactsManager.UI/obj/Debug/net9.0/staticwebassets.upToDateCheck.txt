@@ -1,0 +1,14 @@
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\StyleSheet.css
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\Scripts\jquery.validate.min.js
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\error.svg
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\Scripts\jquery.min.js
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\Scripts\jquery.validate.unobtrusive.min.js
+wwwroot\error.svg
+wwwroot\favicon.ico
+wwwroot\logo.jpg
+wwwroot\Rotativa\wkhtmltopdf.exe
+wwwroot\Scripts\jquery.min.js
+wwwroot\Scripts\jquery.validate.min.js
+wwwroot\Scripts\jquery.validate.unobtrusive.min.js
+wwwroot\StyleSheet.css

@@ -1,0 +1,65 @@
+2025-04-29 02:47:50.807 +08:00 [INF] User profile is available. Using 'C:\Users\tcyya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-29 02:47:51.304 +08:00 [INF] Now listening on: http://localhost:5265
+2025-04-29 02:47:55.034 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/ - null null
+2025-04-29 02:47:55.123 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-04-29 02:47:55.170 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-29 02:47:55.186 +08:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-04-29 02:47:55.190 +08:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5265/Account/Login?ReturnUrl=%2F
+2025-04-29 02:47:55.195 +08:00 [INF] HTTP GET / responded 302 in 74.4514 ms
+2025-04-29 02:47:55.207 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/ - 302 0 null 184.7961ms
+2025-04-29 02:47:55.218 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/Login?ReturnUrl=%2F - null null
+2025-04-29 02:47:55.227 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2025-04-29 02:47:55.239 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-04-29 02:47:55.287 +08:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-29 02:47:55.462 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 02:47:55.465 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 02:47:55.476 +08:00 [INF] Executing ViewResult, running view Login.
+2025-04-29 02:47:55.687 +08:00 [INF] Executed ViewResult - view Login executed in 214.2934ms.
+2025-04-29 02:47:55.692 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 399.3903ms
+2025-04-29 02:47:55.695 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-04-29 02:47:55.698 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 28 Apr 2025 18:47:55 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+Transfer-Encoding: chunked
+My-_key-From-Global: [Redacted]
+X-Frame-Options: [Redacted]
+2025-04-29 02:47:55.701 +08:00 [INF] HTTP GET /Account/Login responded 200 in 473.8998 ms
+2025-04-29 02:47:55.705 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/StyleSheet.css?v=o5ziDkV335hMlpPPJfn62P7gIO-dZrnohcQvO-mLTh4 - null null
+2025-04-29 02:47:55.710 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-29 02:47:55.712 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/Login?ReturnUrl=%2F - 200 null text/html; charset=utf-8 495.0351ms
+2025-04-29 02:47:55.724 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /StyleSheet.css
+2025-04-29 02:47:55.729 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 19.1654ms
+2025-04-29 02:47:55.731 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_vs/browserLink - null null
+2025-04-29 02:47:55.745 +08:00 [INF] The file /StyleSheet.css was not modified
+2025-04-29 02:47:55.750 +08:00 [INF] Response:
+StatusCode: 304
+Content-Type: text/css
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Mon, 21 Apr 2025 11:39:52 GMT
+2025-04-29 02:47:55.752 +08:00 [INF] HTTP GET /StyleSheet.css responded 304 in 27.8770 ms
+2025-04-29 02:47:55.757 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/StyleSheet.css?v=o5ziDkV335hMlpPPJfn62P7gIO-dZrnohcQvO-mLTh4 - 304 null text/css 51.2599ms
+2025-04-29 02:47:55.792 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 61.3032ms

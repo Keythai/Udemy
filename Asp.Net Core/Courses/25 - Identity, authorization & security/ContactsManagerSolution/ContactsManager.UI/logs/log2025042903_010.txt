@@ -1,0 +1,80 @@
+2025-04-29 03:47:59.408 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-29 03:47:59.416 +08:00 [INF] Hosting environment: Development
+2025-04-29 03:47:59.418 +08:00 [INF] Content root path: C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI
+2025-04-29 03:48:49.134 +08:00 [INF] User profile is available. Using 'C:\Users\tcyya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-29 03:48:49.322 +08:00 [INF] Now listening on: http://localhost:5265
+2025-04-29 03:48:49.563 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/ - null null
+2025-04-29 03:48:49.626 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-04-29 03:48:49.866 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-04-29 03:48:49.918 +08:00 [INF] Route matched with {action = "Index", controller = "Persons", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-04-29 03:48:49.941 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 03:48:49.951 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 03:48:49.953 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 03:48:49.956 +08:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-04-29 03:48:49.959 +08:00 [INF] Index action method of PersonsController
+2025-04-29 03:48:49.963 +08:00 [INF] GetFilteredPersons method of PersonService
+2025-04-29 03:48:49.966 +08:00 [INF] GetAllPersons method of PersonsRepository
+2025-04-29 03:48:51.262 +08:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonId], [p].[Address], [p].[CountryId], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryId] = [c].[CountryId]
+2025-04-29 03:48:51.338 +08:00 [INF] Time for GetFilteredPersons from Database completed in 1372.9 ms
+2025-04-29 03:48:51.351 +08:00 [INF] GetSortedPersons method of PersonService
+2025-04-29 03:48:51.361 +08:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-04-29 03:48:51.388 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 03:48:51.390 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 03:48:51.391 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 03:48:51.394 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-04-29 03:48:51.402 +08:00 [INF] Executing ViewResult, running view Index.
+2025-04-29 03:48:51.547 +08:00 [INF] Executed ViewResult - view Index executed in 146.3784ms.
+2025-04-29 03:48:51.551 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-04-29 03:48:51.555 +08:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 1630.2785ms
+2025-04-29 03:48:51.558 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-04-29 03:48:51.564 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 28 Apr 2025 19:48:51 GMT
+Server: Kestrel
+Last-Modified: 2025-04-29 03:48
+Transfer-Encoding: chunked
+My-_key-From-Controller: [Redacted]
+My-key-From-Action: [Redacted]
+My-_key-From-Global: [Redacted]
+2025-04-29 03:48:51.565 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-29 03:48:51.570 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_vs/browserLink - null null
+2025-04-29 03:48:51.577 +08:00 [INF] HTTP GET / responded 200 in 1950.1441 ms
+2025-04-29 03:48:51.604 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 14.7277ms
+2025-04-29 03:48:51.619 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/ - 200 null text/html; charset=utf-8 2063.6107ms
+2025-04-29 03:48:51.637 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.7795ms
+2025-04-29 03:48:55.329 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/Register - null null
+2025-04-29 03:48:55.339 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-04-29 03:48:55.349 +08:00 [INF] Authorization failed. These requirements were not met:
+Handler assertion should evaluate to true.
+2025-04-29 03:48:55.359 +08:00 [INF] AuthenticationScheme: Identity.Application was forbidden.
+2025-04-29 03:48:55.363 +08:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5265/Account/AccessDenied?ReturnUrl=%2FAccount%2FRegister
+2025-04-29 03:48:55.366 +08:00 [INF] HTTP GET /Account/Register responded 302 in 26.9290 ms
+2025-04-29 03:48:55.372 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/Register - 302 0 null 42.6565ms
+2025-04-29 03:48:55.380 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/AccessDenied?ReturnUrl=%2FAccount%2FRegister - null null
+2025-04-29 03:48:55.388 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/AccessDenied
+2025-04-29 03:48:55.406 +08:00 [INF] Response:
+StatusCode: 404
+2025-04-29 03:48:55.408 +08:00 [INF] HTTP GET /Account/AccessDenied responded 404 in 20.4586 ms
+2025-04-29 03:48:55.413 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/AccessDenied?ReturnUrl=%2FAccount%2FRegister - 404 0 null 32.4193ms
+2025-04-29 03:48:55.421 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5265/Account/AccessDenied, Response status code: 404

@@ -1,0 +1,80 @@
+2025-04-29 02:47:51.353 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-29 02:47:51.368 +08:00 [INF] Hosting environment: Development
+2025-04-29 02:47:51.398 +08:00 [INF] Content root path: C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI
+2025-04-29 02:48:07.041 +08:00 [INF] User profile is available. Using 'C:\Users\tcyya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-29 02:48:07.337 +08:00 [INF] Now listening on: http://localhost:5265
+2025-04-29 02:48:08.125 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/ - null null
+2025-04-29 02:48:08.208 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-04-29 02:48:08.254 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-29 02:48:08.267 +08:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-04-29 02:48:08.270 +08:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5265/Account/Login?ReturnUrl=%2F
+2025-04-29 02:48:08.273 +08:00 [INF] HTTP GET / responded 302 in 71.4867 ms
+2025-04-29 02:48:08.282 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/ - 302 0 null 167.9139ms
+2025-04-29 02:48:08.290 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/Login?ReturnUrl=%2F - null null
+2025-04-29 02:48:08.300 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2025-04-29 02:48:08.310 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-04-29 02:48:08.335 +08:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-29 02:48:08.459 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 02:48:08.462 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 02:48:08.471 +08:00 [INF] Executing ViewResult, running view Login.
+2025-04-29 02:48:08.634 +08:00 [INF] Executed ViewResult - view Login executed in 165.7888ms.
+2025-04-29 02:48:08.638 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 291.1468ms
+2025-04-29 02:48:08.641 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-04-29 02:48:08.643 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 28 Apr 2025 18:48:08 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-_key-From-Global: [Redacted]
+2025-04-29 02:48:08.644 +08:00 [INF] HTTP GET /Account/Login responded 200 in 344.3455 ms
+2025-04-29 02:48:08.652 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/Login?ReturnUrl=%2F - 200 null text/html; charset=utf-8 362.307ms
+2025-04-29 02:48:08.653 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_vs/browserLink - null null
+2025-04-29 02:48:08.661 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-29 02:48:08.671 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 9.528ms
+2025-04-29 02:48:08.690 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.6526ms
+2025-04-29 02:48:10.200 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/Register - null null
+2025-04-29 02:48:10.206 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-04-29 02:48:10.212 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-29 02:48:10.215 +08:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-29 02:48:10.223 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 02:48:10.225 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 02:48:10.228 +08:00 [INF] Executing ViewResult, running view Register.
+2025-04-29 02:48:10.267 +08:00 [INF] Executed ViewResult - view Register executed in 39.7616ms.
+2025-04-29 02:48:10.270 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 51.8223ms
+2025-04-29 02:48:10.273 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-29 02:48:10.276 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 28 Apr 2025 18:48:09 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-_key-From-Global: [Redacted]
+2025-04-29 02:48:10.277 +08:00 [INF] HTTP GET /Account/Register responded 200 in 71.5216 ms
+2025-04-29 02:48:10.281 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/Register - 200 null text/html; charset=utf-8 81.127ms
+2025-04-29 02:48:10.293 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_vs/browserLink - null null
+2025-04-29 02:48:10.293 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-29 02:48:10.305 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 11.6307ms
+2025-04-29 02:48:10.315 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.9167ms

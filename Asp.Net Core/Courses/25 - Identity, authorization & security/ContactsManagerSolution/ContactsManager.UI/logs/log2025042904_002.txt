@@ -1,0 +1,370 @@
+2025-04-29 04:35:53.409 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-29 04:35:53.417 +08:00 [INF] Hosting environment: Development
+2025-04-29 04:35:53.453 +08:00 [INF] Content root path: C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI
+2025-04-29 04:37:30.201 +08:00 [INF] User profile is available. Using 'C:\Users\tcyya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-29 04:37:30.418 +08:00 [INF] Now listening on: https://localhost:5265
+2025-04-29 04:37:30.868 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/ - null null
+2025-04-29 04:37:30.930 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /
+2025-04-29 04:37:30.969 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-29 04:37:30.980 +08:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-04-29 04:37:30.983 +08:00 [INF] Response:
+StatusCode: 302
+Location: https://localhost:5265/Account/Login?ReturnUrl=%2F
+2025-04-29 04:37:30.986 +08:00 [INF] HTTP GET / responded 302 in 60.6742 ms
+2025-04-29 04:37:30.995 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/ - 302 0 null 134.9336ms
+2025-04-29 04:37:31.000 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/Account/Login?ReturnUrl=%2F - null null
+2025-04-29 04:37:31.008 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Account/Login
+2025-04-29 04:37:31.019 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-04-29 04:37:31.045 +08:00 [INF] Route matched with {action = "Login", controller = "Account", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-29 04:37:31.165 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:37:31.167 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:37:31.177 +08:00 [INF] Executing ViewResult, running view Login.
+2025-04-29 04:37:31.370 +08:00 [INF] Executed ViewResult - view Login executed in 195.3876ms.
+2025-04-29 04:37:31.376 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 327.7513ms
+2025-04-29 04:37:31.379 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-04-29 04:37:31.385 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 28 Apr 2025 20:37:30 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+My-_key-From-Global: [Redacted]
+2025-04-29 04:37:31.387 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-29 04:37:31.388 +08:00 [INF] HTTP GET /Account/Login responded 200 in 379.9446 ms
+2025-04-29 04:37:31.390 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_vs/browserLink - null null
+2025-04-29 04:37:31.432 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 45.1213ms
+2025-04-29 04:37:31.433 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/Account/Login?ReturnUrl=%2F - 200 null text/html; charset=utf-8 432.8825ms
+2025-04-29 04:37:31.456 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 65.8397ms
+2025-04-29 04:37:32.767 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/Account/Register - null null
+2025-04-29 04:37:32.773 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Account/Register
+2025-04-29 04:37:32.778 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-29 04:37:32.781 +08:00 [INF] Route matched with {action = "Register", controller = "Account", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-29 04:37:32.790 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:37:32.791 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:37:32.794 +08:00 [INF] Executing ViewResult, running view Register.
+2025-04-29 04:37:32.831 +08:00 [INF] Executed ViewResult - view Register executed in 37.8626ms.
+2025-04-29 04:37:32.834 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 49.7315ms
+2025-04-29 04:37:32.836 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-29 04:37:32.839 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 28 Apr 2025 20:37:32 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+My-_key-From-Global: [Redacted]
+2025-04-29 04:37:32.841 +08:00 [INF] HTTP GET /Account/Register responded 200 in 67.8435 ms
+2025-04-29 04:37:32.844 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/Account/Register - 200 null text/html; charset=utf-8 76.9836ms
+2025-04-29 04:37:32.855 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_vs/browserLink - null null
+2025-04-29 04:37:32.855 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-29 04:37:32.864 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 9.0474ms
+2025-04-29 04:37:32.873 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 18.3702ms
+2025-04-29 04:37:38.735 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/Account/IsEmailAlreadyRegistered?Email=scott%40example.com - null null
+2025-04-29 04:37:38.742 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2025-04-29 04:37:38.744 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2025-04-29 04:37:38.755 +08:00 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-29 04:37:38.777 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:37:39.698 +08:00 [INF] Executed DbCommand (27ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2025-04-29 04:37:39.717 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:37:39.722 +08:00 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2025-04-29 04:37:39.726 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 967.8542ms
+2025-04-29 04:37:39.729 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2025-04-29 04:37:39.731 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 28 Apr 2025 20:37:39 GMT
+Server: Kestrel
+My-_key-From-Global: [Redacted]
+2025-04-29 04:37:39.732 +08:00 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 990.3745 ms
+2025-04-29 04:37:39.739 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/Account/IsEmailAlreadyRegistered?Email=scott%40example.com - 200 null application/json; charset=utf-8 1003.8583ms
+2025-04-29 04:37:51.797 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5265/Account/Register - application/x-www-form-urlencoded 299
+2025-04-29 04:37:51.804 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: POST
+Scheme: https
+PathBase: 
+Path: /Account/Register
+2025-04-29 04:37:51.807 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-29 04:37:51.814 +08:00 [INF] Route matched with {action = "Register", controller = "Account", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-29 04:37:51.835 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:37:51.950 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-04-29 04:37:52.088 +08:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PersonName], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2025-04-29 04:37:52.107 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-04-29 04:37:52.116 +08:00 [INF] Executed DbCommand (0ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-04-29 04:37:52.138 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);
+2025-04-29 04:37:52.150 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-04-29 04:37:52.198 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Guid), @__p_1='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[RoleId]
+FROM [AspNetUserRoles] AS [a]
+WHERE [a].[UserId] = @__p_0 AND [a].[RoleId] = @__p_1
+2025-04-29 04:37:52.204 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2025-04-29 04:37:52.219 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-04-29 04:37:52.252 +08:00 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Guid), @p17='?' (DbType = Guid), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p18='?' (Size = 4000), @p4='?' (Size = 256), @p5='?' (DbType = Boolean), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserRoles] ([RoleId], [UserId])
+VALUES (@p0, @p1);
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p2, [ConcurrencyStamp] = @p3, [Email] = @p4, [EmailConfirmed] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [NormalizedEmail] = @p8, [NormalizedUserName] = @p9, [PasswordHash] = @p10, [PersonName] = @p11, [PhoneNumber] = @p12, [PhoneNumberConfirmed] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2025-04-29 04:37:52.287 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2025-04-29 04:37:52.317 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2025-04-29 04:37:52.325 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2025-04-29 04:37:52.339 +08:00 [INF] Executed DbCommand (3ms) [Parameters=[@__role_Id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0
+2025-04-29 04:37:52.351 +08:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2025-04-29 04:37:52.355 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:37:52.358 +08:00 [INF] Executing RedirectResult, redirecting to /Persons/Index.
+2025-04-29 04:37:52.360 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 543.1206ms
+2025-04-29 04:37:52.364 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-29 04:37:52.366 +08:00 [INF] Response:
+StatusCode: 302
+Cache-Control: [Redacted]
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: /Persons/Index
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+My-_key-From-Global: [Redacted]
+2025-04-29 04:37:52.368 +08:00 [INF] HTTP POST /Account/Register responded 302 in 563.9689 ms
+2025-04-29 04:37:52.372 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5265/Account/Register - 302 0 null 575.1085ms
+2025-04-29 04:37:52.375 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/Persons/Index - null null
+2025-04-29 04:37:52.412 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Persons/Index
+2025-04-29 04:37:52.417 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-04-29 04:37:52.425 +08:00 [INF] Route matched with {action = "Index", controller = "Persons", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-04-29 04:37:52.432 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:37:52.434 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:37:52.435 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:37:52.437 +08:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-04-29 04:37:52.441 +08:00 [INF] Index action method of PersonsController
+2025-04-29 04:37:52.448 +08:00 [INF] GetFilteredPersons method of PersonService
+2025-04-29 04:37:52.450 +08:00 [INF] GetAllPersons method of PersonsRepository
+2025-04-29 04:37:52.496 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonId], [p].[Address], [p].[CountryId], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryId] = [c].[CountryId]
+2025-04-29 04:37:52.530 +08:00 [INF] Time for GetFilteredPersons from Database completed in 80.1 ms
+2025-04-29 04:37:52.545 +08:00 [INF] GetSortedPersons method of PersonService
+2025-04-29 04:37:52.549 +08:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-04-29 04:37:52.553 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:37:52.555 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:37:52.557 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:37:52.559 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-04-29 04:37:52.562 +08:00 [INF] Executing ViewResult, running view Index.
+2025-04-29 04:37:52.629 +08:00 [INF] Executed ViewResult - view Index executed in 67.4059ms.
+2025-04-29 04:37:52.633 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-04-29 04:37:52.638 +08:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 209.4998ms
+2025-04-29 04:37:52.641 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-04-29 04:37:52.644 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 28 Apr 2025 20:37:52 GMT
+Server: Kestrel
+Last-Modified: 2025-04-29 04:37
+My-_key-From-Controller: [Redacted]
+My-key-From-Action: [Redacted]
+My-_key-From-Global: [Redacted]
+2025-04-29 04:37:52.646 +08:00 [INF] HTTP GET /Persons/Index responded 200 in 234.2732 ms
+2025-04-29 04:37:52.651 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/Persons/Index - 200 null text/html; charset=utf-8 276.5547ms
+2025-04-29 04:37:52.665 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-29 04:37:52.665 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_vs/browserLink - null null
+2025-04-29 04:37:52.672 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 7.5242ms
+2025-04-29 04:37:52.680 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.1227ms
+2025-04-29 04:38:38.329 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/Persons/Index - null null
+2025-04-29 04:38:38.338 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Persons/Index
+2025-04-29 04:38:38.341 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-04-29 04:38:38.344 +08:00 [INF] Route matched with {action = "Index", controller = "Persons", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-04-29 04:38:38.385 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:38:38.386 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:38:38.387 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:38:38.388 +08:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-04-29 04:38:38.390 +08:00 [INF] Index action method of PersonsController
+2025-04-29 04:38:38.391 +08:00 [INF] GetFilteredPersons method of PersonService
+2025-04-29 04:38:38.392 +08:00 [INF] GetAllPersons method of PersonsRepository
+2025-04-29 04:38:38.395 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonId], [p].[Address], [p].[CountryId], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryId] = [c].[CountryId]
+2025-04-29 04:38:38.400 +08:00 [INF] Time for GetFilteredPersons from Database completed in 7.5 ms
+2025-04-29 04:38:38.402 +08:00 [INF] GetSortedPersons method of PersonService
+2025-04-29 04:38:38.403 +08:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-04-29 04:38:38.405 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:38:38.406 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:38:38.407 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:38:38.408 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-04-29 04:38:38.410 +08:00 [INF] Executing ViewResult, running view Index.
+2025-04-29 04:38:38.413 +08:00 [INF] Executed ViewResult - view Index executed in 3.0984ms.
+2025-04-29 04:38:38.415 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-04-29 04:38:38.418 +08:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 71.276ms
+2025-04-29 04:38:38.420 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-04-29 04:38:38.422 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 28 Apr 2025 20:38:37 GMT
+Server: Kestrel
+Last-Modified: 2025-04-29 04:38
+My-_key-From-Controller: [Redacted]
+My-key-From-Action: [Redacted]
+My-_key-From-Global: [Redacted]
+2025-04-29 04:38:38.424 +08:00 [INF] HTTP GET /Persons/Index responded 200 in 85.3558 ms
+2025-04-29 04:38:38.428 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/Persons/Index - 200 null text/html; charset=utf-8 99.335ms
+2025-04-29 04:38:38.434 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/StyleSheet.css?v=o5ziDkV335hMlpPPJfn62P7gIO-dZrnohcQvO-mLTh4 - null null
+2025-04-29 04:38:38.441 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /StyleSheet.css
+2025-04-29 04:38:38.441 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-29 04:38:38.444 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_vs/browserLink - null null
+2025-04-29 04:38:38.453 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 12.8125ms
+2025-04-29 04:38:38.467 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.4878ms
+2025-04-29 04:38:38.480 +08:00 [INF] Sending file. Request path: '/StyleSheet.css'. Physical path: 'C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\StyleSheet.css'
+2025-04-29 04:38:38.484 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 28 Apr 2025 20:38:37 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Mon, 21 Apr 2025 11:39:52 GMT
+Content-Length: 10766
+2025-04-29 04:38:38.485 +08:00 [INF] HTTP GET /StyleSheet.css responded 200 in 44.4920 ms
+2025-04-29 04:38:38.487 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/StyleSheet.css?v=o5ziDkV335hMlpPPJfn62P7gIO-dZrnohcQvO-mLTh4 - 200 10766 text/css 53.3541ms
+2025-04-29 04:38:38.621 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/favicon.ico - null null
+2025-04-29 04:38:38.626 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+2025-04-29 04:38:38.629 +08:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-04-29 04:38:38.632 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Date: Mon, 28 Apr 2025 20:38:37 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 23 Apr 2025 13:33:20 GMT
+Content-Length: 5430
+2025-04-29 04:38:38.634 +08:00 [INF] HTTP GET /favicon.ico responded 200 in 7.6641 ms
+2025-04-29 04:38:38.637 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/favicon.ico - 200 5430 image/x-icon 15.3044ms
+2025-04-29 04:38:47.597 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/Persons/Index - null null
+2025-04-29 04:38:47.605 +08:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Persons/Index
+2025-04-29 04:38:47.608 +08:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-04-29 04:38:47.611 +08:00 [INF] Route matched with {action = "Index", controller = "Persons", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-04-29 04:38:47.624 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:38:47.626 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:38:47.628 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-29 04:38:47.630 +08:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-04-29 04:38:47.633 +08:00 [INF] Index action method of PersonsController
+2025-04-29 04:38:47.636 +08:00 [INF] GetFilteredPersons method of PersonService
+2025-04-29 04:38:47.638 +08:00 [INF] GetAllPersons method of PersonsRepository
+2025-04-29 04:38:47.645 +08:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonId], [p].[Address], [p].[CountryId], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryId] = [c].[CountryId]
+2025-04-29 04:38:47.654 +08:00 [INF] Time for GetFilteredPersons from Database completed in 16.1 ms
+2025-04-29 04:38:47.658 +08:00 [INF] GetSortedPersons method of PersonService
+2025-04-29 04:38:47.660 +08:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-04-29 04:38:47.663 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:38:47.665 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:38:47.667 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-29 04:38:47.669 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-04-29 04:38:47.671 +08:00 [INF] Executing ViewResult, running view Index.
+2025-04-29 04:38:47.674 +08:00 [INF] Executed ViewResult - view Index executed in 3.4123ms.
+2025-04-29 04:38:47.676 +08:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-04-29 04:38:47.679 +08:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 61.7821ms
+2025-04-29 04:38:47.681 +08:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-04-29 04:38:47.683 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 28 Apr 2025 20:38:46 GMT
+Server: Kestrel
+Last-Modified: 2025-04-29 04:38
+My-_key-From-Controller: [Redacted]
+My-key-From-Action: [Redacted]
+My-_key-From-Global: [Redacted]
+2025-04-29 04:38:47.685 +08:00 [INF] HTTP GET /Persons/Index responded 200 in 80.0867 ms
+2025-04-29 04:38:47.688 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/Persons/Index - 200 null text/html; charset=utf-8 91.4577ms
+2025-04-29 04:38:47.691 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-29 04:38:47.695 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5265/_vs/browserLink - null null
+2025-04-29 04:38:47.700 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 8.6218ms
+2025-04-29 04:38:47.712 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 17.2719ms

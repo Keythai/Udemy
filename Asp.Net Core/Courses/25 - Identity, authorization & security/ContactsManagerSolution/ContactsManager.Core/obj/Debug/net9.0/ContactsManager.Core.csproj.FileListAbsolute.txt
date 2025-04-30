@@ -1,0 +1,26 @@
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net9.0\ContactsManager.Core.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net9.0\ContactsManager.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net9.0\ContactsManager.Core.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\refint\ContactsManager.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\24 - Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ref\ContactsManager.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\refint\ContactsManager.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net9.0\ContactsManager.Core.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net9.0\ContactsManager.Core.dll
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net9.0\ContactsManager.Core.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net9.0\ref\ContactsManager.Core.dll

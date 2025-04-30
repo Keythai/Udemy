@@ -1,0 +1,153 @@
+﻿@model PersonUpdateRequest
+@{
+	ViewBag.Title = "Edit Person";
+	ViewBag.CurrentUrl = "~/Persons/Edit";
+}
+
+@*asp-controller & asp-action represents url/route*@
+@*asp-validation-for print error message*@
+@*asp-for automatically assign given variable name as name and id with associate data type provided in model class*@
+@*asp-items represents the list of items to provide for <select>*@
+@*asp-validation-summary="All" will show all errors in the form*@
+
+<!-- breadcrumb start -->
+<div class="flex">
+	<div class="flex-1">
+		<span class="text-grey">Contacts</span>
+		<i class="fa-solid fa-caret-right"></i>
+		<span class="text-grey">Persons</span>
+		<i class="fa-solid fa-caret-right"></i>
+		<span class="text-grey">Edit</span>
+	</div>
+</div>
+<!-- breadcrumb end -->
+
+
+
+<div class="form-container">
+	<a asp-controller="Persons" asp-action="Index" class="link-hover">Back to Persons list</a>
+	<h2 class="text-large">Edit Person</h2>
+	<form asp-controller="Persons" asp-action="Edit" method="post">
+
+		<input type="hidden" asp-for="PersonId" />
+
+		@*PersonName*@
+		<div class="form-field flex">
+			<div class="w-25">
+				<label asp-for="PersonName" class="form-label pt">Person Name</label>
+			</div>
+			<div class="flex-1">
+				<input asp-for="PersonName" class="form-input" />
+				<span asp-validation-for="PersonName" class="text-red"></span>
+			</div>
+		</div>
+
+		@*Email*@
+		<div class="form-field flex">
+			<div class="w-25">
+				<label asp-for="Email" class="form-label pt">Email</label>
+			</div>
+			<div class="flex-1">
+				<input asp-for="Email" class="form-input" />
+				<span asp-validation-for="Email" class="text-red"></span>
+			</div>
+		</div>
+
+		@*DateOfBirth*@
+		<div class="form-field flex">
+			<div class="w-25">
+				<label asp-for="DateOfBirth" class="form-label pt">Date Of Birth</label>
+			</div>
+			<div class="flex-1">
+				<input asp-for="DateOfBirth" class="form-input" />
+				<span asp-validation-for="DateOfBirth" class="text-red"></span>
+			</div>
+		</div>
+
+		@*Gender*@
+		<div class="form-field flex">
+			<div class="w-25">
+				<label class="form-label">Gender</label>
+			</div>
+			<div class="flex-1">
+				@{
+					string[] genders = (string[])Enum.GetNames(typeof(GenderOptions));
+				}
+				@foreach (string gender in genders){
+					<input type="radio" asp-for="Gender" value="@gender" class="ml" />
+					<label asp-for="@gender">@gender</label>
+				}
+				<span asp-validation-for="Gender" class="text-red"></span>
+			</div>
+		</div>
+
+		@*Country*@
+		<div class="form-field flex">
+			<div class="w-25">
+				<label asp-for="CountryId" class="form-label pt">Country</label>
+			</div>
+			<div class="flex-1">
+				<select asp-for="CountryId" class="form-input" asp-items="@ViewBag.Countries">
+					<option value="">Select Country</option>
+				</select>
+				<span asp-validation-for="CountryId" class="text-red"></span>
+			</div>
+		</div>
+
+		@*Address*@
+		<div class="form-field flex">
+			<div class="w-25">
+				<label asp-for="Address" class="form-label pt">Address</label>
+			</div>
+			<div class="flex-1">
+				<textarea asp-for="Address" class="form-input"></textarea>
+				<span asp-validation-for="Address" class="text-red"></span>
+			</div>
+		</div>
+
+		@*ReceiveNewsLetters*@
+		<div class="form-field flex">
+			<div class="w-25">
+			</div>
+			<div class="flex-1">
+				<input asp-for="ReceiveNewsLetters" value="true" />
+				<label asp-for="ReceiveNewsLetters" class="form-label">Receive News Letters</label>
+				<span asp-validation-for="ReceiveNewsLetters" class="text-red"></span>
+			</div>
+		</div>
+
+		@*Submit*@
+		<div class="form-field flex">
+			<div class="w-25">
+			</div>
+			<div class="flex-1">
+				<button class="button button-green-back">Update</button>
+
+				<div asp-validation-summary="All" class="text-red"></div>
+
+				@if (ViewBag.Errors != null)
+				{
+					<div class="text-red ml">
+						<ul>
+							@foreach (string error in ViewBag.Errors)
+							{
+								<li class="ml">@error</li>
+							}
+						</ul>
+					</div>
+				}
+			</div>
+		</div>
+
+	</form>
+</div>
+
+@*The scripts implement clientside validations from PersonAddRequest, fallback is a good practice when the js script link is not working*@
+@section scripts{
+<script asp-fallback-test="window.jQuery" asp-fallback-src="~/Scripts/jquery.min.js"
+	src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script asp-fallback-test="window.jQuery.validator" asp-fallback-src="~/Scripts/jquery.validate.min.js"
+	src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.21.0/jquery.validate.min.js" integrity="sha512-KFHXdr2oObHKI9w4Hv1XPKc898mE4kgYx58oqsc/JqqdLMDI4YjOLzom+EMlW8HFUd0QfjfAvxSL6sEq/a42fQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script asp-fallback-test="window.jQuery.validator.unobtrusive" asp-fallback-src="~/Scripts/jquery.validate.unobtrusive.min.js"
+	src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}

@@ -1,0 +1,202 @@
+2025-04-28 06:47:51.572 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-28 06:47:51.583 +08:00 [INF] Hosting environment: Development
+2025-04-28 06:47:51.611 +08:00 [INF] Content root path: C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI
+2025-04-28 06:48:50.778 +08:00 [INF] User profile is available. Using 'C:\Users\tcyya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-28 06:48:50.976 +08:00 [INF] Now listening on: http://localhost:5265
+2025-04-28 06:48:51.930 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/ - null null
+2025-04-28 06:48:52.009 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-04-28 06:48:52.055 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-28 06:48:52.069 +08:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-04-28 06:48:52.071 +08:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5265/Account/Login?ReturnUrl=%2F
+2025-04-28 06:48:52.075 +08:00 [INF] HTTP GET / responded 302 in 70.8513 ms
+2025-04-28 06:48:52.084 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/ - 302 0 null 163.3332ms
+2025-04-28 06:48:52.091 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/Login?ReturnUrl=%2F - null null
+2025-04-28 06:48:52.099 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2025-04-28 06:48:52.108 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-04-28 06:48:52.131 +08:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-28 06:48:52.316 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-28 06:48:52.319 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-28 06:48:52.332 +08:00 [INF] Executing ViewResult, running view Login.
+2025-04-28 06:48:52.526 +08:00 [INF] Executed ViewResult - view Login executed in 197.0149ms.
+2025-04-28 06:48:52.530 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 394.6151ms
+2025-04-28 06:48:52.532 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-04-28 06:48:52.535 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sun, 27 Apr 2025 22:48:51 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-_key-From-Global: [Redacted]
+2025-04-28 06:48:52.537 +08:00 [INF] HTTP GET /Account/Login responded 200 in 438.1691 ms
+2025-04-28 06:48:52.540 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-28 06:48:52.544 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/Login?ReturnUrl=%2F - 200 null text/html; charset=utf-8 453.3559ms
+2025-04-28 06:48:52.548 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 8.4727ms
+2025-04-28 06:48:52.558 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_vs/browserLink - null null
+2025-04-28 06:48:52.585 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.4263ms
+2025-04-28 06:48:54.355 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/Register - null null
+2025-04-28 06:48:54.362 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-04-28 06:48:54.366 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-28 06:48:54.369 +08:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-28 06:48:54.378 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-28 06:48:54.383 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-28 06:48:54.385 +08:00 [INF] Executing ViewResult, running view Register.
+2025-04-28 06:48:54.414 +08:00 [INF] Executed ViewResult - view Register executed in 29.0576ms.
+2025-04-28 06:48:54.416 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 44.7087ms
+2025-04-28 06:48:54.419 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-28 06:48:54.422 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sun, 27 Apr 2025 22:48:53 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-_key-From-Global: [Redacted]
+2025-04-28 06:48:54.424 +08:00 [INF] HTTP GET /Account/Register responded 200 in 62.3983 ms
+2025-04-28 06:48:54.430 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/Register - 200 null text/html; charset=utf-8 75.1295ms
+2025-04-28 06:48:54.438 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_vs/browserLink - null null
+2025-04-28 06:48:54.438 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-28 06:48:54.448 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 9.5153ms
+2025-04-28 06:48:54.459 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 21.5081ms
+2025-04-28 06:49:10.434 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/Register - null null
+2025-04-28 06:49:10.460 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-04-28 06:49:10.464 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-28 06:49:10.466 +08:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-28 06:49:10.501 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-28 06:49:10.503 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-28 06:49:10.504 +08:00 [INF] Executing ViewResult, running view Register.
+2025-04-28 06:49:10.525 +08:00 [INF] Executed ViewResult - view Register executed in 21.0988ms.
+2025-04-28 06:49:10.533 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 64.8379ms
+2025-04-28 06:49:10.541 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-04-28 06:49:10.544 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sun, 27 Apr 2025 22:49:10 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-_key-From-Global: [Redacted]
+2025-04-28 06:49:10.546 +08:00 [INF] HTTP GET /Account/Register responded 200 in 93.1073 ms
+2025-04-28 06:49:10.550 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/Register - 200 null text/html; charset=utf-8 115.2637ms
+2025-04-28 06:49:10.570 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/StyleSheet.css?v=o5ziDkV335hMlpPPJfn62P7gIO-dZrnohcQvO-mLTh4 - null null
+2025-04-28 06:49:10.575 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-28 06:49:10.576 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/_vs/browserLink - null null
+2025-04-28 06:49:10.576 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /StyleSheet.css
+2025-04-28 06:49:10.583 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 7.4135ms
+2025-04-28 06:49:10.592 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/_vs/browserLink - 200 null text/javascript; charset=UTF-8 16.4359ms
+2025-04-28 06:49:10.601 +08:00 [INF] Sending file. Request path: '/StyleSheet.css'. Physical path: 'C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\StyleSheet.css'
+2025-04-28 06:49:10.604 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Sun, 27 Apr 2025 22:49:10 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Mon, 21 Apr 2025 11:39:52 GMT
+Content-Length: 10766
+2025-04-28 06:49:10.608 +08:00 [INF] HTTP GET /StyleSheet.css responded 200 in 31.8359 ms
+2025-04-28 06:49:10.613 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/StyleSheet.css?v=o5ziDkV335hMlpPPJfn62P7gIO-dZrnohcQvO-mLTh4 - 200 10766 text/css 43.0871ms
+2025-04-28 06:49:10.742 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/favicon.ico - null null
+2025-04-28 06:49:10.748 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+2025-04-28 06:49:10.756 +08:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\ASP.NET DB\Udemy\asp.net core\Courses\25 - Identity, authorization & security\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-04-28 06:49:10.761 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Date: Sun, 27 Apr 2025 22:49:10 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 23 Apr 2025 13:33:20 GMT
+Content-Length: 5430
+2025-04-28 06:49:10.763 +08:00 [INF] HTTP GET /favicon.ico responded 200 in 15.5442 ms
+2025-04-28 06:49:10.768 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/favicon.ico - 200 5430 image/x-icon 25.2603ms
+2025-04-28 06:49:43.672 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/IsEmailAlreadyRegistered?Email=smith%40example.com - null null
+2025-04-28 06:49:43.685 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2025-04-28 06:49:43.687 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2025-04-28 06:49:43.703 +08:00 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-28 06:49:43.717 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-28 06:49:44.515 +08:00 [INF] Executed DbCommand (18ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2025-04-28 06:49:44.580 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-28 06:49:44.584 +08:00 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2025-04-28 06:49:44.588 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 880.667ms
+2025-04-28 06:49:44.590 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2025-04-28 06:49:44.592 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sun, 27 Apr 2025 22:49:44 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My-_key-From-Global: [Redacted]
+2025-04-28 06:49:44.594 +08:00 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 908.5264 ms
+2025-04-28 06:49:44.601 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/IsEmailAlreadyRegistered?Email=smith%40example.com - 200 null application/json; charset=utf-8 928.4319ms
+2025-04-28 06:49:48.036 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5265/Account/IsEmailAlreadyRegistered?Email=smith%40example.com - null null
+2025-04-28 06:49:48.050 +08:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2025-04-28 06:49:48.054 +08:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2025-04-28 06:49:48.056 +08:00 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-04-28 06:49:48.062 +08:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-04-28 06:49:48.116 +08:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2025-04-28 06:49:48.124 +08:00 [INF] After logic - ResponseHeaderActionFilter
+2025-04-28 06:49:48.126 +08:00 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2025-04-28 06:49:48.131 +08:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 70.4076ms
+2025-04-28 06:49:48.135 +08:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2025-04-28 06:49:48.138 +08:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sun, 27 Apr 2025 22:49:47 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My-_key-From-Global: [Redacted]
+2025-04-28 06:49:48.140 +08:00 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 89.2255 ms
+2025-04-28 06:49:48.143 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5265/Account/IsEmailAlreadyRegistered?Email=smith%40example.com - 200 null application/json; charset=utf-8 107.3643ms

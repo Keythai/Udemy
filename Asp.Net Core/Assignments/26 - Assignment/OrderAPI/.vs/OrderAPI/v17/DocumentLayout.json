@@ -1,0 +1,769 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\services\\orderitems\\orderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\services\\orders\\ordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\services\\orders\\ordersgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15631BF-8AF2-4964-BA5C-DD62E76AB17E}|Repositories\\Repositories.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15631BF-8AF2-4964-BA5C-DD62E76AB17E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9591A0-162D-48E8-BFFC-47CE0386D453}|RepositoryContracts\\RepositoryContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\repositorycontracts\\repositorycontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D9591A0-162D-48E8-BFFC-47CE0386D453}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\repositorycontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\services\\orders\\ordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\services\\orders\\ordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\dto\\orderaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\services\\orderitems\\orderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\dto\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\dto\\orderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9591A0-162D-48E8-BFFC-47CE0386D453}|RepositoryContracts\\RepositoryContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\repositorycontracts\\iorderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9591A0-162D-48E8-BFFC-47CE0386D453}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\iorderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C652FA2A-BB4F-4A69-A6B4-1BC6C5124751}|Entities\\Entities.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C652FA2A-BB4F-4A69-A6B4-1BC6C5124751}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\dto\\orderitemaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderitemaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C652FA2A-BB4F-4A69-A6B4-1BC6C5124751}|Entities\\Entities.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C652FA2A-BB4F-4A69-A6B4-1BC6C5124751}|Entities\\Entities.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\orders\\iordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\services\\orderitems\\orderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\services\\orderitems\\orderitemsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116FBE5B-D1D5-4AC7-9516-002B3504314B}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\orders\\iordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\orders\\iordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\orders\\iordersgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\orderitems\\iorderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\orderitems\\iorderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\orderitems\\iorderitemsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\orderitems\\iorderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15631BF-8AF2-4964-BA5C-DD62E76AB17E}|Repositories\\Repositories.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\repositories\\orderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15631BF-8AF2-4964-BA5C-DD62E76AB17E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9591A0-162D-48E8-BFFC-47CE0386D453}|RepositoryContracts\\RepositoryContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\repositorycontracts\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9591A0-162D-48E8-BFFC-47CE0386D453}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\dto\\orderitemupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderitemupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\dto\\orderupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C652FA2A-BB4F-4A69-A6B4-1BC6C5124751}|Entities\\Entities.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C652FA2A-BB4F-4A69-A6B4-1BC6C5124751}|Entities\\Entities.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85BA332-8667-4935-A816-5E83A3ABDE81}|OrderAPI\\OrderAPI.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\orderapi\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85BA332-8667-4935-A816-5E83A3ABDE81}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{320FCCA0-38C0-4919-BEDA-B6FEBD8C0DB1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85BA332-8667-4935-A816-5E83A3ABDE81}|OrderAPI\\OrderAPI.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\orderapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85BA332-8667-4935-A816-5E83A3ABDE81}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429211335_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20250429211335_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429211122_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20250429211122_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429210824_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20250429210824_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429205732_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20250429205732_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429205651_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20250429205651_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85BA332-8667-4935-A816-5E83A3ABDE81}|OrderAPI\\OrderAPI.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85BA332-8667-4935-A816-5E83A3ABDE81}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85BA332-8667-4935-A816-5E83A3ABDE81}|OrderAPI\\OrderAPI.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F85BA332-8667-4935-A816-5E83A3ABDE81}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429203516_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20250429203516_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429202511_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20250429202511_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C652FA2A-BB4F-4A69-A6B4-1BC6C5124751}|Entities\\Entities.csproj|c:\\asp.net db\\udemy\\asp.net core\\assignments\\26 - assignment\\orderapi\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C652FA2A-BB4F-4A69-A6B4-1BC6C5124751}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersGetterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\Orders\\OrdersGetterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersGetterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\Orders\\OrdersGetterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersGetterService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:20:19.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrdersRepository.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "Repositories\\OrdersRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:13:06.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersUpdaterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\Orders\\OrdersUpdaterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersUpdaterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\Orders\\OrdersUpdaterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersUpdaterService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:20:09.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItemsUpdaterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:22:30.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryContracts.csproj",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\RepositoryContracts\\RepositoryContracts.csproj",
+              "RelativeDocumentMoniker": "RepositoryContracts\\RepositoryContracts.csproj",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\RepositoryContracts\\RepositoryContracts.csproj",
+              "RelativeToolTip": "RepositoryContracts\\RepositoryContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T21:35:51.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersDeleterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\Orders\\OrdersDeleterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersDeleterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\Orders\\OrdersDeleterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersDeleterService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:19:09.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersAdderService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\Orders\\OrdersAdderService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersAdderService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\Orders\\OrdersAdderService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersAdderService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:17:56.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderAddRequest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:41:31.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItemsAdderService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\OrderItems\\OrderItemsAdderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsAdderService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\OrderItems\\OrderItemsAdderService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:22:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderResponse.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderResponse.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:41:00.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItemResponse.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:42:29.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderItemsRepository.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\RepositoryContracts\\IOrderItemsRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IOrderItemsRepository.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\RepositoryContracts\\IOrderItemsRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IOrderItemsRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:36:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:49:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItemAddRequest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAywDYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:42:06.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:53:15.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrdersAdderService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:58:51.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderItemsDeleterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:22:57.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItemsGetterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\OrderItems\\OrderItemsGetterService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsGetterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Services\\OrderItems\\OrderItemsGetterService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsGetterService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:23:14.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrdersGetterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\Orders\\IOrdersGetterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersGetterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\Orders\\IOrdersGetterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersGetterService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwA8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:59:47.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrdersDeleterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:59:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrdersUpdaterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:00:03.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrderItemsAdderService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:55:01.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrderItemsDeleterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:54:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IOrderItemsGetterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\OrderItems\\IOrderItemsGetterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsGetterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\OrderItems\\IOrderItemsGetterService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsGetterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:54:53.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOrderItemsUpdaterService.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:55:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderItemsRepository.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Repositories\\OrderItemsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderItemsRepository.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Repositories\\OrderItemsRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderItemsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:41:01.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOrdersRepository.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\RepositoryContracts\\IOrdersRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IOrdersRepository.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\RepositoryContracts\\IOrdersRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IOrdersRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:36:10.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderItemUpdateRequest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:42:46.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderUpdateRequest.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:42:00.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:53:31.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\OrderAPI\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "OrderAPI\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\OrderAPI\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "OrderAPI\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:23:39.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServiceContracts.csproj",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T21:38:55.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\OrderAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\OrderAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:22:35.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250429211335_Initial.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429211335_Initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250429211335_Initial.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429211335_Initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250429211335_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:13:35.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250429211122_Initial.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429211122_Initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250429211122_Initial.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429211122_Initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250429211122_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:11:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250429210824_Initial.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429210824_Initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250429210824_Initial.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429210824_Initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250429210824_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:08:24.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250429205732_Initial.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429205732_Initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250429205732_Initial.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429205732_Initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250429205732_Initial.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:57:32.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250429205651_Initial.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429205651_Initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250429205651_Initial.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429205651_Initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250429205651_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:56:51.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\OrderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OrderAPI\\Program.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\OrderAPI\\Program.cs",
+              "RelativeToolTip": "OrderAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:57:19.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\OrderAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderAPI\\appsettings.json",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\OrderAPI\\appsettings.json",
+              "RelativeToolTip": "OrderAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T19:56:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250429203516_Initial.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429203516_Initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250429203516_Initial.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429203516_Initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250429203516_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:35:16.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250429202511_Initial.cs",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429202511_Initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250429202511_Initial.cs",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Migrations\\20250429202511_Initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250429202511_Initial.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:25:11.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\ASP.NET DB\\Udemy\\asp.net core\\Assignments\\26 - Assignment\\OrderAPI\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T19:49:40.947Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

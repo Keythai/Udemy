@@ -1,0 +1,13 @@
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\bin\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\bin\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\Entities.pdb
+C:\ASP.NET DB\Udemy\asp.net core\Assignments\26 - Assignment\OrderAPI\Entities\obj\Debug\net9.0\ref\Entities.dll
